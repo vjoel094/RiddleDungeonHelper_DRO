@@ -1,0 +1,82 @@
+/* Establecer altura al 100% y eliminar márgenes */
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+
+/* Fondo de pantalla completo */
+body {
+    /* background: linear-gradient(45deg, #2196F3, #21CBF3); /* Cambiar colores según prefieras */
+    background-image: url(bgweb.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Estilos para la tarjeta */
+.inputshelper {
+    background-color: rgb(255, 255, 255, 0.6);
+}
+
+.textlblhelper {
+    color: black;
+    font-weight: bold;
+}
+
+.tittlelblhelper {
+    color: black;
+    font-weight: bold;
+    color: #3d5afe;
+    font-size: 30px;
+    opacity: 0.8;
+}
+
+.tittle-text {
+    position: absolute;
+    top: 30px;
+    /* Ajusta la posición vertical según sea necesario */
+    left: 50%;
+    /* Centra horizontalmente */
+    transform: translateX(-50%);
+    /* Centra horizontalmente */
+    font-size: 40px;
+    font-weight: bold;
+    color: #3d5afe;
+    opacity: 0.8;
+    /* Transparencia */
+    text-align: center;
+    z-index: 1;
+    /* Asegura que esté encima del card */
+}
+
+.card {
+    width: 90%;
+    max-width: 600px;
+    /* Máximo ancho para mantener la legibilidad */
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    background-color: rgb(255, 255, 255, 0.6);
+    transition: box-shadow 0.3s, transform 0.3s;
+    /* Agregar transición */
+    border-radius: 15px;
+
+}
+
+.card:hover {
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+    /* Cambiar la sombra al pasar el mouse */
+    transform: translateY(-5px);
+    /* Levantar la tarjeta */
+    border-color: #3d5afe;
+    border: 1px solid #3d5afe;
+}
+
+/* Ocupar todo el ancho disponible */
+.card-body,
+.form-control {
+    width: 100%;
+}

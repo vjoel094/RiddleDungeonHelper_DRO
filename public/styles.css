@@ -1,0 +1,63 @@
+/* Estilo para el contenedor principal */
+.container {
+    width: 90%;
+    /* Ancho del contenedor */
+    margin: 0 auto;
+    /* Centrar el contenedor en la página */
+    text-align: center;
+    /* Centrar el texto dentro del contenedor */
+}
+
+/* Estilo para la etiqueta de título */
+#Label1 {
+    font-size: 24px;
+    /* Tamaño de fuente */
+    font-weight: bold;
+    /* Negrita */
+    color: #333;
+    /* Color del texto */
+    display: block;
+    /* Hacer que la etiqueta sea un bloque para que ocupe todo el ancho disponible */
+    margin-bottom: 20px;
+    /* Espacio inferior */
+}
+
+/* Estilo para el cuadro de texto */
+#TextBox1 {
+    width: calc(100% + 30px);
+    /* Ancho del cuadro de texto con un aumento de 30px */
+    padding: 10px;
+    /* Espaciado interno */
+    font-size: 16px;
+    /* Tamaño de fuente */
+    border: 1px solid #ccc;
+    /* Borde */
+    border-radius: 5px;
+    /* Bordes redondeados */
+    margin-bottom: 10px;
+    /* Espacio inferior */
+    box-sizing: border-box;
+    /* Incluye el relleno y el borde en el ancho total */
+}
+
+/* Estilo para el contenedor de sugerencias */
+#suggestionsContainer {
+    text-align: left;
+    /* Alinear el texto a la izquierda */
+    margin-bottom: 10px;
+    /* Espacio inferior */
+}
+
+/* Estilo para el contenedor de respuestas */
+#ResponsesContainer {
+    width: 100%;
+    /* Ancho del contenedor */
+    padding: 10px;
+    /* Espaciado interno */
+    font-size: 16px;
+    /* Tamaño de fuente */
+    border: 1px solid #ccc;
+    /* Borde */
+    border-radius: 5px;
+    /* Bordes redondeados */
+}
