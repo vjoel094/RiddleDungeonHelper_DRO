@@ -20,7 +20,7 @@
       <form id="form1" runat="server">
         <div class="mb-3">
           <label for="txtPregunta" class="form-label textlblhelper">Question:</label>
-          <textarea type="text" class="form-control inputshelper" oninput="autoResizeTextarea(this)" rows="4"
+          <textarea type="text" class="form-control inputshelper" rows="4"
             id="txtPregunta" placeholder="Enter question..."></textarea>
         </div>
         <!-- Área de texto -->
@@ -29,19 +29,13 @@
           <textarea class="form-control inputshelper" disabled id="txtareaRespuestas" rows="2"
             placeholder="Answer here"></textarea>
         </div>
-        <div id="suggestionsContainer" class="suggestions"></div>
+        <div id="suggestionsContainer" class="suggestionsContainer" ></div>
       </form>
     </div>
   </div>
 
   <script src="/scripts/questions.js"></script>
-  <script>
-    // Función para ajustar dinámicamente la altura del textarea
-    function autoResizeTextarea(element) {
-      element.style.height = "auto";
-      element.style.height = (element.scrollHeight) + "px";
-    }
-  </script>
+
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 </body>
