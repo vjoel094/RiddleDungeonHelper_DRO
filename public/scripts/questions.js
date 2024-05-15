@@ -4857,7 +4857,7 @@ $(function () {
             var selectedTerm = ui.item.value;
             var filteredResponses = [];
             var hasMatches = false;
-
+            
             Object.values(QA).forEach(function (item) {
                 if (item.term.toLowerCase().includes(selectedTerm.toLowerCase())) {
                     item.responses.forEach(function (response) {
