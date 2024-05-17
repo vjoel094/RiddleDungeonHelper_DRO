@@ -4835,14 +4835,9 @@ $(function () {
     // Obtener los términos del objeto QA para el autocompletado
     var availableTerms = Object.values(QA).map(item => item.term);
 
-    // Obtener el tamaño del txtPregunta
-    var textareaWidth = $('#txtPregunta').outerWidth();
-    var textareaHeight = $('#txtPregunta').outerHeight();
-
     // Inicializar el autocompletado en el input
     $("#txtPregunta").autocomplete({
         delay: 0,
-
         source: function (request, response) {
             // Reemplazar el carácter comodín '*' con una expresión regular compatible
             var term = request.term.replace(/ /g, '.*');
@@ -4852,12 +4847,13 @@ $(function () {
             });
             response(matches);
         },
+
         select: function (event, ui) {
             // Al seleccionar un término, filtrar las respuestas y mostrarlas en el textarea
             var selectedTerm = ui.item.value;
             var filteredResponses = [];
             var hasMatches = false;
-            
+
             Object.values(QA).forEach(function (item) {
                 if (item.term.toLowerCase().includes(selectedTerm.toLowerCase())) {
                     item.responses.forEach(function (response) {
@@ -4885,8 +4881,14 @@ $(function () {
             } else {
                 suggestionsContainer.style.display = 'none';
             }
+        },
+        open: function(event, ui) {
+          
+            var autocompleteWidth = $("#txtPregunta").outerWidth();
+          $(".ui-autocomplete").css("width", autocompleteWidth + "px");
         }
     });
+
     $("#txtPregunta").on('input', function () {
         if ($(this).val() === '') {
             $('#txtareaRespuestas').val('');

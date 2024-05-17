@@ -66,6 +66,21 @@ body {
 
 }
 
+.ui-autocomplete.ui-widget-content {
+    max-width: 100% !important;
+    max-height: 150px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    word-wrap: break-word;
+    background-color: #E4E1E0 !important; /* Agrega el color de fondo deseado */
+}
+.ui-autocomplete .ui-menu-item-wrapper::before {
+    content: "• "; /* Utiliza un punto negro grande (bullet) */
+    margin-right: 5px; /* Ajusta el margen para separar el punto del texto */
+    font-size: 1.5em; /* Ajusta el tamaño del punto según sea necesario */
+    color: black; /* Color del punto */
+}
+
 .card:hover {
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
     /* Cambiar la sombra al pasar el mouse */
