@@ -4134,7 +4134,7 @@ var QA =  {
     },
     "q990": {
         "term": "What is the type of ancient irismon?",
-        "responses": [Ancient Bird Human-type"]
+        "responses": ["Ancient Bird Human-type"]
     },
     "q991": {
         "term": "Metal greymon(blue) could not endure it when being transformed ...",
