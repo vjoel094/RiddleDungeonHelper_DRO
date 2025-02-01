@@ -2398,7 +2398,7 @@ var QA =  {
         "responses": ["Lv.100 -> Lv.51"]
     },
     "q551": {
-        "term": "Which of the following is not the Digimenta-Evolution version of Hawkmon?",
+        "term": "Which of the following is not the Digimental-Evolution version of Hawkmon?",
         "responses": ["Digmon"]
     },
     "q552": {
@@ -4820,6 +4820,7339 @@ var QA =  {
     "Q1159": {
         "term": "Who is the voice actor of Impmon?",
         "responses": ["Hiroki Takahashi"]
+    },
+    //New Questions need to be checked
+    "Q1160": {
+        "term": "Which of the following is not the Digimental-Evolution version of Hawkmon?.",
+        "responses": [
+            "Rinkmon"
+        ]
+    },
+    "Q1161": {
+        "term": "What is the name of the bird Valkyrimon carries around?.",
+        "responses": [
+            "Freyja"
+        ]
+    },
+    "Q1162": {
+        "term": "Which version added the item \"Evil Ring'\" to the Digimon RPG?.",
+        "responses": [
+            "Update Version 7.97"
+        ]
+    },
+    "Q1163": {
+        "term": "With how many coins can you buy the \"Pet Food (Pitchmon)\" in which Prince Mamemon sells in the Theme Park?.",
+        "responses": [
+            "10 Coins"
+        ]
+    },
+    "Q1164": {
+        "term": "How many Astamons are there on the Digimon Labyrinth 2F?.",
+        "responses": [
+            "4"
+        ]
+    },
+    "Q1165": {
+        "term": "What is the correct line of Barbamon on the Labyrinth HARD - 3F? [I have studied you guys for a long time. You use the ones from OOOOO. ].",
+        "responses": [
+            "cute"
+        ]
+    },
+    "Q1166": {
+        "term": "Where is the concerned Gekomon - the Evolution NPC of Otamamon, Syakomon - located?.",
+        "responses": [
+            "Gekomon Village"
+        ]
+    },
+    "Q1167": {
+        "term": "Which of the following is the language written on the Grey Sword of Omegamon?.",
+        "responses": [
+            "Grey Sword"
+        ]
+    },
+    "Q1168": {
+        "term": "Which Digimon does not show in the Royal Base?.",
+        "responses": [
+            "Omegamon X"
+        ]
+    },
+    "Q1169": {
+        "term": "According to the official setting, how many percent of the enemy's physical attacks does Bancho Leomon's gakuran void?.",
+        "responses": [
+            "0.999"
+        ]
+    },
+    "Q1170": {
+        "term": "What is the name of the motorcycle machine that is know as the property of Beelzebumon?.",
+        "responses": [
+            "Behemoth"
+        ]
+    },
+    "Q1171": {
+        "term": "Which part of Bancho Leomon's body is not bandaged?.",
+        "responses": [
+            "Waist"
+        ]
+    },
+    "Q1172": {
+        "term": "Which animal is the motif of Indramon, one of the Twelve Deities?.",
+        "responses": [
+            "Horse"
+        ]
+    },
+    "Q1173": {
+        "term": "Which animal is the motif of Mihiramon, one of the Twelve Deities?.",
+        "responses": [
+            "Rat"
+        ]
+    },
+    "Q1174": {
+        "term": "Which animal is the motif of Antylamon, one of the Twelve Deities?.",
+        "responses": [
+            "Sheep"
+        ]
+    },
+    "Q1175": {
+        "term": "Which animal is the motif of Majiramon, one of the Twelve Deities?.",
+        "responses": [
+            "Rabbit"
+        ]
+    },
+    "Q1176": {
+        "term": "Which animal is the motif of Caturamon, one of the Twelve Deities?.",
+        "responses": [
+            "Tiger"
+        ]
+    },
+    "Q1177": {
+        "term": "Which animal is the motif of Sinduramon, one of the Twelve Deities?.",
+        "responses": [
+            "Rat"
+        ]
+    },
+    "Q1178": {
+        "term": "Which animal is the motif of Makuramon, one of the Twelve Deities?.",
+        "responses": [
+            "Monkey"
+        ]
+    },
+    "Q1179": {
+        "term": "Which animal is the motif of Sandiramon, one of the Twelve Deities?.",
+        "responses": [
+            "Snake"
+        ]
+    },
+    "Q1180": {
+        "term": "Which animal is the motif of Pajiramon, one of the Twelve Deities?.",
+        "responses": [
+            "Rat"
+        ]
+    },
+    "Q1181": {
+        "term": "Which animal is the motif of Vikaralamon, one of the Twelve Deities?.",
+        "responses": [
+            "Horse"
+        ]
+    },
+    "Q1182": {
+        "term": "Which animal is the motif of Vajramon, one of the Twelve Deities?.",
+        "responses": [
+            "Rabbit"
+        ]
+    },
+    "Q1183": {
+        "term": "Which animal is the motif of Kumbhiramon, one of the Twelve Deities?.",
+        "responses": [
+            "Monkey"
+        ]
+    },
+    "Q1184": {
+        "term": "According to official settings, how many meters does the Vajramon's Skill 'Rodha' cracks in the front?.",
+        "responses": [
+            "40m"
+        ]
+    },
+    "Q1185": {
+        "term": "According to official settings, Sakuyamon uses 4 foxes, which of the following is not the properties of these 4 foxes?.",
+        "responses": [
+            "Fire"
+        ]
+    },
+    "Q1186": {
+        "term": "Which is the right Attributes of Puroromon?.",
+        "responses": [
+            "Data"
+        ]
+    },
+    "Q1187": {
+        "term": "Which Digimon cannot be evolved with Digimental-Evolution?.",
+        "responses": [
+            "Tocanmon"
+        ]
+    },
+    "Q1188": {
+        "term": "How much EVP is recovered when you use the \"Protein F\"?.",
+        "responses": [
+            "1500"
+        ]
+    },
+    "Q1189": {
+        "term": "Which Digimon cannot be replaced with \"Replacement Item 2 (for Tamed Digimon)\"?.",
+        "responses": [
+            "Armadimon"
+        ]
+    },
+    "Q1190": {
+        "term": "Among these card combinations, which increases the damage most?.",
+        "responses": [
+            "Small Spear & Data Explosion"
+        ]
+    },
+    "Q1191": {
+        "term": "Which Digimon is not included in the \"Replacement Item 2 (for Capture Digimon)\"?.",
+        "responses": [
+            "Armadimon"
+        ]
+    },
+    "Q1192": {
+        "term": "Choose the correct INT effect option of the \"Those Recognized by Qinglongmon [Title]\"..",
+        "responses": [
+            "INT +10"
+        ]
+    },
+    "Q1193": {
+        "term": "Which of the following is not used with \"Evoluter\"?.",
+        "responses": [
+            "Card-Evolution"
+        ]
+    },
+    "Q1194": {
+        "term": "Which of the following Skills is incorrectly paired with Digimon?.",
+        "responses": [
+            "Agumon - Baby Flame"
+        ]
+    },
+    "Q1195": {
+        "term": "What is the minimum grade score to become a Ladder-level Chrome Digizoid?.",
+        "responses": [
+            "2000 points"
+        ]
+    },
+    "Q1196": {
+        "term": "What is the minimum grade score to become a Ladder-level Brown Digizoid?.",
+        "responses": [
+            "2101 points"
+        ]
+    },
+    "Q1197": {
+        "term": "What percent of the people with 2401 points or higher amount to Ladder-level Black Digizoid?.",
+        "responses": [
+            "11% ~ 50%"
+        ]
+    },
+    "Q1198": {
+        "term": "What percent of the people with 2401 points or higher amount to Ladder-level Gold Digizoid?.",
+        "responses": [
+            "1% ~ 5%"
+        ]
+    },
+    "Q1199": {
+        "term": "How many extra card cases can you equip at maximum?.",
+        "responses": [
+            "8"
+        ]
+    },
+    "Q1200": {
+        "term": "What is the name of the piece Belial Vamdemon first appeared?.",
+        "responses": [
+            "DIGIMON ADVENTURE"
+        ]
+    },
+    "Q1201": {
+        "term": "According to official settings, which direction does Baihumon guard?.",
+        "responses": [
+            "East"
+        ]
+    },
+    "Q1202": {
+        "term": "According to official settings, which direction does Zhuqiaomon guard?.",
+        "responses": [
+            "East"
+        ]
+    },
+    "Q1203": {
+        "term": "According to official settings, which direction does Xuanwumon guard?.",
+        "responses": [
+            "East"
+        ]
+    },
+    "Q1204": {
+        "term": "According to official settings, which direction does Qinglongmon guard?.",
+        "responses": [
+            "East"
+        ]
+    },
+    "Q1205": {
+        "term": "Which of these Digimons are not part of Four Great Dragons?.",
+        "responses": [
+            "Qinglongmon"
+        ]
+    },
+    "Q1206": {
+        "term": "The Seven Great Demon Lords represent each sin, what kind of sin does Demon represent?.",
+        "responses": [
+            "Wrath"
+        ]
+    },
+    "Q1207": {
+        "term": "The Seven Great Demon Lords represent each sin, what kind of sin does Beelzebumon represent?.",
+        "responses": [
+            "Greed"
+        ]
+    },
+    "Q1208": {
+        "term": "The Seven Great Demon Lords represent each sin, what kind of sin does Lucemon represent?.",
+        "responses": [
+            "Envy"
+        ]
+    },
+    "Q1209": {
+        "term": "The Seven Great Demon Lords represent each sin, what kind of sin does Lilithmon represent?.",
+        "responses": [
+            "Pride"
+        ]
+    },
+    "Q1210": {
+        "term": "The Seven Great Demon Lords represent each sin, what kind of sin does Leviamon represent?.",
+        "responses": [
+            "Envy"
+        ]
+    },
+    "Q1211": {
+        "term": "The Seven Great Demon Lords represent each sin, what kind of sin does Belphemon represent?.",
+        "responses": [
+            "Wrath"
+        ]
+    },
+    "Q1212": {
+        "term": "The Seven Great Demon Lords represent each color, what kind of color does Demon represent?.",
+        "responses": [
+            "Orange"
+        ]
+    },
+    "Q1213": {
+        "term": "The Seven Great Demon Lords represent each color, what kind of color does Barbamon represent?.",
+        "responses": [
+            "Green"
+        ]
+    },
+    "Q1214": {
+        "term": "The Seven Great Demon Lords represent each color, what kind of color does Beelzebumon represent?.",
+        "responses": [
+            "Orange"
+        ]
+    },
+    "Q1215": {
+        "term": "The Seven Great Demon Lords represent each color, what kind of color does Lucemon represent?.",
+        "responses": [
+            "Green"
+        ]
+    },
+    "Q1216": {
+        "term": "The Seven Great Demon Lords represent each color, what kind of color does Lilithmon represent?.",
+        "responses": [
+            "Dark blue"
+        ]
+    },
+    "Q1217": {
+        "term": "The Seven Great Demon Lords represent each color, what kind of color does Leviamon represent?.",
+        "responses": [
+            "Green"
+        ]
+    },
+    "Q1218": {
+        "term": "The Seven Great Demon Lords represent each color, what kind of color does Belphemon represent?.",
+        "responses": [
+            "Dark blue"
+        ]
+    },
+    "Q1219": {
+        "term": "The Seven Great Demon Lords represent each planet, what kind of planet does Demon represent?.",
+        "responses": [
+            "Jupiter"
+        ]
+    },
+    "Q1220": {
+        "term": "The Seven Great Demon Lords represent each planet, what kind of planet does Barbamon represent?.",
+        "responses": [
+            "Mars"
+        ]
+    },
+    "Q1221": {
+        "term": "The Seven Great Demon Lords represent each planet, what kind of planet does Beelzebumon represent?.",
+        "responses": [
+            "Jupiter"
+        ]
+    },
+    "Q1222": {
+        "term": "The Seven Great Demon Lords represent each planet, what kind of planet does Lucemon represent?.",
+        "responses": [
+            "Mars"
+        ]
+    },
+    "Q1223": {
+        "term": "The Seven Great Demon Lords represent each planet, what kind of planet does Lilithmon represent?.",
+        "responses": [
+            "Mercury"
+        ]
+    },
+    "Q1224": {
+        "term": "The Seven Great Demon Lords represent each planet, what kind of planet does Leviamon represent?.",
+        "responses": [
+            "The Sun"
+        ]
+    },
+    "Q1225": {
+        "term": "The Seven Great Demon Lords represent each planet, what kind of planet does Belphemon represent?.",
+        "responses": [
+            "Mars"
+        ]
+    },
+    "Q1226": {
+        "term": "What is the name of the Digimon that made Beelzebumon's shotgun, Berenjena?.",
+        "responses": [
+            "Nanomon"
+        ]
+    },
+    "Q1227": {
+        "term": "What is the name of Berenjena -Beelzeemon's shotgun-'s brother gun made by the same master?.",
+        "responses": [
+            "Zinahorian"
+        ]
+    },
+    "Q1228": {
+        "term": "What was the name of the mechanized brigade Darkdramon belonged?.",
+        "responses": [
+            "D-Brigade"
+        ]
+    },
+    "Q1229": {
+        "term": "Which Digimon does not possess the Holy Ring?.",
+        "responses": [
+            "Hououmon"
+        ]
+    },
+    "Q1230": {
+        "term": "Which one is properly paired with the Digimon, that two were born from one Digitama?.",
+        "responses": [
+            "Zerimon - Cocomon"
+        ]
+    },
+    "Q1231": {
+        "term": "Which Chinese characters are written on King Etemon's chest?.",
+        "responses": [
+            "大玉"
+        ]
+    },
+    "Q1232": {
+        "term": "Which Digimon doll is on Etemon's waist?.",
+        "responses": [
+            "Monzaemon"
+        ]
+    },
+    "Q1233": {
+        "term": "What is the name of Grademon's weapon?.",
+        "responses": [
+            "Souken Gradalpha"
+        ]
+    },
+    "Q1234": {
+        "term": "What is the name of the NPC who helps evolve to Apocalymon in Digimon RPG game?.",
+        "responses": [
+            "Scary Jijimon"
+        ]
+    },
+    "Q1235": {
+        "term": "According to the Digimon Lore,which Digimon is the first riding type in Digital World?.",
+        "responses": [
+            "Submarimon"
+        ]
+    },
+    "Q1236": {
+        "term": "Which dragon's soul is placed as spheres on Hisyaryumon's both hands?.",
+        "responses": [
+            "Kinryu - Kakuryu"
+        ]
+    },
+    "Q1237": {
+        "term": "What kind of Digizoid is used on Chaosdramon's body?.",
+        "responses": [
+            "Red Digizoid"
+        ]
+    },
+    "Q1238": {
+        "term": "According to the Digimon Lore, how many grams is the weight of Vamdemon?.",
+        "responses": [
+            "17g"
+        ]
+    },
+    "Q1239": {
+        "term": "What kind of Digizoid forms the body of Megidramon?.",
+        "responses": [
+            "Gold Digizoid"
+        ]
+    },
+    "Q1240": {
+        "term": "What is the name of the magic shield Craniummon uses?.",
+        "responses": [
+            "Avalon"
+        ]
+    },
+    "Q1241": {
+        "term": "Which Digimon is the result of Blitz Greymon and Cres Garurumon's Jogress-Evolution?.",
+        "responses": [
+            "Omegamon Zwart"
+        ]
+    },
+    "Q1242": {
+        "term": "In which Episode of the animation <DIGIMON ADVENTURE> does Skull Greymon first appears?.",
+        "responses": [
+            "Episode 16"
+        ]
+    },
+    "Q1243": {
+        "term": "According to the Digimon Lore, on which side of the Digital World is Gankoomon's house located?.",
+        "responses": [
+            "Northwesternmost"
+        ]
+    },
+    "Q1244": {
+        "term": "Which Digimons are required to unite for Grace Novamon to be born?.",
+        "responses": [
+            "Neptunemon - Dianamon"
+        ]
+    },
+    "Q1245": {
+        "term": "Which Digimon is known to be in charge of the evil-destructing underworld with horror and violence?.",
+        "responses": [
+            "Demon"
+        ]
+    },
+    "Q1246": {
+        "term": "Which Digimon is not affected by the Black Digitron?.",
+        "responses": [
+            "Omegamon Zwart"
+        ]
+    },
+    "Q1247": {
+        "term": "What is the name of Cres Garurumon's weapon?.",
+        "responses": [
+            "Kiji Engetsutou"
+        ]
+    },
+    "Q1248": {
+        "term": "What month and day was the official Digimon RPG NA website opened? (Based on PST).",
+        "responses": [
+            "July 20"
+        ]
+    },
+    "Q1249": {
+        "term": "According to the Digimon Lore, how many grams is the weight of Skull Satamon?.",
+        "responses": [
+            "26g"
+        ]
+    },
+    "Q1250": {
+        "term": "Which Digimon is known as Goatmon's natural enemy?.",
+        "responses": [
+            "Beel Starmon"
+        ]
+    },
+    "Q1251": {
+        "term": "What is the name of the pistol Beel Starmon use?.",
+        "responses": [
+            "Rizoma de Loto"
+        ]
+    },
+    "Q1252": {
+        "term": "What is the name of the fight club's 2nd place reward item?.",
+        "responses": [
+            "2nd place of Fight Club"
+        ]
+    },
+    "Q1253": {
+        "term": "Which of the following cannot be gained with DigiCode (H)?.",
+        "responses": [
+            "Royal Knights Force"
+        ]
+    },
+    "Q1254": {
+        "term": "Which of the following cannot be gained with DigiCode (H)?.",
+        "responses": [
+            "Evolution Return"
+        ]
+    },
+    "Q1255": {
+        "term": "Which of the following cannot be gained with DigiCode (H)?.",
+        "responses": [
+            "Disk of Virus"
+        ]
+    },
+    "Q1256": {
+        "term": "Which of the following cannot be gained with DigiCode (V)?.",
+        "responses": [
+            "Digimon's Blessing"
+        ]
+    },
+    "Q1257": {
+        "term": "Which of the following cannot be gained with DigiCode (V)?.",
+        "responses": [
+            "Jump Gate X"
+        ]
+    },
+    "Q1258": {
+        "term": "Which of the following cannot be gained with DigiCode (V)?.",
+        "responses": [
+            "Aura T of Deva [1 Day]"
+        ]
+    },
+    "Q1259": {
+        "term": "What is this item that can be purchased at the Ladder Shop as a necessary material item to make Gabumon into Gabumon(Black)?.",
+        "responses": [
+            "Spirit of Darkness"
+        ]
+    },
+    "Q1260": {
+        "term": "Which of the following is not an item that can be obtained from the \"Buff Item Box\"?.",
+        "responses": [
+            "Strawberry Juice"
+        ]
+    },
+    "Q1261": {
+        "term": "What is the name of this Digimon that is considered as the king of vampire Digimon?.",
+        "responses": [
+            "Vamdemon"
+        ]
+    },
+    "Q1262": {
+        "term": "What is the name of the Digimon born from a museum's ethnic dance DB?.",
+        "responses": [
+            "Matadrmon"
+        ]
+    },
+    "Q1263": {
+        "term": "What is the name of the Digimon called as thet 'Angel of Charity'?.",
+        "responses": [
+            "Cupimon"
+        ]
+    },
+    "Q1264": {
+        "term": "When was the 1st Episode of <Digimon Data Squad> broadcasted in Japan?.",
+        "responses": [
+            "April 1, 2006"
+        ]
+    },
+    "Q1265": {
+        "term": "How many 'Teleport : Darkness Dungeon 3F' are needed to make \"DigiMemory (BR)\"?.",
+        "responses": [
+            "35"
+        ]
+    },
+    "Q1266": {
+        "term": "What are the material items that are not required to make the \"Teleport : Darkness Dungeon 3F\"?.",
+        "responses": [
+            "Skull Satamon's Staff"
+        ]
+    },
+    "Q1267": {
+        "term": "What is the correct word for OOO in Belial Vamdemon's official description? [The living artillery on both its left and right OOOs, \"Sodom\" and \"Gomorrah\" respectively, leech off of it.].",
+        "responses": [
+            "Arms"
+        ]
+    },
+    "Q1268": {
+        "term": "How many Episodes are there in the animation <DIGIMON TAMERS>?.",
+        "responses": [
+            "50 Episodes"
+        ]
+    },
+    "Q1269": {
+        "term": "Who is the NPC Digimon that helps you move to the Royal Base?.",
+        "responses": [
+            "Omegamon"
+        ]
+    },
+    "Q1270": {
+        "term": "How many Episodes are there in the animation <DIGIMON FRONTIER>?.",
+        "responses": [
+            "50 Episodes"
+        ]
+    },
+    "Q1271": {
+        "term": "Which Digimon show up as Kang Jae Ho's partner in the animation <DIGIMON TAMERS>?.",
+        "responses": [
+            "Guilmon"
+        ]
+    },
+    "Q1272": {
+        "term": "What is the correct word for OOO in Hackmon's official description? [A Small Dragon Digimon that shines a cool white. Its unfettered and restraint-hating, adventure-loving way of life is likely due to Gankoomon's OOO.].",
+        "responses": [
+            "Dream"
+        ]
+    },
+    "Q1273": {
+        "term": "According to the Digimon Lore, how many grams is the weight of Ikkakumon?.",
+        "responses": [
+            "25g"
+        ]
+    },
+    "Q1274": {
+        "term": "Who sang 'My Tommorrow' the ending theme of 1st series of <DIGIMON TAMERS> in Japan?.",
+        "responses": [
+            "Takayoshi Tanimoto"
+        ]
+    },
+    "Q1275": {
+        "term": "Who composed 'Always, No  matter when', the ending theme of <DIGIMON ADVENTURE 02> 2nd season in Japan?.",
+        "responses": [
+            "Yoshiko Miura"
+        ]
+    },
+    "Q1276": {
+        "term": "How many 'Snowballs' did you need in exchange for 1 \"Imperfect Spirit of Ice (B) X\" in the [2022 Chackmon vs Agnimon] event?.",
+        "responses": [
+            "50"
+        ]
+    },
+    "Q1277": {
+        "term": "Who composed 'My Tomorrow', the ending theme of <DIGIMON ADVENTURE 02> 1st season in Japan?.",
+        "responses": [
+            "Yu Matsuki"
+        ]
+    },
+    "Q1278": {
+        "term": "What other item can get other than '6 Buff Item Boxes' from the \"Buff item Box x6\" product in the In-Game Shop?.",
+        "responses": [
+            "DR's Earned Coin"
+        ]
+    },
+    "Q1279": {
+        "term": "Who sang 'Innocent ~as it is~', the ending theme of <DIGIMON FRONTIER> 1st season in Japan?.",
+        "responses": [
+            "Koji Wada"
+        ]
+    },
+    "Q1280": {
+        "term": "Who composed 'With The Will', theme of <DIGIMON FRONTIER> Spirit Evolution in Japan?.",
+        "responses": [
+            "Riku Sanjo"
+        ]
+    },
+    "Q1281": {
+        "term": "Who wrote the lyrics of 'The last element', theme of <DIGIMON FRONTIER> Hyper Spirit Evolution in Japan?.",
+        "responses": [
+            "Ayumi Miyazaki"
+        ]
+    },
+    "Q1282": {
+        "term": "Which is the correct color of D-3 of Motomiya Daisuke, one of <DIGIMON ADVENTURE 02>'s main character?.",
+        "responses": [
+            "Blue"
+        ]
+    },
+    "Q1283": {
+        "term": "Which is the correct color of D-3 of Hida Iori, one of <DIGIMON ADVENTURE 02>'s main character?.",
+        "responses": [
+            "Blue"
+        ]
+    },
+    "Q1284": {
+        "term": "Which is the correct color of D-3 of Ichijouji Ken, one of <DIGIMON ADVENTURE 02>'s main character?.",
+        "responses": [
+            "Blue"
+        ]
+    },
+    "Q1285": {
+        "term": "What is the Japanese name of Gennai?.",
+        "responses": [
+            "Gennai"
+        ]
+    },
+    "Q1286": {
+        "term": "Which Digimon is the queen ruling all Dokugumon according to official settings?.",
+        "responses": [
+            "Infermon"
+        ]
+    },
+    "Q1287": {
+        "term": "In which year was Ken Ichijouji chosen in Power Digimon?.",
+        "responses": [
+            "2000"
+        ]
+    },
+    "Q1288": {
+        "term": "Evilmon's lethal move, Nightmare Shock, fires OO from its mouth. What is it?.",
+        "responses": [
+            "Nuclear Energy"
+        ]
+    },
+    "Q1289": {
+        "term": "How much ATK does Magnamon's Crest increase?.",
+        "responses": [
+            "140"
+        ]
+    },
+    "Q1290": {
+        "term": "How much DEF does Magnamon's Crest increase?.",
+        "responses": [
+            "30"
+        ]
+    },
+    "Q1291": {
+        "term": "How much Battle Rating does Magnamon's Crest increase?.",
+        "responses": [
+            "300"
+        ]
+    },
+    "Q1292": {
+        "term": "How much DEF does the item Crest of Sincerity +7 increase?.",
+        "responses": [
+            "50"
+        ]
+    },
+    "Q1293": {
+        "term": "How much Battle Rating does the item Crest of Sincerity +6 increase?.",
+        "responses": [
+            "350"
+        ]
+    },
+    "Q1294": {
+        "term": "Which of the following is not an unisex avatar item?.",
+        "responses": [
+            "Spanline jeans (Beige)"
+        ]
+    },
+    "Q1295": {
+        "term": "What is the name of the item required for Millenniumon's 100% chance to evolve?.",
+        "responses": [
+            "Spirit of Darkness"
+        ]
+    },
+    "Q1296": {
+        "term": "What is the name of Zanbamon's weapon on its right hand?.",
+        "responses": [
+            "Ryuzan-maru"
+        ]
+    },
+    "Q1297": {
+        "term": "What is the name of the sacred shield Sleipmon uses?.",
+        "responses": [
+            "Niflheimr"
+        ]
+    },
+    "Q1298": {
+        "term": "What kind of Digizoid forms the full-body armour of Sleipmon?.",
+        "responses": [
+            "Brown Digizoid"
+        ]
+    },
+    "Q1299": {
+        "term": "What Attributes is not included in Digimon RPG?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q1300": {
+        "term": "How many drills does Digmon have?.",
+        "responses": [
+            "3"
+        ]
+    },
+    "Q1301": {
+        "term": "How many arms does Kongoumon have?.",
+        "responses": [
+            "8"
+        ]
+    },
+    "Q1302": {
+        "term": "Which of the following is not one of the Warrior Ten?.",
+        "responses": [
+            "Ancient Greymon"
+        ]
+    },
+    "Q1303": {
+        "term": "Which of the following is not one of the Warrior Ten?.",
+        "responses": [
+            "Ancient Mermaimon "
+        ]
+    },
+    "Q1304": {
+        "term": "Which of the following is not one of the Warrior Ten?.",
+        "responses": [
+            "Ancient Garurumon"
+        ]
+    },
+    "Q1305": {
+        "term": "According to official settings, how many meters is the wings of Valdurmon at maximum?.",
+        "responses": [
+            "10m"
+        ]
+    },
+    "Q1306": {
+        "term": "What is the name of the gigantic sword Titamon uses?.",
+        "responses": [
+            "Zanjantou"
+        ]
+    },
+    "Q1307": {
+        "term": "With which Digimon's bone is the gigantic sword Titamon uses made of?.",
+        "responses": [
+            "Skull Greymon"
+        ]
+    },
+    "Q1308": {
+        "term": "Which Digimon became sworn brother with Deadly Axemon?.",
+        "responses": [
+            "Dark Knightmon"
+        ]
+    },
+    "Q1309": {
+        "term": "Which Digimon became sworn brother with Skull Knightmon?.",
+        "responses": [
+            "Deadly Axemon"
+        ]
+    },
+    "Q1310": {
+        "term": "Which Digimon is Gankoomon training to make one succeed after according to official settings?.",
+        "responses": [
+            "Zubaeagermon"
+        ]
+    },
+    "Q1311": {
+        "term": "Which \"Replacement Item\" should you use when you want to change it to Betamon?.",
+        "responses": [
+            "Replacement Item 1"
+        ]
+    },
+    "Q1312": {
+        "term": "According to official settings, what is Qinglongmon's type?.",
+        "responses": [
+            "Evil Dramon-type"
+        ]
+    },
+    "Q1313": {
+        "term": "According to the Digimon Lore, how many volts does Raidenmon's Kierian brand cause corona discharge?.",
+        "responses": [
+            "35000-volts"
+        ]
+    },
+    "Q1314": {
+        "term": "What is the name of the equipment equipped on Holy Angemon's right arm?.",
+        "responses": [
+            "Holy Sword Excalibur"
+        ]
+    },
+    "Q1315": {
+        "term": "How many wings does Holy Angemon have?.",
+        "responses": [
+            "4 wings"
+        ]
+    },
+    "Q1316": {
+        "term": "According to the Digimon Lore, how many grams is the weight of Holy Angelmon?.",
+        "responses": [
+            "21g"
+        ]
+    },
+    "Q1317": {
+        "term": "According to the Digimon Lore, how many grams is the weight of Angewomon?.",
+        "responses": [
+            "25g"
+        ]
+    },
+    "Q1318": {
+        "term": "According to the Digimon Lore, how many grams is the weight of Ginryumon?.",
+        "responses": [
+            "10g"
+        ]
+    },
+    "Q1319": {
+        "term": "According to the Digimon Lore, how many volts does Thunder ball, Thunderballmon's Skill shoot?.",
+        "responses": [
+            "100000-volts"
+        ]
+    },
+    "Q1320": {
+        "term": "Which Digimon is considered as Leomon's rival according to official settings?.",
+        "responses": [
+            "Saber Leomon"
+        ]
+    },
+    "Q1321": {
+        "term": "According to the Digimon Lore, how many grams is the weight of Leomon?.",
+        "responses": [
+            "15g"
+        ]
+    },
+    "Q1322": {
+        "term": "What is the name of the Partner Digimon of Sukamon according to the official settings?.",
+        "responses": [
+            "Tyumon"
+        ]
+    },
+    "Q1323": {
+        "term": "Which of the following is not the Digimental-Evolution version of Hawkmon?.",
+        "responses": [
+            "Shurimon"
+        ]
+    },
+    "Q1324": {
+        "term": "What is the attributes of Holy Angemon?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q1325": {
+        "term": "With how many \"Barbamon's Essence\" can the \"Barbamon's Staff\" be bought?.",
+        "responses": [
+            "5"
+        ]
+    },
+    "Q1326": {
+        "term": "What is the name of Armagemon's F2 Skill?.",
+        "responses": [
+            "Ultimate Flare"
+        ]
+    },
+    "Q1327": {
+        "term": "What is the name of Rosemon's F2 Skill?.",
+        "responses": [
+            "Tifaret"
+        ]
+    },
+    "Q1328": {
+        "term": "What is Gran Kuwagamon's nickname according to official settings?.",
+        "responses": [
+            "Master of Forest"
+        ]
+    },
+    "Q1329": {
+        "term": "What is the common name of the launcher Chackmon carries around?.",
+        "responses": [
+            "Romeo"
+        ]
+    },
+    "Q1330": {
+        "term": "What is the name of the weapon Kaiser Greymon uses?.",
+        "responses": [
+            "Ryubonken"
+        ]
+    },
+    "Q1331": {
+        "term": "How many percentages of Metal Mamemon's body is mechanized?.",
+        "responses": [
+            "0.8"
+        ]
+    },
+    "Q1332": {
+        "term": "What is the nickname of Mamemon?.",
+        "responses": [
+            "Smiley Bomber"
+        ]
+    },
+    "Q1333": {
+        "term": "What is the Title that can be gained at Digimon Lv.120?.",
+        "responses": [
+            "A New Start"
+        ]
+    },
+    "Q1334": {
+        "term": "According to the Digimon Lore, which Digimon is Hookmon traveling after?.",
+        "responses": [
+            "White Whamon"
+        ]
+    },
+    "Q1335": {
+        "term": "How many maps exist in the Real World?.",
+        "responses": [
+            "13 Maps"
+        ]
+    },
+    "Q1336": {
+        "term": "What is Harpymon's nickname according to official settings?.",
+        "responses": [
+            "Snatchir"
+        ]
+    },
+    "Q1337": {
+        "term": "Which of the following items does not come out from the \"Buff Item Box\"?.",
+        "responses": [
+            "Hoppang"
+        ]
+    },
+    "Q1338": {
+        "term": "What is the percentage of succeeding Jogress-Evolution of Apocalymon?.",
+        "responses": [
+            "0.03"
+        ]
+    },
+    "Q1339": {
+        "term": "What is the percentage of succeeding reinforcement from Avatar +7 to Avatar +8?.",
+        "responses": [
+            "0.05"
+        ]
+    },
+    "Q1340": {
+        "term": "What kind of Digizoid forms the holy armor of Ulforce V-dramon?.",
+        "responses": [
+            "Brown Digizoid"
+        ]
+    },
+    "Q1341": {
+        "term": "What is the status of Boarmon in Digimon RPG?.",
+        "responses": [
+            "STR-3 / AGI-0 / CON-4 / INT-1"
+        ]
+    },
+    "Q1342": {
+        "term": "Which of the following is not the Digimon Metal Garurumon can evolve into?.",
+        "responses": [
+            "Z'd Garurumon"
+        ]
+    },
+    "Q1343": {
+        "term": "What is the attributes of Keramon?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q1344": {
+        "term": "What is the name of the super-heavyweight axe Olegmon uses?.",
+        "responses": [
+            "Dual Tomahawk"
+        ]
+    },
+    "Q1345": {
+        "term": "What is Olegmon raising in the chest on his right shoulder?.",
+        "responses": [
+            "Ymir"
+        ]
+    },
+    "Q1346": {
+        "term": "What is Olegmon raising in the chest on his left shoulder?.",
+        "responses": [
+            "Hrungnir"
+        ]
+    },
+    "Q1347": {
+        "term": "Which Digimon's flying ability did Mervamon gain to become Jet Mervamon?.",
+        "responses": [
+            "Pegasmon"
+        ]
+    },
+    "Q1348": {
+        "term": "How old is Kimura Kouichi in the animation <DIGIMON FRONTIER>?.",
+        "responses": [
+            "10 years old"
+        ]
+    },
+    "Q1349": {
+        "term": "How old is Kimura Kouichi in the animation <DIGIMON FRONTIER>?.",
+        "responses": [
+            "September 12, 1991"
+        ]
+    },
+    "Q1350": {
+        "term": "How old is Orimoto Izumi in the animation <DIGIMON FRONTIER>?.",
+        "responses": [
+            "February 14, 1991"
+        ]
+    },
+    "Q1351": {
+        "term": "How old is Shibayama Junpei in the animation <DIGIMON FRONTIER>?.",
+        "responses": [
+            "10 years old"
+        ]
+    },
+    "Q1352": {
+        "term": "How old is Kanbara Takuya in the animation <DIGIMON FRONTIER>?.",
+        "responses": [
+            "August 21, 1991"
+        ]
+    },
+    "Q1353": {
+        "term": "How old is Himi Tomoki in the animation <DIGIMON FRONTIER>?.",
+        "responses": [
+            "8 years old"
+        ]
+    },
+    "Q1354": {
+        "term": "Which city became the background of the animation <DIGIMON TAMERS>?.",
+        "responses": [
+            "Harajuku"
+        ]
+    },
+    "Q1355": {
+        "term": "According to official settings, what is Astamon's type?.",
+        "responses": [
+            "Demon Man-type"
+        ]
+    },
+    "Q1356": {
+        "term": "Which Digimon is known to have attempted to scribble on the faces of all Four Holy Beasts?.",
+        "responses": [
+            "Impmon"
+        ]
+    },
+    "Q1357": {
+        "term": "Which Digimon of Legend-level exists on the east of Gekomon forest?.",
+        "responses": [
+            "Dinohumon"
+        ]
+    },
+    "Q1358": {
+        "term": "What is the role of Babamon in the Babamon Village?.",
+        "responses": [
+            "Crest & Digimental"
+        ]
+    },
+    "Q1359": {
+        "term": "What are the sports facilities in Park Town?.",
+        "responses": [
+            "Basketball Hoop stands"
+        ]
+    },
+    "Q1360": {
+        "term": "What is the role of Demi Frigimon in the Tsuchidarumon?.",
+        "responses": [
+            "Digimon Center"
+        ]
+    },
+    "Q1361": {
+        "term": "How much is the HP of Armagemon that appears in the Labyrinth HARD - 1F?.",
+        "responses": [
+            "16650 HP"
+        ]
+    },
+    "Q1362": {
+        "term": "Which Digimon does not appear in the Labyrinth HARD - 1F?.",
+        "responses": [
+            "Knightmon"
+        ]
+    },
+    "Q1363": {
+        "term": "What is the coordinate of the 'Pillar of Light' in the West of Square World?.",
+        "responses": [
+            "(102, 13)"
+        ]
+    },
+    "Q1364": {
+        "term": "Where is the location Magnamon X can be evolved?.",
+        "responses": [
+            "Time Village"
+        ]
+    },
+    "Q1365": {
+        "term": "How many Gekomon's eggs are needed to evolve Otamamon?.",
+        "responses": [
+            "70 eggs"
+        ]
+    },
+    "Q1366": {
+        "term": "How much is the HP of Elite-level Indaramon(Lv.96) that appears in the Sky Dungeon 1F?.",
+        "responses": [
+            "2752 HP"
+        ]
+    },
+    "Q1367": {
+        "term": "Which Digimon does not exist in the art work of Digimon RPG's official website?.",
+        "responses": [
+            "Mihiramon"
+        ]
+    },
+    "Q1368": {
+        "term": "What is the status of Andromon?.",
+        "responses": [
+            "STR-2 / AGI-2 / CON-3 / INT-1"
+        ]
+    },
+    "Q1369": {
+        "term": "What is the attributes of Chimairamon?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q1370": {
+        "term": "What is the name of Woodmon's F2 Skill?.",
+        "responses": [
+            "Cross Fight"
+        ]
+    },
+    "Q1371": {
+        "term": "What is the name of Tyrannomon's F2 Skill?.",
+        "responses": [
+            "Slash Nail"
+        ]
+    },
+    "Q1372": {
+        "term": "What is the name of Monzaemon's F2 Skill?.",
+        "responses": [
+            "Ai no Houkou"
+        ]
+    },
+    "Q1373": {
+        "term": "What is the level of Leviamon's clone in the Waterspace?.",
+        "responses": [
+            "Lv.165"
+        ]
+    },
+    "Q1374": {
+        "term": "What is the percentage of succeeding reinforcement from Avatar +7 to Avatar +8?.",
+        "responses": [
+            "0.05"
+        ]
+    },
+    "Q1375": {
+        "term": "What is Musyamon's lethal move?.",
+        "responses": [
+            "Drain Slash"
+        ]
+    },
+    "Q1376": {
+        "term": "To which NPC should you go when using the \"Over Program\"?.",
+        "responses": [
+            "Delumon"
+        ]
+    },
+    "Q1377": {
+        "term": "The location synchronization function in the Digimon RPG game can be used every few minutes, how many minutes does it take to use it again?.",
+        "responses": [
+            "3 minutes"
+        ]
+    },
+    "Q1378": {
+        "term": "In the Digimon RPG's terms and conditions about cash, which clause indicates the terrms about 'usage of DR cash'?.",
+        "responses": [
+            "Article 3"
+        ]
+    },
+    "Q1379": {
+        "term": "Which of the following is not a Digimon that Bakumon can evolve?.",
+        "responses": [
+            "Mammon"
+        ]
+    },
+    "Q1380": {
+        "term": "Which version added the Christmas tree decorating Event for the first time?.",
+        "responses": [
+            "Update Version 8.75"
+        ]
+    },
+    "Q1381": {
+        "term": "When was the '2012 Digimon RPG Guild ComPetition' Event held?.",
+        "responses": [
+            "August 1"
+        ]
+    },
+    "Q1382": {
+        "term": "What is the shortcut of Digimon guide in Digimon RPG?.",
+        "responses": [
+            "(Q) key"
+        ]
+    },
+    "Q1383": {
+        "term": "Which of the following is not the Characteristic of Ulforce V-dramon?.",
+        "responses": [
+            "Double Attack"
+        ]
+    },
+    "Q1384": {
+        "term": "According to official settings, what is Ofanimon's type?.",
+        "responses": [
+            "Seraph-type"
+        ]
+    },
+    "Q1385": {
+        "term": "Which of the following is not the Characteristic of Ancient Volcamon?.",
+        "responses": [
+            "Wall of Wind"
+        ]
+    },
+    "Q1386": {
+        "term": "According to official settings, what is Craniummon's type?.",
+        "responses": [
+            "Holy Knight-type"
+        ]
+    },
+    "Q1387": {
+        "term": "Which 'Prototype Cyborg Digimon' was created at the same time with Andromon according to the official settings?.",
+        "responses": [
+            "Hi Andromon"
+        ]
+    },
+    "Q1388": {
+        "term": "According to official settings, what is Silphymon's type?.",
+        "responses": [
+            "Dragon Man-type"
+        ]
+    },
+    "Q1389": {
+        "term": "Which of the following is not Machine-type Digimon?.",
+        "responses": [
+            "Mugendramon"
+        ]
+    },
+    "Q1390": {
+        "term": "According to official settings, Alphamon is called as control of Holy Knight and OOO Royal Knights. What is the word in OOO?.",
+        "responses": [
+            "The Highest Rank"
+        ]
+    },
+    "Q1391": {
+        "term": "What is the total of Royal knights members and Olympos XII members?.",
+        "responses": [
+            "24 members"
+        ]
+    },
+    "Q1392": {
+        "term": "Except Normal(Original) Omegamon, how many types of Omegamons are there?.",
+        "responses": [
+            "4 types"
+        ]
+    },
+    "Q1393": {
+        "term": "How many times of Magna Garurumon's blast ability does Metal Garurumon X have?.",
+        "responses": [
+            "2 times"
+        ]
+    },
+    "Q1394": {
+        "term": "Beelzebumon : Blast Mode's status was different back then, what was the status like?.",
+        "responses": [
+            "4420"
+        ]
+    },
+    "Q1395": {
+        "term": "Digimon above Mega-level, It is in Mega-level but has the power exceeding Mega-level. It would be best to call them OOOO. What's the word for OOOO?.",
+        "responses": [
+            "Mega Ultimate"
+        ]
+    },
+    "Q1396": {
+        "term": "Imperialdramon : Paladin Mode is OO of Royal Knights. What's the word for OO?.",
+        "responses": [
+            "Founder"
+        ]
+    },
+    "Q1397": {
+        "term": "Which Digimon dies in 3 minutes after appearing in DIGITAL MONSTER X-EVOLUTION?.",
+        "responses": [
+            "Raremon"
+        ]
+    },
+    "Q1398": {
+        "term": "What is the name of the huge ice cube Daipenmon carries around in his left hand?.",
+        "responses": [
+            "Dorodoro-kun"
+        ]
+    },
+    "Q1399": {
+        "term": "Dukemon : Crimson Mode of Royal Knights appeared as the OOOO and Royal Knight's top class. What's the word for OOOO?.",
+        "responses": [
+            "Almighty"
+        ]
+    },
+    "Q1400": {
+        "term": "Before the name Omegamon Zwart D was announced in the <DIGIMON WORLD -next 0rder->, it wsa called as OOO. What is the name of OOOO?.",
+        "responses": [
+            "Warrior"
+        ]
+    },
+    "Q1401": {
+        "term": "Which Title increases All stats +20, ATK +20, Characteristic Activation Chances +3%?.",
+        "responses": [
+            "All Master of Waterspace"
+        ]
+    },
+    "Q1402": {
+        "term": "Which Digimon's name should be included in [The Crest of OOO], the title of Episode 49 of <DIGIMON ADVENTURE>?.",
+        "responses": [
+            "Courage"
+        ]
+    },
+    "Q1403": {
+        "term": "In <DIGIMON ADVENTURE> Episode 45, what is the name of this existence that explains how the 'Chosen Children' were chosen by borrowing the body of Yagami Hikari?.",
+        "responses": [
+            "Homeestasis"
+        ]
+    },
+    "Q1404": {
+        "term": "Who pays for Motomiya Daisuke and his company when they couldn't pay because they did not have dollars in Episode 14 of <DIGIMON ADVENTURE 02>?.",
+        "responses": [
+            "Michael"
+        ]
+    },
+    "Q1405": {
+        "term": "Where is Dien, whose Partner Digimon is Gorillamon, who appears as the Chosen Children in <DIGIMON ADVENTURE 02> from?.",
+        "responses": [
+            "Thailand"
+        ]
+    },
+    "Q1406": {
+        "term": "Which Digimon is Maria's Partner Digimon, who appears as American among the Chosen Children in <DIGIMON ADVENTURE 02>?.",
+        "responses": [
+            "Ganimon"
+        ]
+    },
+    "Q1407": {
+        "term": "In the 28th Episode of <DIGIMON ADVENTURE>, while choosing the Digimon card used for the return to the real world, which card did Yagami Taichi finally choose?.",
+        "responses": [
+            "Gomamon"
+        ]
+    },
+    "Q1408": {
+        "term": "What is the name of the Illustrator who drew the picture for <DIGIMON ADVENTURE V-Tamer 01>, the first full-length comic book in the Digimon series?.",
+        "responses": [
+            "Hiroshi Izawa"
+        ]
+    },
+    "Q1409": {
+        "term": "Which was the last Digimon among the Dark Masters defeated by Yagami Taichi's company in the <DIGIMON ADVENTURE>?.",
+        "responses": [
+            "Pinochimon"
+        ]
+    },
+    "Q1410": {
+        "term": "Which Skill did Apocalymon, the last boss of <DIGIMON ADVENTURE>, not use?.",
+        "responses": [
+            "Trump Sword"
+        ]
+    },
+    "Q1411": {
+        "term": "What is the title of <DIGIMON ADVENTURE>'s second movie, considered as the best among Digimon Movies where Royal Knights Omegamon was first to be in the film?.",
+        "responses": [
+            "Digimon Tamers: The Runaway Digimon Express"
+        ]
+    },
+    "Q1412": {
+        "term": "What is the title of the second page of 'Digimon Adventure tri.'?.",
+        "responses": [
+            "Confession"
+        ]
+    },
+    "Q1413": {
+        "term": "What is the title of the third page of 'Digimon Adventure tri.'?.",
+        "responses": [
+            "Coexistence"
+        ]
+    },
+    "Q1414": {
+        "term": "What is the title of the fourth page of 'Digimon Adventure tri.'?.",
+        "responses": [
+            "Loss"
+        ]
+    },
+    "Q1415": {
+        "term": "What is the title of the fifth page of 'Digimon Adventure tri.'?.",
+        "responses": [
+            "Reunion"
+        ]
+    },
+    "Q1416": {
+        "term": "What is the title of the sixth page of 'Digimon Adventure tri.'?.",
+        "responses": [
+            "Determination"
+        ]
+    },
+    "Q1417": {
+        "term": "Which Digimon is the origin of the Super Ultimate that debuted in the 'Digimon Adventure V-Tamer 01' and was included to the official world through Digimon Story Cyber Sleuth Hackers Memory?.",
+        "responses": [
+            "Demon : Super Ultimate"
+        ]
+    },
+    "Q1418": {
+        "term": "In the game 'Digimon Battle Terminal', Huanglongmon appeared as the boss after Ogudomon in the place OOOO. What is the name of this place?.",
+        "responses": [
+            "Pail Island"
+        ]
+    },
+    "Q1419": {
+        "term": "What is Mervamon's type?.",
+        "responses": [
+            "Dragon Man-type"
+        ]
+    },
+    "Q1420": {
+        "term": "Which Digimon did not exist in the Sky Dungeon 2F in 2010?.",
+        "responses": [
+            "Anubimon"
+        ]
+    },
+    "Q1421": {
+        "term": "How many Fusion Forms are there in Spirit?.",
+        "responses": [
+            "2 forms"
+        ]
+    },
+    "Q1422": {
+        "term": "Which one has X-Antibody on its own?.",
+        "responses": [
+            "JESmon"
+        ]
+    },
+    "Q1423": {
+        "term": "Which of the following does not describe Alphamon?.",
+        "responses": [
+            "Illusory Holy Knight"
+        ]
+    },
+    "Q1424": {
+        "term": "Which of the following describes Alphamon correctly?.",
+        "responses": [
+            "Transcendental Warrior"
+        ]
+    },
+    "Q1425": {
+        "term": "Which Tamer appears in the <Digimon Chronicle>?.",
+        "responses": [
+            "Doumoto Kouta"
+        ]
+    },
+    "Q1426": {
+        "term": "Unknown strongest Digimon appears by the Jogress of 1.0, and 2.0! To which Digimon was this phrase used?.",
+        "responses": [
+            "Alphamon : Ouryuken"
+        ]
+    },
+    "Q1427": {
+        "term": "Which Attributes does not interact with any other, and has connection with the Ancient Species?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q1428": {
+        "term": "Which of the following is not a God Man-type Digimon?.",
+        "responses": [
+            "Susanoomon"
+        ]
+    },
+    "Q1429": {
+        "term": "Susanoomon is the strongest god of destruction and handles OO at the same time in the <DIGIMON FRONTIER>. What's the word for OO?.",
+        "responses": [
+            "Regeneration"
+        ]
+    },
+    "Q1430": {
+        "term": "What is the name of the weapon Susanoomon handles?.",
+        "responses": [
+            "Orochi"
+        ]
+    },
+    "Q1431": {
+        "term": "Zeed' of Zeed Millenniumon originated from 'Zed', another name for the alphabet 'Z'. What does 'Zed' mean?.",
+        "responses": [
+            "The Original"
+        ]
+    },
+    "Q1432": {
+        "term": "Magnamon X is the ultimate form of OO Digizoid with the highest purity, and when overheated during Battle, Magnamon's armour shines and turens into XX Digizoid status with absolute defense. What's the word for OO and XX?.",
+        "responses": [
+            "Blue - Gold"
+        ]
+    },
+    "Q1433": {
+        "term": "What is the type of Medieval Dukemon?.",
+        "responses": [
+            "Warrior-type"
+        ]
+    },
+    "Q1434": {
+        "term": "What is the name of the weapon Lord Knightmon mainly uses?.",
+        "responses": [
+            "Urgent Fear"
+        ]
+    },
+    "Q1435": {
+        "term": "Dukemon Crimson Mode is the result of Dukemon and the 'ZERO-ARMS'. What is the name of 'ZERO-ARMS'?.",
+        "responses": [
+            "Groni"
+        ]
+    },
+    "Q1436": {
+        "term": "How much of physical damage does the 'GAKU-RAN' of Bancho Leomon void?.",
+        "responses": [
+            "0.89"
+        ]
+    },
+    "Q1437": {
+        "term": "What is the type of Shine Greymon?.",
+        "responses": [
+            "Beast-type"
+        ]
+    },
+    "Q1438": {
+        "term": "What is the type of Shine Greymon : Burst Mode?.",
+        "responses": [
+            "Beast-type"
+        ]
+    },
+    "Q1439": {
+        "term": "What is the type of Shine Greymon : Ruin Mode?.",
+        "responses": [
+            "Beast-type"
+        ]
+    },
+    "Q1440": {
+        "term": "Who is in charge of deterrence among Royal Knights?.",
+        "responses": [
+            "Omegamon"
+        ]
+    },
+    "Q1441": {
+        "term": "Which Digimon is at the strongest among the Legend-Arms?.",
+        "responses": [
+            "Ouryumon"
+        ]
+    },
+    "Q1442": {
+        "term": "Which Digimon has never been treated as Mega-level(+Super Ultimate-level) in official?.",
+        "responses": [
+            "Alphamon"
+        ]
+    },
+    "Q1443": {
+        "term": "What was the first production that 'Yggdrasill' made its first appearance?.",
+        "responses": [
+            "DIGITAL MONSTER X-EVOLUTION"
+        ]
+    },
+    "Q1444": {
+        "term": "What is the attributes of Omegamon Alter-S?.",
+        "responses": [
+            "Data"
+        ]
+    },
+    "Q1445": {
+        "term": "Which Digimon has different sum of status which increases per level-up?.",
+        "responses": [
+            "Rosemon(Lalamon Line)"
+        ]
+    },
+    "Q1446": {
+        "term": "Which Digimon has different sum of status which increases per level-up?.",
+        "responses": [
+            "Imperialdramon : Dragon Mode"
+        ]
+    },
+    "Q1447": {
+        "term": "This Digimon is virtual Digimon which was born from the 'Daydream of a Digicore' and called the incarnation of the 'Ultimate Enemy'. Which is this Digimon?.",
+        "responses": [
+            "DORUgoramon"
+        ]
+    },
+    "Q1448": {
+        "term": "What Digimon accomplishes the 1st rate of mission among Royal Knights?.",
+        "responses": [
+            "Alphamon"
+        ]
+    },
+    "Q1449": {
+        "term": "Who made Berenjena which is the weapon that Beelzebumon patronizes?.",
+        "responses": [
+            "Beelzebumon"
+        ]
+    },
+    "Q1450": {
+        "term": "Choose correct Digimon explained in the following statement. [There is a theory that this technique has its roots in Huanglongmon's lethal move, 'Oukai', although it isn't confirmed.].",
+        "responses": [
+            "Susanoomon"
+        ]
+    },
+    "Q1451": {
+        "term": "Lucemon's name originated in Italian word 'Luce'. What does 'Luce' mean?.",
+        "responses": [
+            "Darkness"
+        ]
+    },
+    "Q1452": {
+        "term": "On Lucemon’s body part, Digital Hazard mark is carved. What body part is it?.",
+        "responses": [
+            "Top of the Left Foot"
+        ]
+    },
+    "Q1453": {
+        "term": "This Digimon is Jogress-Evolution Digimon of Stingmon and XV-mon. Who is 'This Digimon'?.",
+        "responses": [
+            "Paildramon"
+        ]
+    },
+    "Q1454": {
+        "term": "What does Gaomon call Thoma H. Norstein in <Digimon Data Squad>?.",
+        "responses": [
+            "Master"
+        ]
+    },
+    "Q1455": {
+        "term": "Medieval Dukemon is Dukemon of the another dimension's Digital World, Witchelny, where this Digimon was born. Who is 'this Digimon'?.",
+        "responses": [
+            "Craniummon"
+        ]
+    },
+    "Q1456": {
+        "term": "Medieval Dukemon is barely seen by others in Digital World, but because of its splendidly decked armor and majestic appearance with the Crest, Medieval Dukemon is called 'The Warrior of OO' in Digital World. Fill in the blanks with right words..",
+        "responses": [
+            "Legend"
+        ]
+    },
+    "Q1457": {
+        "term": "It says that Medieval Dukemon doesn’t appear in original Digital World. However, with the power of this item, it can go to the Digital World. What is this item?.",
+        "responses": [
+            "Forest Leaf"
+        ]
+    },
+    "Q1458": {
+        "term": "How many wings does Ofanimon X have?.",
+        "responses": [
+            "8 wings"
+        ]
+    },
+    "Q1459": {
+        "term": "Which Digimon got a title of the strongest Digimon of all time?.",
+        "responses": [
+            "Death-X-DORUgoramon"
+        ]
+    },
+    "Q1460": {
+        "term": "Who was the Partner Digimon of hero character in Digimon series where the characters used D-scanner?.",
+        "responses": [
+            "Imperialdramon"
+        ]
+    },
+    "Q1461": {
+        "term": "What pattern is on the shoulder armor of Alphamon?.",
+        "responses": [
+            "Zero Unit"
+        ]
+    },
+    "Q1462": {
+        "term": "This Digimon is the Ultra-Digimon excelling Omegamon! Whose statement was it?.",
+        "responses": [
+            "Imperialdramon : Paladin Mode"
+        ]
+    },
+    "Q1463": {
+        "term": "On the swords of JESmon’s arm and tail, different Digimoji is written. Which Digimoji isn’t written on them?.",
+        "responses": [
+            "Overwrite"
+        ]
+    },
+    "Q1464": {
+        "term": "What is the correct name of Patamon's lethal move?.",
+        "responses": [
+            "Air Slam"
+        ]
+    },
+    "Q1465": {
+        "term": "Alphamon is the 'Royal Knight' assigned to the place called the [OOO OO]. Fill in the blanks with right answer..",
+        "responses": [
+            "Empty Place"
+        ]
+    },
+    "Q1466": {
+        "term": "Which one is Holy Knight-type Digimon that is called Royal Knights from the myth?.",
+        "responses": [
+            "Medieval Dukemon"
+        ]
+    },
+    "Q1467": {
+        "term": "Which Digimon has different sum of status which increases per level-up?.",
+        "responses": [
+            "Kongoumon"
+        ]
+    },
+    "Q1468": {
+        "term": "Which Digimon has different sum of status which increases per level-up?.",
+        "responses": [
+            "Omegamon"
+        ]
+    },
+    "Q1469": {
+        "term": "Which item can be sold in Item Store?.",
+        "responses": [
+            "D-ark of Attack"
+        ]
+    },
+    "Q1470": {
+        "term": "Which item can't be sold in Item Store?.",
+        "responses": [
+            "Unidentified Invitation"
+        ]
+    },
+    "Q1471": {
+        "term": "Which Digimon has more than 2 Characteristics?.",
+        "responses": [
+            "Diablomon"
+        ]
+    },
+    "Q1472": {
+        "term": "Which Digimon doesn’t have the Characteristic 'Madness'?.",
+        "responses": [
+            "Demon"
+        ]
+    },
+    "Q1473": {
+        "term": "Which Digimon has Melee Damage Skill?.",
+        "responses": [
+            "Zanbamon"
+        ]
+    },
+    "Q1474": {
+        "term": "Which information can’t be searched as you try to other user’s information by watching the Tamer Information?.",
+        "responses": [
+            "Tamer's Level"
+        ]
+    },
+    "Q1475": {
+        "term": "Which item is the most expensive as you purchase it in Item Store directly?.",
+        "responses": [
+            "Expansion Kit (for Bag)"
+        ]
+    },
+    "Q1476": {
+        "term": "Which Digimon has INT 0?.",
+        "responses": [
+            "Prairiemon"
+        ]
+    },
+    "Q1477": {
+        "term": "What Digimental is necessary for Wormmon Digimental-Evolution to Kongoumon?.",
+        "responses": [
+            "Digimental of Light"
+        ]
+    },
+    "Q1478": {
+        "term": "Which Digimon doesn’t have the attack Skill for 2 units?.",
+        "responses": [
+            "Pico Devimon"
+        ]
+    },
+    "Q1479": {
+        "term": "What is correct Characteristic of Bitmon?.",
+        "responses": [
+            "Aiming & In the Pit"
+        ]
+    },
+    "Q1480": {
+        "term": "Which one is correct Skill Name of Mushmon’s F2 Skill?.",
+        "responses": [
+            "Mush-Boom"
+        ]
+    },
+    "Q1481": {
+        "term": "Which works didn’t Lord Knightmon make its appearance?.",
+        "responses": [
+            "DIGITAL MONSTER X-EVOLUTION"
+        ]
+    },
+    "Q1482": {
+        "term": "Who obtains Excalibur?.",
+        "responses": [
+            "Seraphimon"
+        ]
+    },
+    "Q1483": {
+        "term": "The sword of Lord Knightmon X is similar to Duftmon's rapier. What is the name of the sword?.",
+        "responses": [
+            "Spiral Masquerade"
+        ]
+    },
+    "Q1484": {
+        "term": "What kinds of Digizoid constitutes Dynasmon X's silvery dragon armor that manifested the force of flying dragon gradually?.",
+        "responses": [
+            "Black Digizoid"
+        ]
+    },
+    "Q1485": {
+        "term": "Which one is not correct statement of Susanoomon?.",
+        "responses": [
+            "The Strongest Destructive God"
+        ]
+    },
+    "Q1486": {
+        "term": "What is the type of 'Yggdrasill_7D6'?.",
+        "responses": [
+            "God Man-type"
+        ]
+    },
+    "Q1487": {
+        "term": "Which one is not belong to 'Olympos XII'?.",
+        "responses": [
+            "Plutomon"
+        ]
+    },
+    "Q1488": {
+        "term": "What is the type of Alphamon: Ouryuken?.",
+        "responses": [
+            "Holy Knight-type"
+        ]
+    },
+    "Q1489": {
+        "term": "Among the Digimon of Olympos XII, who does Plutomon have the worst relationship with?.",
+        "responses": [
+            "Jupitermon"
+        ]
+    },
+    "Q1490": {
+        "term": "What is color of eyes of Beelzebumon : Blast Mode?.",
+        "responses": [
+            "Red"
+        ]
+    },
+    "Q1491": {
+        "term": "Who is not a member of Resistance, the group which appeared in 'DIGITAL MONSTER X-EVOLUTION'?.",
+        "responses": [
+            "Mummymon"
+        ]
+    },
+    "Q1492": {
+        "term": "Which Royal Knight didn’t make its appearance in 'DIGITAL MONSTER X-EVOLUTION'?.",
+        "responses": [
+            "Lord Knightmon"
+        ]
+    },
+    "Q1493": {
+        "term": "How much damage occurs when you use ‘Darkness Zone’ to Ranamon in Waterspace Undersea B at the first turn?.",
+        "responses": [
+            "6701 damages"
+        ]
+    },
+    "Q1494": {
+        "term": "Which Digimon has different sum of status which increases per level-up?.",
+        "responses": [
+            "Gargomon"
+        ]
+    },
+    "Q1495": {
+        "term": "Which Digimon hasn’t been called the strongest?.",
+        "responses": [
+            "Alphamon : Ouryuken"
+        ]
+    },
+    "Q1496": {
+        "term": "Vividness! The chaotic knight who transcended the good and the evil! Whose statement was it?.",
+        "responses": [
+            "Alphamon : Ouryuken"
+        ]
+    },
+    "Q1497": {
+        "term": "This Digimon is known as an ancestor of every Dramon-type Digimon. Who is this pure-blooded, Dragon-type Digimon?.",
+        "responses": [
+            "Slayerdramon"
+        ]
+    },
+    "Q1498": {
+        "term": "In D-scanner period, there were 3 Digimons who are called 3-General by the fandom. Which one is not belong to 3-Genenral?.",
+        "responses": [
+            "Huanglongmon"
+        ]
+    },
+    "Q1499": {
+        "term": "What is the type of Imperialdramon : Paladin Mode?.",
+        "responses": [
+            "Holy Knight-type"
+        ]
+    },
+    "Q1500": {
+        "term": "Which is the very first Digimon?.",
+        "responses": [
+            "Botamon"
+        ]
+    },
+    "Q1501": {
+        "term": "How many Earned Coins do you need as you buy Evil Ring, Black Digitron, X-Antibody Evolution Card Box, and Pitchmon at the Earned Coin Store?.",
+        "responses": [
+            "45 Coins"
+        ]
+    },
+    "Q1502": {
+        "term": "Some parts of Minervamon X’s hair has become enlarged, having an ego because of X-Antibody. Each part of its hair has name. What are the names?.",
+        "responses": [
+            "Left & Right"
+        ]
+    },
+    "Q1503": {
+        "term": "Vulcanusmon made 'Berenjena', the weapon of Beelzebumon. What does 'Berenjena' mean?.",
+        "responses": [
+            "Carrot"
+        ]
+    },
+    "Q1504": {
+        "term": "Vulcanusmon made 'Sanaoria', the weapon of Sparrowmon. What does 'Sanaoria' mean?.",
+        "responses": [
+            "Onion"
+        ]
+    },
+    "Q1505": {
+        "term": "Vulcanusmon made 'OroSalmon', the weapon of Astamon. What does 'OroSalmon' mean?.",
+        "responses": [
+            "Golden Salmon"
+        ]
+    },
+    "Q1506": {
+        "term": "Vulcanusmon made 'Rizoma de Loto', the weapon of Beel Starmon. What does 'Rizoma de Loto' mean?.",
+        "responses": [
+            "Cucumber"
+        ]
+    },
+    "Q1507": {
+        "term": "Which Digimon has the lethal move, 'Corona Blaster'?.",
+        "responses": [
+            "Shine Greymon : Burst Mode"
+        ]
+    },
+    "Q1508": {
+        "term": "In <DIGIMON WORLD -next 0rder->, what name does Tsuzuki Shoma give Omegamon Alter-B?.",
+        "responses": [
+            "Noah"
+        ]
+    },
+    "Q1509": {
+        "term": "Who is CAUTION! PURGATORY LEVEL 1 among Seven Great Demon Lords?.",
+        "responses": [
+            "Lucemon : Falldown Mode"
+        ]
+    },
+    "Q1510": {
+        "term": "What is the type of Death-X-mon?.",
+        "responses": [
+            "Unanalyzable-type"
+        ]
+    },
+    "Q1511": {
+        "term": "Which group is the strongest group of the Virtue beings?.",
+        "responses": [
+            "Three Archangels"
+        ]
+    },
+    "Q1512": {
+        "term": "Who has 'Dynas' the magical lance?.",
+        "responses": [
+            "Dynasmon"
+        ]
+    },
+    "Q1513": {
+        "term": "Which one is belong to the official story of Digimon?.",
+        "responses": [
+            "DIGIMON ADVENTURE"
+        ]
+    },
+    "Q1514": {
+        "term": "Which of the following is Gankoomon's lethal move?.",
+        "responses": [
+            "Chabudai made of Grey Digizoid"
+        ]
+    },
+    "Q1515": {
+        "term": "What does 'G' from JESmon GX mean? (Please select the meaning that was first known.).",
+        "responses": [
+            "Gankoomon"
+        ]
+    },
+    "Q1516": {
+        "term": "Who is equipped with holy hybrid equipment that is mixture of Red Digizoid, Blue Digizoid, Gold Digizoid, and Chrome Digizoid with the best purity?.",
+        "responses": [
+            "Alphamon : Ouryuken"
+        ]
+    },
+    "Q1517": {
+        "term": "What is the plan that Yggdrasill carried out for avoiding Digital Hazard?.",
+        "responses": [
+            "Project Ark"
+        ]
+    },
+    "Q1518": {
+        "term": "In which of the following works does Tamer not appear?.",
+        "responses": [
+            "DIgimon Chronicle"
+        ]
+    },
+    "Q1519": {
+        "term": "Which one is not Puppet-type?.",
+        "responses": [
+            "Sistermon Blanc"
+        ]
+    },
+    "Q1520": {
+        "term": "This Digimon was celebration Digimon of 10th anniversary and played an active role of protagonist Digimon in 'Digimon Battle Terminal 02', Which Digimon is this?.",
+        "responses": [
+            "Alphamon : Ouryuken"
+        ]
+    },
+    "Q1521": {
+        "term": "Who allied with Black War Greymon?.",
+        "responses": [
+            "Gran Kuwagamon"
+        ]
+    },
+    "Q1522": {
+        "term": "[Its destructive impulses have intensified and instincts have sharpened. Its lethal move is causing its Crown of Sloth to overflow with power, and firing a crimson energy wave from its claws at maximum output 'SEventh Penetrate'.] Which Digimon correspond.",
+        "responses": [
+            "Lucemon : Falldown Mode"
+        ]
+    },
+    "Q1523": {
+        "term": "How much HP does Gawappamon of the Passage of Waterspace Undersea?.",
+        "responses": [
+            "17540 HP"
+        ]
+    },
+    "Q1524": {
+        "term": "Which one has X-Antibody on its own?.",
+        "responses": [
+            "Grand Dracumon"
+        ]
+    },
+    "Q1525": {
+        "term": "Which one doesn’t regenerate in the East of Gear World?.",
+        "responses": [
+            "Mega Seadramon"
+        ]
+    },
+    "Q1526": {
+        "term": "[Chaosmon retains each of the Digicores of the Digimon before the Jogress, and maintains its form in a very incomplete state. Chaosmon is the codename for Digimon who \"should not exist\".] What is the attribute of Chaosmon?.",
+        "responses": [
+            "Virus"
+        ]
+    },
+    "Q1527": {
+        "term": "What is the name of the left arm's weapon of Chaosmon that was born by Jogress of Bancho Leomon and Darkdramon?.",
+        "responses": [
+            "Gigastick Cannon"
+        ]
+    },
+    "Q1528": {
+        "term": "Ultimate Chaosmon is Digimon which was born by Jogress of 4 Digimons. Which one is not belong to these 4 Digimons?.",
+        "responses": [
+            "Bancho Leomon"
+        ]
+    },
+    "Q1529": {
+        "term": "What Episode did Garudamon evolve for the first time in <DIGIMON ADVENTURE>?.",
+        "responses": [
+            "Episode 24"
+        ]
+    },
+    "Q1530": {
+        "term": "What is the color of commando uniform(tokko-fuku) that Bancho Lilimon wears?.",
+        "responses": [
+            "Red"
+        ]
+    },
+    "Q1531": {
+        "term": "What item doesn’t involved in manufacturing Memory of Belphemon : Rage Mode?.",
+        "responses": [
+            "Item Booster"
+        ]
+    },
+    "Q1532": {
+        "term": "Which one is not correct about the effect of an Item, \"Aura of High-Velocity\"?.",
+        "responses": [
+            "At the start of Battle, summons the leader and Partner Digimon."
+        ]
+    },
+    "Q1533": {
+        "term": "Among the following, choose the one that does not have the right number of 100% chance reinforcements for the Super Ultimate-level..",
+        "responses": [
+            "[Alphamon : Ouryuken] 80 times"
+        ]
+    },
+    "Q1534": {
+        "term": "Choose the correct answer for the ATK of \"Crest of Friendship +3\"..",
+        "responses": [
+            "ATK +30"
+        ]
+    },
+    "Q1535": {
+        "term": "How much chances are the gaining of \"Characteristic Capsule No. 1 (Defense)\" from \"X-Mas Gift Box\"?.",
+        "responses": [
+            "0.06583"
+        ]
+    },
+    "Q1536": {
+        "term": "In what Digimon did Gradalpha the saint sword of Alphamon originate?.",
+        "responses": [
+            "Alphamon : Ouryuken"
+        ]
+    },
+    "Q1537": {
+        "term": "How many \"Virus Killer (Mid class)\" were in 2019 Chuseok Capsule Machine?.",
+        "responses": [
+            "5"
+        ]
+    },
+    "Q1538": {
+        "term": "When was Duftmon added to Regen Navigation?.",
+        "responses": [
+            "Update Version 8.71"
+        ]
+    },
+    "Q1539": {
+        "term": "Who was the leader of Royal Knights before the beginning of Digimon Chronicle X's story?.",
+        "responses": [
+            "There is no leader."
+        ]
+    },
+    "Q1540": {
+        "term": "In what game did Chaosmon make the first appearance?.",
+        "responses": [
+            "Digimon Accel"
+        ]
+    },
+    "Q1541": {
+        "term": "In Digimon RPG in 2000, yellow star and OO colored birds span above the head of Digimon when it died. What was the color of those birds?.",
+        "responses": [
+            "Orange"
+        ]
+    },
+    "Q1542": {
+        "term": "What Digimon wasn’t on the main poster of <DIGIMON ADVENTURE Tri.> Chapter 2 [Determination]?.",
+        "responses": [
+            "Rosemon"
+        ]
+    },
+    "Q1543": {
+        "term": "What is the small monitor-shaped Digimon that is carried by Nene?.",
+        "responses": [
+            "Nimomon"
+        ]
+    },
+    "Q1544": {
+        "term": "What is Mega-level of Digimon which acted as an envoy of Homeostasis in '<DIGIMON ADVENTURE Tri.>?.",
+        "responses": [
+            "Alphamon"
+        ]
+    },
+    "Q1545": {
+        "term": "Which Burst Mode appeared in <Digimon Data Squad>?.",
+        "responses": [
+            "Sleipmon : Burst Mode"
+        ]
+    },
+    "Q1546": {
+        "term": "What was the meaning of Digimoji that discovered by Yagami Hikari in Dagomon’s Ocean?.",
+        "responses": [
+            "Innsmouse"
+        ]
+    },
+    "Q1547": {
+        "term": "What Digimon was the first partner of Akiyama Ryo, the Chosen Child?.",
+        "responses": [
+            "Wormmon"
+        ]
+    },
+    "Q1548": {
+        "term": "When is the date of birth of Akiyama Ryo, the Chosen Child?.",
+        "responses": [
+            "December 31, 1999"
+        ]
+    },
+    "Q1549": {
+        "term": "What is the correct translation of Digimoji that is written on the right arm of JESmon?.",
+        "responses": [
+            "Overwrite"
+        ]
+    },
+    "Q1550": {
+        "term": "What is the correct translation of Digimoji that is written on the left arm of JESmon?.",
+        "responses": [
+            "Transfer"
+        ]
+    },
+    "Q1551": {
+        "term": "What body part of JESmon is 'Forced Termination' written on?.",
+        "responses": [
+            "Left Leg"
+        ]
+    },
+    "Q1552": {
+        "term": "What is the meaning of Italian word 'Contento' that was spoken by Fairimon in <DIGIMON FRONTIER> Episode 50?.",
+        "responses": [
+            "Thanks"
+        ]
+    },
+    "Q1553": {
+        "term": "Magna Garurumon from <DIGIMON FRONTIER> was created by gathering the Spirits of 5 following Attributes. Which is the correct answer for these 5 Attributes?.",
+        "responses": [
+            "Light, Darkness, Electricity, Water, Metal"
+        ]
+    },
+    "Q1554": {
+        "term": "What building appears as the background in the scene of Imperialdramon’s Evolution?.",
+        "responses": [
+            "Pyramid"
+        ]
+    },
+    "Q1555": {
+        "term": "Cyclomon was originally a stalwart dragon warrior, but its right eye was crushed by the warrior OO, and it became an oni of revenge. In order to defeat OO, it has Strengthened and enlarged its right arm, and it is on the lookout for a chance to take it do.",
+        "responses": [
+            "XV-mon"
+        ]
+    },
+    "Q1556": {
+        "term": "How many beads float around Shakamon?.",
+        "responses": [
+            "12 beads"
+        ]
+    },
+    "Q1557": {
+        "term": "What body part of Guilmon X is the mark of Digital Hazard on?.",
+        "responses": [
+            "Body"
+        ]
+    },
+    "Q1558": {
+        "term": "What is the name of weapons on both arms of Megalo Growmon?.",
+        "responses": [
+            "Assault Balancer"
+        ]
+    },
+    "Q1559": {
+        "term": "What is the nickname of Black Megalo Growmon?.",
+        "responses": [
+            "King Black Dragon"
+        ]
+    },
+    "Q1560": {
+        "term": "What kind of Digizoid isn’t an ingredient of the armor of Dukemon X?.",
+        "responses": [
+            "Chrome Digizoid"
+        ]
+    },
+    "Q1561": {
+        "term": "What is the name of demonic shield that Chaos Dukemon has?.",
+        "responses": [
+            "Gargon"
+        ]
+    },
+    "Q1562": {
+        "term": "How many Gold Coin do you need as you want to buy \"Will of Fusion X, Omegamon Zwart DⅢ Evolution Card X, Exchange Ticket : Super Ultimate (Vaccine), Pet's Food (for Pitchmon), Speacial Taming Net X\" in Earned Coin Store?.",
+        "responses": [
+            "575 Coins"
+        ]
+    },
+    "Q1563": {
+        "term": "What is the type of Bryweludramon?.",
+        "responses": [
+            "Beast-type"
+        ]
+    },
+    "Q1564": {
+        "term": "What is the soldier Digimon who possesses an unparalleled sword called Jatetsufujin-maru?.",
+        "responses": [
+            "Tactimon"
+        ]
+    },
+    "Q1565": {
+        "term": "Which one is correct Digimon that appears on 93rd floor of Fight Club?.",
+        "responses": [
+            "Imperialdramon : Paladin Mode"
+        ]
+    },
+    "Q1566": {
+        "term": "Choose the initial Dinosaur-type Ultimate-level Digimon..",
+        "responses": [
+            "Dinorexmon"
+        ]
+    },
+    "Q1567": {
+        "term": "What is the minimum Digimon level required to Card-Evolution of Black Seraphimon?.",
+        "responses": [
+            "Lv.51"
+        ]
+    },
+    "Q1568": {
+        "term": "Which one is not correct work that Alphamon made an appearance in?.",
+        "responses": [
+            "DIGITAL MONSTER X-EVOLUTION"
+        ]
+    },
+    "Q1569": {
+        "term": "At the Agnimon & Chackmon Event, how many pieces of \"Embers or Ice Cubes\" are needed to exchange for each \"[Title]\"? <[Title] Item ex) Human Spirit of Fire [Title] X>.",
+        "responses": [
+            "30 pieces"
+        ]
+    },
+    "Q1570": {
+        "term": "What Update Version has the Characteristic Activation Chances of the item \"Master of Labyrinth HARD [Title]\" increased from +4% to +5%?.",
+        "responses": [
+            "Update Version 8.81"
+        ]
+    },
+    "Q1571": {
+        "term": "Which one is correct damage increase rate of <Dragon Emperor>, the Exclusive Characteristic of Examon?.",
+        "responses": [
+            "9% ~ 21%"
+        ]
+    },
+    "Q1572": {
+        "term": "How much time does it take to regenerate for Ravemon : Burst Mode, Mirage Gaogamon : Burst Mode, Dukemon : Crimson Mode which are the Legeng-level Monster of Sky Dungeon 3F?.",
+        "responses": [
+            "30 seconds"
+        ]
+    },
+    "Q1573": {
+        "term": "Which one is not correct effect option of \"Digimental of Love +10\"?.",
+        "responses": [
+            "STR +20"
+        ]
+    },
+    "Q1574": {
+        "term": "In <DIGIMON ADVENTURE> story, [The sky will be darkened by the wings of many bats. The fallen people will invoke the name of the Undead Digimon King. And when the clock strikes the Hour of the Beast, The Undead King will reveal himself in his true form, a.",
+        "responses": [
+            "04:44:44"
+        ]
+    },
+    "Q1575": {
+        "term": "Choose the correct effect option of \"Silver Necklace +4\"..",
+        "responses": [
+            "STR +4"
+        ]
+    },
+    "Q1576": {
+        "term": "How many basic stats can be added by using the system that converts the remaining Skill points of a Digimon(Lv.130)?.",
+        "responses": [
+            "28"
+        ]
+    },
+    "Q1577": {
+        "term": "What is the color of Thoma H. Norstein's <Digivice iC> in <Digimon Data Squad>?.",
+        "responses": [
+            "Blue"
+        ]
+    },
+    "Q1578": {
+        "term": "What is the armed artifical Digimon produced from the energy stolen from other Digimon, packed within a special rubber body and wear gear resembling gas masks?.",
+        "responses": [
+            "Mugendramon"
+        ]
+    },
+    "Q1579": {
+        "term": "[Although it often takes the shape of a crystal, it seems that, due to its hatred and anger against the enemies who oppose it, that shape can be changed.] Which Digimon correspond to this description?.",
+        "responses": [
+            "Chimairamon"
+        ]
+    },
+    "Q1580": {
+        "term": "[As it includes the whole of the Digital World's sins, Both the evil thoughts of the Seven Great Demon Lords and its destructive impulses have been amplified further by the X-Antibody, and the power oozing out of it is capable of causing the Digital World.",
+        "responses": [
+            "Ogudomon X"
+        ]
+    },
+    "Q1581": {
+        "term": "Who was the Ultimate-level Digimon that appeared for the first time in 2D animation among Digimons?.",
+        "responses": [
+            "Metal Greymon"
+        ]
+    },
+    "Q1582": {
+        "term": "What is F2 Skill of Craniummon?.",
+        "responses": [
+            "End Waltz"
+        ]
+    },
+    "Q1583": {
+        "term": "In <DIGIMON ADVENTURE 02>, Black War Greymon was mortally wounded by OOO and sealed the path to Digimon world by sacrificing its own life. Who was OOO?.",
+        "responses": [
+            "Oikawa Yuki"
+        ]
+    },
+    "Q1584": {
+        "term": "Which one has not X-Antibody on its own?.",
+        "responses": [
+            "Dinotigermon"
+        ]
+    },
+    "Q1585": {
+        "term": "Which Digimoji is not written on the sword of JESmon's arm, tail, and leg?.",
+        "responses": [
+            "Initialize"
+        ]
+    },
+    "Q1586": {
+        "term": "What is the color of Alphamon’s cape?.",
+        "responses": [
+            "Blue & White"
+        ]
+    },
+    "Q1587": {
+        "term": "According to official web encyclopedia, What is the attribute of Death-X-mon?.",
+        "responses": [
+            "Unknown"
+        ]
+    },
+    "Q1588": {
+        "term": "Which one is correct status of Kuramon?.",
+        "responses": [
+            "STR-3 / AGI-2 / CON-2 / INT-1"
+        ]
+    },
+    "Q1589": {
+        "term": "For making 3 of \"Digimental of Miracles +4\", you need 24 of \"Digimental of Sincerity +1\" and 24 of \"Digimental of Friendship +1\". How many \"Pico Devimon's Claw\" are necessary?.",
+        "responses": [
+            "288"
+        ]
+    },
+    "Q1590": {
+        "term": "How much VP increase rate of Vitamin A+B+C+D+E is?.",
+        "responses": [
+            "VP +300"
+        ]
+    },
+    "Q1591": {
+        "term": "What is Tamer level that is able to equip Accessory +7?.",
+        "responses": [
+            "Lv.1"
+        ]
+    },
+    "Q1592": {
+        "term": "In <DIGIMON ADVENTURE 02>, Black War Greymon destroyed OOOO for fighting against Qinglongmon. What is the word that goes into OOOO?.",
+        "responses": [
+            "Angel Stone"
+        ]
+    },
+    "Q1593": {
+        "term": "What Crest is carved on Brave Shield that is on the back of Black War Greymon?.",
+        "responses": [
+            "Crest of Light"
+        ]
+    },
+    "Q1594": {
+        "term": "Black War Greymon X sacrificed long flights for equipping OOO with outstanding explosive acceleration on its back. What is OOO?.",
+        "responses": [
+            "Buster"
+        ]
+    },
+    "Q1595": {
+        "term": "In <DIGIMON ADVENTURE 02>, Black War Greymon got attacked by Mammons to protect OOO, instead of fighting back. What is OOO?.",
+        "responses": [
+            "Chosen Child"
+        ]
+    },
+    "Q1596": {
+        "term": "Which Digimon can change into weapon?.",
+        "responses": [
+            "Alphamon : Ouryuken"
+        ]
+    },
+    "Q1597": {
+        "term": "Which one is correct armament of Alphamon?.",
+        "responses": [
+            "Kyukyoku Senjin Ouryuken"
+        ]
+    },
+    "Q1598": {
+        "term": "According to Plesiomon’s Evolution conditions, How much is the level of Digimon?.",
+        "responses": [
+            "Lv.51"
+        ]
+    },
+    "Q1599": {
+        "term": "Who was Digimon on the poster of <DIGIMON ADVENTURE Tri.> Chapter 5 : Coexistence?.",
+        "responses": [
+            "Alphamon, Omegamon"
+        ]
+    },
+    "Q1600": {
+        "term": "What is the correct Attributes of Fairimon?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q1601": {
+        "term": "What is the correct type of Shutumon?.",
+        "responses": [
+            "God Man-type"
+        ]
+    },
+    "Q1602": {
+        "term": "Which one is not correct Evolution Digimon that evolved with Spirit of Darkness?.",
+        "responses": [
+            "Lowemon"
+        ]
+    },
+    "Q1603": {
+        "term": "What is the name of Crest that is made of 2 of Mushmon’s seed, 3 of Elecmon's fur, and 10 of Mochimon's tear?.",
+        "responses": [
+            "Crest of Love"
+        ]
+    },
+    "Q1604": {
+        "term": "How much Battle Rating increases as you use \"High Speed Plug-In B\" and \"Speed Sevens\"?.",
+        "responses": [
+            "0.7"
+        ]
+    },
+    "Q1605": {
+        "term": "What is the effect option of \"2013 Battle ComPetition [Title]\"?.",
+        "responses": [
+            "DEF +100"
+        ]
+    },
+    "Q1606": {
+        "term": "Which one is correct effect option of Silver Robe card that is usually used in Ladder Battle?.",
+        "responses": [
+            "Damage reduced by 25%."
+        ]
+    },
+    "Q1607": {
+        "term": "Which Digimon doesn’t have zero Intelligence?.",
+        "responses": [
+            "Superstarmon"
+        ]
+    },
+    "Q1608": {
+        "term": "Which Digimons have same Characteristic combination?.",
+        "responses": [
+            "Waspmon, Geo Greymon"
+        ]
+    },
+    "Q1609": {
+        "term": "Which Digimon doesn’t have the Characteristic 'All at Once'?.",
+        "responses": [
+            "Kabuterimon"
+        ]
+    },
+    "Q1610": {
+        "term": "Which Digimon has the Characteristic 'Mid-Air'?.",
+        "responses": [
+            "Kyubimon"
+        ]
+    },
+    "Q1611": {
+        "term": "Which Digimon has Ranged Damage Skill?.",
+        "responses": [
+            "Fantomon"
+        ]
+    },
+    "Q1612": {
+        "term": "Which Digimon has most number of Characteristic?.",
+        "responses": [
+            "Mammon"
+        ]
+    },
+    "Q1613": {
+        "term": "Which material is not required to make \"Digimental of Fate\" with NPC Babamon?.",
+        "responses": [
+            "Kabuterimon's Horn piece"
+        ]
+    },
+    "Q1614": {
+        "term": "Which one is correct type of Caturamon?.",
+        "responses": [
+            "Beast-type"
+        ]
+    },
+    "Q1615": {
+        "term": "In <DIGIMON TAMERS>, Makuramon made an appearance as an unknown boy. What was the color of Makuramon’s cap?.",
+        "responses": [
+            "Black"
+        ]
+    },
+    "Q1616": {
+        "term": "Which one is not Bio-Hybrid that appeared in <Digimon Data Squad>?.",
+        "responses": [
+            "Bio Coatlmon"
+        ]
+    },
+    "Q1617": {
+        "term": "Which Digimon doesn’t appear as Ladder Bot in Ladder Battle?.",
+        "responses": [
+            "Marsmon"
+        ]
+    },
+    "Q1618": {
+        "term": "Goddramon, one of the Four Great Dragons Digimon, has the 'OO of Red Flame' that governs [XX] on the torso of his right hand. What words go into OO and XX?.",
+        "responses": [
+            "Chaos, Innovation"
+        ]
+    },
+    "Q1619": {
+        "term": "Goddramon, one of the Four Great Dragons Digimon, has the one sealed within the vambrace on its left hand is called 'OO of Blue Thunder', who governs over [XX]. What words go into OO and XX?.",
+        "responses": [
+            "Uber, Desire"
+        ]
+    },
+    "Q1620": {
+        "term": "What is nickname of Goddramon X?.",
+        "responses": [
+            "Strong-armed Fighting Dragon"
+        ]
+    },
+    "Q1621": {
+        "term": "What Digimon was born by Jogress of Raguelmon and Ofanimon : Falldown Mode in <DIGIMON ADVENTURE Tri.>?.",
+        "responses": [
+            "Meicrackmon : Vicious Mode"
+        ]
+    },
+    "Q1622": {
+        "term": "What is Rasenmon's evolution level?.",
+        "responses": [
+            "Champion-level"
+        ]
+    },
+    "Q1623": {
+        "term": "What is the evolution level of Rasenmon : Fury Mode?.",
+        "responses": [
+            "Mega-level"
+        ]
+    },
+    "Q1624": {
+        "term": "What is the type of Metallicdramon?.",
+        "responses": [
+            "NO DATA"
+        ]
+    },
+    "Q1625": {
+        "term": "What is the type of Raguelmon?.",
+        "responses": [
+            "Angel-type"
+        ]
+    },
+    "Q1626": {
+        "term": "What is the type of Rasielmon?.",
+        "responses": [
+            "Angel-type"
+        ]
+    },
+    "Q1627": {
+        "term": "What is the type of Voltobautamon?.",
+        "responses": [
+            "Demon Beast-type"
+        ]
+    },
+    "Q1628": {
+        "term": "What is the attribute of Volcanicdramon?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q1629": {
+        "term": "What is the type of Bancho Golemon?.",
+        "responses": [
+            "Warrior-type"
+        ]
+    },
+    "Q1630": {
+        "term": "What group does Bacchusmon belong to?.",
+        "responses": [
+            "Bio-Hybrid"
+        ]
+    },
+    "Q1631": {
+        "term": "What is the attribute of Rust Tyranomon?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q1632": {
+        "term": "How many arms does Vulcanusmon have?.",
+        "responses": [
+            "6 arms"
+        ]
+    },
+    "Q1633": {
+        "term": "What is the type of Shakamon?.",
+        "responses": [
+            "Invade-type"
+        ]
+    },
+    "Q1634": {
+        "term": "What is the type of Surfimon?.",
+        "responses": [
+            "Invade-type"
+        ]
+    },
+    "Q1635": {
+        "term": "Which Digimon using 'Aurora Stream', a beam fired from its chest as its lethal move?.",
+        "responses": [
+            "Susanoomon"
+        ]
+    },
+    "Q1636": {
+        "term": "According to the Digimon Lore, how many grams is the weight of Cho·Hakkaimon?.",
+        "responses": [
+            "25g"
+        ]
+    },
+    "Q1637": {
+        "term": "From the description of Cho·Hakkaimon [A feminine Digimon clothed in a OO costume. It was originally an Angel-species Digimon.] What is the word for OO?.",
+        "responses": [
+            "Star"
+        ]
+    },
+    "Q1638": {
+        "term": "According to the Digimon Lore, how many grams is the weight of Yatagaramon?.",
+        "responses": [
+            "15g"
+        ]
+    },
+    "Q1639": {
+        "term": "What is the type of Jyagamon?.",
+        "responses": [
+            "Plant-type"
+        ]
+    },
+    "Q1640": {
+        "term": "[It is a Perfect Digimon with a form resembling the Horse. As a follower of the Four Holy Beasts Digimon Zhuqiaomon, it has an intolerably arrogant personality.] Which Digimon correspond to this description?.",
+        "responses": [
+            "Andiramon"
+        ]
+    },
+    "Q1641": {
+        "term": "What Field does Omegamon Alter-B belong to?.",
+        "responses": [
+            "Virus Busters"
+        ]
+    },
+    "Q1642": {
+        "term": "What Field does Neptunemon belong to?.",
+        "responses": [
+            "Dark Area"
+        ]
+    },
+    "Q1643": {
+        "term": "What Field does Lilamon belong to?.",
+        "responses": [
+            "Virus Busters"
+        ]
+    },
+    "Q1644": {
+        "term": "Which item is not sold by NPC Clockmon(Item Store) in Time Village?.",
+        "responses": [
+            "Protein C"
+        ]
+    },
+    "Q1645": {
+        "term": "In Digimon RPG, there are Twelve Deities Digimons. Which of the following is not correct pair of each Digimon of Twelve Deities and its Skill? (Skill Name ⇔ Digimon Name).",
+        "responses": [
+            "Raurava ⇔ Majiramon"
+        ]
+    },
+    "Q1646": {
+        "term": "Which of the following is not correct pair of Digimon in Digimon RPG and its Skill? (Digimon Name ⇔ Skill Name).",
+        "responses": [
+            "Cerberumon ⇔ Hell Fire"
+        ]
+    },
+    "Q1647": {
+        "term": "What kinds of mode in Digimon RPG's HELP?.",
+        "responses": [
+            "General Mode, Field Mode"
+        ]
+    },
+    "Q1648": {
+        "term": "How much explanation is in Field Mode of Digimon RPG's HELP?.",
+        "responses": [
+            "30 explanations"
+        ]
+    },
+    "Q1649": {
+        "term": "How much explanation is in Battle Mode of Digimon RPG's HELP?.",
+        "responses": [
+            "15 explanations"
+        ]
+    },
+    "Q1650": {
+        "term": "Which of the following doesn’t include ‘Ancient’ in its type?.",
+        "responses": [
+            "Kiwimon"
+        ]
+    },
+    "Q1651": {
+        "term": "When you defeat Yukimi Botamon which appears as you answer correctly to the question in Room of Riddle, You can get 0.05% of total Experience Points. How much EXP do you gain as you defeat Yukimi Botamon after achieving Lv.77?.",
+        "responses": [
+            "964600 EXP"
+        ]
+    },
+    "Q1652": {
+        "term": "What is the type of Omekamon?.",
+        "responses": [
+            "Holy Knight-type"
+        ]
+    },
+    "Q1653": {
+        "term": "Which one is not Angel-type Digimon?.",
+        "responses": [
+            "Puttimon"
+        ]
+    },
+    "Q1654": {
+        "term": "Who has the nickname 'The Knight of Super-Steel'?.",
+        "responses": [
+            "Dynasmon"
+        ]
+    },
+    "Q1655": {
+        "term": "When Magnamon's muscles, or 'Chrome Digizoid', are strained, they temporarily transform into 'Gold Digizoid', when in the 'Gold Digizoid' state, its properties are similar to those of the OOOOO. What words will go into OOOOO?.",
+        "responses": [
+            "Huanglong Ore"
+        ]
+    },
+    "Q1656": {
+        "term": "Which one is correct choice of Mastemon’s type and Attributes?.",
+        "responses": [
+            "Angel-type, Vaccine"
+        ]
+    },
+    "Q1657": {
+        "term": "Which one is not Skills of Ogudomon?.",
+        "responses": [
+            "Oratio Grandioloqua"
+        ]
+    },
+    "Q1658": {
+        "term": "Sleipmon is armed with Muspellsheimr held in its left hand and Niflheimr in its right hand. What kind of weapon is Muspelheim and Niflheimr?.",
+        "responses": [
+            "Sword & Shield"
+        ]
+    },
+    "Q1659": {
+        "term": "What is the type of Blucomon?.",
+        "responses": [
+            "Holy Dragon-type"
+        ]
+    },
+    "Q1660": {
+        "term": "What is the type of Ludomon?.",
+        "responses": [
+            "Hybrid-type"
+        ]
+    },
+    "Q1661": {
+        "term": "What is the name of Goburimon that was brought up in a cold country of snow?.",
+        "responses": [
+            "Ice Goburimon"
+        ]
+    },
+    "Q1662": {
+        "term": "What is the type of Guardromon(Gold)?.",
+        "responses": [
+            "NO DATA"
+        ]
+    },
+    "Q1663": {
+        "term": "What is the attribute of Guardromon(Gold)?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q1664": {
+        "term": "Which one is not correct level of Boss Monster on the Royal Base 1F?.",
+        "responses": [
+            "Lord Knightmon, Lv.102"
+        ]
+    },
+    "Q1665": {
+        "term": "Among Four Great Dragons, which one can’t do X-Evolution with the energy of X-Antibody?.",
+        "responses": [
+            "Qinglongmon"
+        ]
+    },
+    "Q1666": {
+        "term": "Which Digimon doesn’t exist on the Darkness Dungeon 1F?.",
+        "responses": [
+            "EBEmon"
+        ]
+    },
+    "Q1667": {
+        "term": "Which of the following is correct material for 4th Robust Tamer Advancement Examination?.",
+        "responses": [
+            "Cyberdramon's Wings"
+        ]
+    },
+    "Q1668": {
+        "term": "How many kinds of materials do you need for Robust Tamer Advancement Examination?.",
+        "responses": [
+            "15 kinds"
+        ]
+    },
+    "Q1669": {
+        "term": "Which Digimon can’t be seen on the Darkness Dungeon 2F in Digimon RPG?.",
+        "responses": [
+            "Megidramon"
+        ]
+    },
+    "Q1670": {
+        "term": "What Digimon exists in Gear World?.",
+        "responses": [
+            "Were Garurumon"
+        ]
+    },
+    "Q1671": {
+        "term": "What Digimon exists in Gekomon Forest?.",
+        "responses": [
+            "Orgemon"
+        ]
+    },
+    "Q1672": {
+        "term": "Which one is correct type of Dracomon X?.",
+        "responses": [
+            "Beast Dragon-type"
+        ]
+    },
+    "Q1673": {
+        "term": "What is the attribute of Zeke Greymon?.",
+        "responses": [
+            "Free"
+        ]
+    },
+    "Q1674": {
+        "term": "[A Flame Digimon whose entire body is shrouded in crimson flames. As a Digimon generated from the defensive 'Firewall' which prevents illegal entries from the Internet and the like...] Which Digimon correspond to this description?.",
+        "responses": [
+            "Meramon"
+        ]
+    },
+    "Q1675": {
+        "term": "It is said that only the one that passes the ;Selection-D', a special selection test that screens through 100 Commandramon, can evolve to OO. Which is OO Digimon?.",
+        "responses": [
+            "Commandramon X"
+        ]
+    },
+    "Q1676": {
+        "term": "[An Armor-level Stegosaur Digimon that evolved through the power of the 'Digimental of Friendship'.] Which Digimon correspond to this description?.",
+        "responses": [
+            "Stegomon"
+        ]
+    },
+    "Q1677": {
+        "term": "[This Digimon is Wizarmon's comrade who came from 'Witchelny', the Digital World of another dimension.] Which Digimon correspond to this description?.",
+        "responses": [
+            "Yuki Agumon"
+        ]
+    },
+    "Q1678": {
+        "term": "[This Digimon is a vehicle Digimon just like Mechanorimon, Although its delicate balloon portion is protected by a metallic coating, it seems to still be under construction as its left flank is left exposed.] Which Digimon correspond to this description?.",
+        "responses": [
+            "Blimpmon"
+        ]
+    },
+    "Q1679": {
+        "term": "What is the type of Owlmon?.",
+        "responses": [
+            "Giant Bird-type"
+        ]
+    },
+    "Q1680": {
+        "term": "What is the type of Boogiemon?.",
+        "responses": [
+            "Dark Knight-type"
+        ]
+    },
+    "Q1681": {
+        "term": "Which Digimon has Unchi Nage (throwing poops) as its attack technique?.",
+        "responses": [
+            "Vegimon"
+        ]
+    },
+    "Q1682": {
+        "term": "What is the type of Moosemon?.",
+        "responses": [
+            "Ancient Beast-type"
+        ]
+    },
+    "Q1683": {
+        "term": "[A Digimon whose true identity is unknown, it arrived in the Digital World from another dimension in order to invade it.] Which Digimon correspond to this description?.",
+        "responses": [
+            "Gazimon"
+        ]
+    },
+    "Q1684": {
+        "term": "[This dragon is the servant of Knightmon, and rushes about the Battlefield carrying Knightmon on its back.] Which Digimon correspond to this description?.",
+        "responses": [
+            "Maildramon"
+        ]
+    },
+    "Q1685": {
+        "term": "[Shoutmon itself is said to have the mysterious trait of always having its OOO-brand mic in its possession.] What would go into OOO?.",
+        "responses": [
+            "McShouter"
+        ]
+    },
+    "Q1686": {
+        "term": "Which Digizoid is a material of Dragon armor of Dynasmon?.",
+        "responses": [
+            "Black Digizoid"
+        ]
+    },
+    "Q1687": {
+        "term": "According to the Digimon Lore, how many grams is the weight of Leomon X?.",
+        "responses": [
+            "15g"
+        ]
+    },
+    "Q1688": {
+        "term": "Which Digimon doesn’t make its appearance in Digimon X-Evolution?.",
+        "responses": [
+            "Blossomon"
+        ]
+    },
+    "Q1689": {
+        "term": "In <Digimon Data Squad>, Dynasmon swept this area with a single blow of Breath of Wyvern. Where was this area?.",
+        "responses": [
+            "Tokyo"
+        ]
+    },
+    "Q1690": {
+        "term": "Examon has sentient wings that called OOOOO. What would go into OOOOO?.",
+        "responses": [
+            "Caledfwlch"
+        ]
+    },
+    "Q1691": {
+        "term": "What is the name of gigantic lance of Examon?.",
+        "responses": [
+            "Ambrosius"
+        ]
+    },
+    "Q1692": {
+        "term": "What is the type of Omegamon Zwart D?.",
+        "responses": [
+            "Dragon Warrior-type"
+        ]
+    },
+    "Q1693": {
+        "term": "Garurumon is covered in blue, white, and silver-colored fur, it is a Beast Digimon with an appearance resembling a wolf. That fur is as hard as OO, which is said to be a legendary rare metal. What would go into OO?.",
+        "responses": [
+            "Mithril"
+        ]
+    },
+    "Q1694": {
+        "term": "In <DIGIMON ADVENTURE> Episode 6, what came out as Tachikawa Mimi inserted her coin in the vending machine?.",
+        "responses": [
+            "Coke"
+        ]
+    },
+    "Q1695": {
+        "term": "[This Digimon is a terrifying Digimon who tempts Digimon who have gone astray in the dark deep forest to go further and deeper into the woods, so that they will never break out of that forest.] Which Digimon correspond to this description?.",
+        "responses": [
+            "Woodmon"
+        ]
+    },
+    "Q1696": {
+        "term": "In <DIGIMON ADVENTURE> Episode 13, What Digimon became one with Devimon?.",
+        "responses": [
+            "Leomon"
+        ]
+    },
+    "Q1697": {
+        "term": "Drimogemon is fairly mischievous, and sometimes it takes the favorite bones that OOO has buried underground and hides them in different locations. What would go into OOO?.",
+        "responses": [
+            "Agumon"
+        ]
+    },
+    "Q1698": {
+        "term": "Which Digimon is made from Dark Tower in <DIGIMON ADVENTURE 02>?.",
+        "responses": [
+            "Thunderballmon"
+        ]
+    },
+    "Q1699": {
+        "term": "What is the name of Mugendramon’s army in <DIGIMON ADVENTURE>?.",
+        "responses": [
+            "Metal Empire"
+        ]
+    },
+    "Q1700": {
+        "term": "Which one is not field that Black Growmon belongs to?.",
+        "responses": [
+            "Unknown"
+        ]
+    },
+    "Q1701": {
+        "term": "What is the exact explanatioin of Black Growmon?.",
+        "responses": [
+            "Jet-black Demon Dragon"
+        ]
+    },
+    "Q1702": {
+        "term": "According to the Digimon Lore, how many grams is the weight of Raptordramon?.",
+        "responses": [
+            "20g"
+        ]
+    },
+    "Q1703": {
+        "term": "What is the name of device that Chosen Children use to send messages to each other in <DIGIMON ADVENTURE 02>?.",
+        "responses": [
+            "D-Terminal"
+        ]
+    },
+    "Q1704": {
+        "term": "Which one is not correct kind of Tailmon?.",
+        "responses": [
+            "Tailmon X"
+        ]
+    },
+    "Q1705": {
+        "term": "What Digimon in on bad terms with Bastemon?.",
+        "responses": [
+            "Kaiser Leomon"
+        ]
+    },
+    "Q1706": {
+        "term": "What did Digimon Kasier use as energy source of his base in <DIGIMON ADVENTURE 02>?.",
+        "responses": [
+            "Digimental of Kindness"
+        ]
+    },
+    "Q1707": {
+        "term": "What is the chance that the 'Royal Knights Force Card's All Delete' will be activated during a general battle with the Four Holy Beasts?.",
+        "responses": [
+            "0"
+        ]
+    },
+    "Q1708": {
+        "term": "What field does Victory Greymon belong to?.",
+        "responses": [
+            "Dragon's Roar"
+        ]
+    },
+    "Q1709": {
+        "term": "What field does Coronamon belong to?.",
+        "responses": [
+            "Unknown"
+        ]
+    },
+    "Q1710": {
+        "term": "Which one is correct effect option of \"Scent Of Roses [Title]\"?.",
+        "responses": [
+            "All stats +9"
+        ]
+    },
+    "Q1711": {
+        "term": "Which one is correct effect option of \"The Second Member of the GM Fan Club [Title]\"?.",
+        "responses": [
+            "All stats +9"
+        ]
+    },
+    "Q1712": {
+        "term": "What is the attribute of Zubaeagermon?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q1713": {
+        "term": "What is Zubaeagermon's evolution level?.",
+        "responses": [
+            "In-Training"
+        ]
+    },
+    "Q1714": {
+        "term": "What word is written on the helmet of Ludomon?.",
+        "responses": [
+            "10"
+        ]
+    },
+    "Q1715": {
+        "term": "What is the type of Moon Milleniummon?.",
+        "responses": [
+            "Mutant-type"
+        ]
+    },
+    "Q1716": {
+        "term": "Which Digimon's INT increases the most when levelling up?.",
+        "responses": [
+            "Pagumon(Oni)"
+        ]
+    },
+    "Q1717": {
+        "term": "Which Digimon's STR increases the most when levelling up?.",
+        "responses": [
+            "Pagumon(Oni)"
+        ]
+    },
+    "Q1718": {
+        "term": "What is the required level for Omegamon X’s Evolution?.",
+        "responses": [
+            "100"
+        ]
+    },
+    "Q1719": {
+        "term": "This Digimon is called “Aloof King” as it is well-versed in every knowledge. Which Digimon is this?.",
+        "responses": [
+            "Tentomon"
+        ]
+    },
+    "Q1720": {
+        "term": "What constitutes Baalmon's cape?.",
+        "responses": [
+            "Amulets from all times and places."
+        ]
+    },
+    "Q1721": {
+        "term": "“Warhead Dragon, that burns the atmosphere and penetrates the earth!” Which Digimon is this explaining about?.",
+        "responses": [
+            "Vermillimon"
+        ]
+    },
+    "Q1722": {
+        "term": "What kinds of Digizoid constitutes the armor of Aegisdramon?.",
+        "responses": [
+            "Chrome"
+        ]
+    },
+    "Q1723": {
+        "term": "This Rock Mineral-type Digimon was discovered when super ancient curse was on the interpretation process. On its back, Plague, Curse, Misfortune and the forbidden spells of ancient period are carved. Which Digimon is this?.",
+        "responses": [
+            "Ancient Volcamon"
+        ]
+    },
+    "Q1724": {
+        "term": "What is Kochikochi-kun that Daipenmon, the Double-spirit Evolution Digimon of Himi Tomoki in DIGIMON FRONTIER, holds?.",
+        "responses": [
+            "Penguin"
+        ]
+    },
+    "Q1725": {
+        "term": "What color is the Kakikaki-kun, in which the Daipenmon is holding?.",
+        "responses": [
+            "Sky-blue"
+        ]
+    },
+    "Q1726": {
+        "term": "According to the explanation of Digimon card, Daipenmon is called OOO, exterminating the enemy with giant lump of colorful ice. What is OOO?.",
+        "responses": [
+            "General Ice Machine"
+        ]
+    },
+    "Q1727": {
+        "term": "This Digimon has frightful power that purifies every matter by melting. Among Olympos XII Digimon, which Digimon is this?.",
+        "responses": [
+            "Venusmon"
+        ]
+    },
+    "Q1728": {
+        "term": "What is Deathmon(Black)'s evolution level?.",
+        "responses": [
+            "Champion"
+        ]
+    },
+    "Q1729": {
+        "term": "What is on the lower body of Gulfmon?.",
+        "responses": [
+            "Eyes"
+        ]
+    },
+    "Q1730": {
+        "term": "Which one is the correct pair of evolution level and attributes of Gizmon: XT?.",
+        "responses": [
+            "Mega-No data"
+        ]
+    },
+    "Q1731": {
+        "term": "Which Digimon doesn’t have artifically renovated ego?.",
+        "responses": [
+            "Kizmon: XQ"
+        ]
+    },
+    "Q1732": {
+        "term": "Which Digimon contains the power of Legendary Warrior Ten?.",
+        "responses": [
+            "Seraphimon"
+        ]
+    },
+    "Q1733": {
+        "term": "What is Beowolfmon's evolution level?.",
+        "responses": [
+            "Champion"
+        ]
+    },
+    "Q1734": {
+        "term": "This Digimon returns the enemy's attack as it is with the shield of Irony. Which Digimon uses this Skill?.",
+        "responses": [
+            "Mercuremon"
+        ]
+    },
+    "Q1735": {
+        "term": "This Digimon basically underestimates the opponent. The battle is boring thing to it, so it often yarns in the battle. Which Digimon is this?.",
+        "responses": [
+            "Gigasmon"
+        ]
+    },
+    "Q1736": {
+        "term": "What is the type of Omega Shoutmon?.",
+        "responses": [
+            "Holy Knight-type"
+        ]
+    },
+    "Q1737": {
+        "term": "Among Paildramons, only qualified one can evolve into this Digimon. What is the name of this Digimon?.",
+        "responses": [
+            "Super Paledramon"
+        ]
+    },
+    "Q1738": {
+        "term": "What is the type of Captain Hookmon?.",
+        "responses": [
+            "Demon Man-type"
+        ]
+    },
+    "Q1739": {
+        "term": "This Digimon became the therianthropic form, because its Wolfmon's power was halved. Which Digimon is this?.",
+        "responses": [
+            "Snatchmon "
+        ]
+    },
+    "Q1740": {
+        "term": "What is the type of Yuki Agumon?.",
+        "responses": [
+            "Reptile-type"
+        ]
+    },
+    "Q1741": {
+        "term": "What is the type of Hexeblaumon?.",
+        "responses": [
+            "Warrior-type"
+        ]
+    },
+    "Q1742": {
+        "term": "There is a giant monstrous bird Digimon that carries the forest bearing famous fruit which is called Sweets in Digital World. What is the name of this forest?.",
+        "responses": [
+            "Karpos Hule"
+        ]
+    },
+    "Q1743": {
+        "term": "Plesiomon X is imaginary Digimon discovered in the computer laboratory that researches unknown creatures. Which country is the unknown creature laboratory located?.",
+        "responses": [
+            "Britain"
+        ]
+    },
+    "Q1744": {
+        "term": "How many claws are on the both hands of Herakle Kabuterimon X?.",
+        "responses": [
+            "4"
+        ]
+    },
+    "Q1745": {
+        "term": "What is the type of Clavis Angemon?.",
+        "responses": [
+            "Virtue-type"
+        ]
+    },
+    "Q1746": {
+        "term": "It is said that this Digimon is deformed by the curse of Rosemon? Which Digimon is this?.",
+        "responses": [
+            "Babamon"
+        ]
+    },
+    "Q1747": {
+        "term": "Which Digimon does not belong to Three Musketeers?.",
+        "responses": [
+            "Gundramon"
+        ]
+    },
+    "Q1748": {
+        "term": "What is the type of Monzaemon?.",
+        "responses": [
+            "Machine-type"
+        ]
+    },
+    "Q1749": {
+        "term": "What is the name of weapon on both hands of Stiffilmon?.",
+        "responses": [
+            "Knuckles"
+        ]
+    },
+    "Q1750": {
+        "term": "How much data does Flymon have?.",
+        "responses": [
+            "10g"
+        ]
+    },
+    "Q1751": {
+        "term": "Which Digimon is called Flower of Miracle?.",
+        "responses": [
+            "Lotusmon"
+        ]
+    },
+    "Q1752": {
+        "term": "How much data does Metal Etemon have?.",
+        "responses": [
+            "20g"
+        ]
+    },
+    "Q1753": {
+        "term": "How much data does Death-X-DORUgoramon have?.",
+        "responses": [
+            "40g"
+        ]
+    },
+    "Q1754": {
+        "term": "How many heads does Orochimon have?.",
+        "responses": [
+            "6"
+        ]
+    },
+    "Q1755": {
+        "term": "In DIGIMON ADVENTURE 02, Imperialdramon takes X minutes to travel the whole world. Guess how many minutes it takes..",
+        "responses": [
+            "10 Minutes"
+        ]
+    },
+    "Q1756": {
+        "term": "What is the name of skill that Imperialdramon: Fighter Mode used as it finished remaining darkness after the body of Belial Vamdemon vanished?.",
+        "responses": [
+            "Mega Death"
+        ]
+    },
+    "Q1757": {
+        "term": "What is the title of ending song of DIGIMON ADVENTURE (Movie)?.",
+        "responses": [
+            "Butterfly"
+        ]
+    },
+    "Q1758": {
+        "term": "Which field does Nanomon belong to?.",
+        "responses": [
+            "Dark Area"
+        ]
+    },
+    "Q1759": {
+        "term": "Which is the first Partner Digimon that evolved into Champion-level in DIGIMON TAMERS?.",
+        "responses": [
+            "Gilmon"
+        ]
+    },
+    "Q1760": {
+        "term": "This Digimon is a partner of Jupitermon. Among Olympos XII, which Digimon is this?.",
+        "responses": [
+            "Junomon"
+        ]
+    },
+    "Q1761": {
+        "term": "What is the evolution caused by Junomon’s evil persona that has been asleep?.",
+        "responses": [
+            "Chronos Mode"
+        ]
+    },
+    "Q1762": {
+        "term": "What is the type of EBEmon X?.",
+        "responses": [
+            "Space-type"
+        ]
+    },
+    "Q1763": {
+        "term": "It's known as, the body hair of Vikemon can transform into this, and its hardenss is the same as this..",
+        "responses": [
+            "Ice Crystals, Chrome Digizoid"
+        ]
+    },
+    "Q1764": {
+        "term": "What is the name and kind of Vikemon’s weapon?.",
+        "responses": [
+            "Afternoon Star, Mjollnir"
+        ]
+    },
+    "Q1765": {
+        "term": "What kind of Digizoid constitutes the helmet of Knightmon?.",
+        "responses": [
+            "Chrome Digizoid"
+        ]
+    },
+    "Q1766": {
+        "term": "What is the type of Darkness Bagramon?.",
+        "responses": [
+            "Warrior-type"
+        ]
+    },
+    "Q1767": {
+        "term": "What is nickname of Deadly Axemon?.",
+        "responses": [
+            "Running Prosecutor"
+        ]
+    },
+    "Q1768": {
+        "term": "This Digimon is born from the computer virus that confuses direction of ship. It is called “Sinful Priest of the Ocean Floor”. What is this Disaster-God Digimon?.",
+        "responses": [
+            "Dagomon"
+        ]
+    },
+    "Q1769": {
+        "term": "Bagramon pursues the change of “Unreasonable logic of OO” which was made by god. Which one is correct answer of OO?.",
+        "responses": [
+            "World"
+        ]
+    },
+    "Q1770": {
+        "term": "What is the type of Ragna Lordmon?.",
+        "responses": [
+            "Holy Knight-type"
+        ]
+    },
+    "Q1771": {
+        "term": "Which one is not Ultra-level Digimon?.",
+        "responses": [
+            "LucemonX"
+        ]
+    },
+    "Q1772": {
+        "term": "How many legs does Ogudomon have?.",
+        "responses": [
+            "4"
+        ]
+    },
+    "Q1773": {
+        "term": "What is the type of Clavis Angemon that protects the Zenith Digital Gate dividing the outer world of Digital World?.",
+        "responses": [
+            "Power-type"
+        ]
+    },
+    "Q1774": {
+        "term": "What is the evolution level of Slash Angemon that leads the army of angels and always takes the initiative in the Battle?.",
+        "responses": [
+            "Rookie"
+        ]
+    },
+    "Q1775": {
+        "term": "What is the type of Avenge Kidmon?.",
+        "responses": [
+            "Beast Dragon-type"
+        ]
+    },
+    "Q1776": {
+        "term": "This Digimon underwent the mutant formation caused by the overload of its Digicore with minus data due to its deluging retaliatory spirit. Which Digimon is this?.",
+        "responses": [
+            "Ordinemon"
+        ]
+    },
+    "Q1777": {
+        "term": "What is the attribute of Ornismon?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q1778": {
+        "term": "What is the type of Ancient Irismon?.",
+        "responses": [
+            "Ancient Bird-type"
+        ]
+    },
+    "Q1779": {
+        "term": "What is the attribute of Ancient Wisemon?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q1780": {
+        "term": "What is the attribute of Ancient Beatmon?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q1781": {
+        "term": "Which is one of Warrior Ten Digimon that saved Digital World with Ice-attribute?.",
+        "responses": [
+            "Ancient Garurumon"
+        ]
+    },
+    "Q1782": {
+        "term": "How much data does Jumbo Gamemon have?.",
+        "responses": [
+            "35G"
+        ]
+    },
+    "Q1783": {
+        "term": "In 9 ranks of Angelic Hierarchy, which rank does Ofanimon belong to?.",
+        "responses": [
+            "1"
+        ]
+    },
+    "Q1784": {
+        "term": "What is the Lesser-type Digimon that only inhabits in clean waterside?.",
+        "responses": [
+            "Gamemon"
+        ]
+    },
+    "Q1785": {
+        "term": "This Digimon always have pacimal. When it lose the pacimal, it feels anxious. What is this Digimon whose body is covered with soft fur like cotton?.",
+        "responses": [
+            "Kakkinmon "
+        ]
+    },
+    "Q1786": {
+        "term": "Who is voice actor of Henry Wong, the Tamer of Terriermon in DIGIMON TAMERS?.",
+        "responses": [
+            "Sindo Kay"
+        ]
+    },
+    "Q1787": {
+        "term": "In <DIGIMON TAMERS: The Runaway Digimon Express>, Locomon evolved into this Digimon. What is the name of this Digimon?.",
+        "responses": [
+            "Delta Trainmon"
+        ]
+    },
+    "Q1788": {
+        "term": "Which one is brother Digimon of Mervamon?.",
+        "responses": [
+            "Minervamon "
+        ]
+    },
+    "Q1789": {
+        "term": "Which one is feuding Digimon of Beel Starmon?.",
+        "responses": [
+            "Beelzebumon"
+        ]
+    },
+    "Q1790": {
+        "term": "Which Digimon delivered the power of 4 Sacred Digimons to Tamers by sacrificing its life in DIGIMON TAMERS?.",
+        "responses": [
+            "Culumon"
+        ]
+    },
+    "Q1791": {
+        "term": "Among Journey-to-the-west Digimons, who appared in Digimon RPG?.",
+        "responses": [
+            "Shakamon"
+        ]
+    },
+    "Q1792": {
+        "term": "Which animation didn't Atlur Kabuterimon make its appearance?.",
+        "responses": [
+            "Power Digimon"
+        ]
+    },
+    "Q1793": {
+        "term": "What are the chances of Milleniumon's evolution in Digimon RPG?.",
+        "responses": [
+            "0.01"
+        ]
+    },
+    "Q1794": {
+        "term": "Which Digimon helped Tamers and their Partner Digimons to evolve into Mega-level, by giving the power received from 4 Sacred Digimons, to block D-reaper that intruded into the real world in DIGIMON TAMERS?.",
+        "responses": [
+            "Culumon"
+        ]
+    },
+    "Q1795": {
+        "term": "Which field does Jungle Mojyamon belong to?.",
+        "responses": [
+            "Jungle Troopers"
+        ]
+    },
+    "Q1796": {
+        "term": "Which field does Blizzarmon belong to?.",
+        "responses": [
+            "Dark Area"
+        ]
+    },
+    "Q1797": {
+        "term": "Which field does Hookmon belong to?.",
+        "responses": [
+            "Deep Savers"
+        ]
+    },
+    "Q1798": {
+        "term": "Which field does Ancient Megatheriumon belong to?.",
+        "responses": [
+            "Wind Guardians"
+        ]
+    },
+    "Q1799": {
+        "term": "Which field does Rust Tyranomon belong to?.",
+        "responses": [
+            "Dark area"
+        ]
+    },
+    "Q1800": {
+        "term": "This Digimon answers to every riddle. However, as answering to the riddle, it must give an ordeal. If cannot overcome the ordeal, this Digimon takes the soul without answering the riddle. Which Digimon is this?.",
+        "responses": [
+            "Nefertimon"
+        ]
+    },
+    "Q1801": {
+        "term": "What is the type of Blastmon?.",
+        "responses": [
+            "Unique-type"
+        ]
+    },
+    "Q1802": {
+        "term": "What is the type of Muso Knightmon?.",
+        "responses": [
+            "Holy Knight-type"
+        ]
+    },
+    "Q1803": {
+        "term": "What Digimon was born by fusion of Skull Knightmon and Deadly Axemon?.",
+        "responses": [
+            "Knightmon"
+        ]
+    },
+    "Q1804": {
+        "term": "Which Digimon was born by 4 Digimons, Greymon, Skull Knightmon, Mail Birdramon, and Deadly Axemon?.",
+        "responses": [
+            "Skull Knightmon"
+        ]
+    },
+    "Q1805": {
+        "term": "This Digimon was revealed in the <Digimon Chronicle X>, the Digital Monster X2 planned for the 15th X-Antibody anniversary. This Digimon is known for acquiring the power that excels Super Ultimate-level. Even Royal Knights have trouble in stopping this Di.",
+        "responses": [
+            "Belphemon X"
+        ]
+    },
+    "Q1806": {
+        "term": "What is the type of Strikedramon?.",
+        "responses": [
+            "Light Dragon"
+        ]
+    },
+    "Q1807": {
+        "term": "What is the type of Liamon?.",
+        "responses": [
+            "Machine-type"
+        ]
+    },
+    "Q1808": {
+        "term": "What is the type of Loader Leomon?.",
+        "responses": [
+            "Cyborg-type"
+        ]
+    },
+    "Q1809": {
+        "term": "What is the type of Valdurmon?.",
+        "responses": [
+            "Holy Beast-type"
+        ]
+    },
+    "Q1810": {
+        "term": "What is the type of Hououmon X?.",
+        "responses": [
+            "Holy Beast-type"
+        ]
+    },
+    "Q1811": {
+        "term": "What is the type of Blossomon?.",
+        "responses": [
+            "Plant-type"
+        ]
+    },
+    "Q1812": {
+        "term": "What is the type of Octmon?.",
+        "responses": [
+            "Aquatic-type"
+        ]
+    },
+    "Q1813": {
+        "term": "This Digimon made its appearance as a subordinate Digimon of Neptunemon who was the local commander of Island Zone’s Bagramon Army in <Digion Xros Wars>. After then, in <Digimon Xros Wars Episode 61>, this Digimon fought against Ebidramon for the possessi.",
+        "responses": [
+            "Ebidramon"
+        ]
+    },
+    "Q1814": {
+        "term": "What is the type of Spadamon?.",
+        "responses": [
+            "Holy Sword-type"
+        ]
+    },
+    "Q1815": {
+        "term": "Which field does Ofanimon belong to?.",
+        "responses": [
+            "Deep Savers"
+        ]
+    },
+    "Q1816": {
+        "term": "Which field does Omegamon Alter-S belong to?.",
+        "responses": [
+            "Virus Busters "
+        ]
+    },
+    "Q1817": {
+        "term": "Which field does Gokumon belong to?.",
+        "responses": [
+            "Virus Busters "
+        ]
+    },
+    "Q1818": {
+        "term": "Which field does Metamormon belong to?.",
+        "responses": [
+            "Virus Busters "
+        ]
+    },
+    "Q1819": {
+        "term": "Which field does Pawn Chessmon belong to?.",
+        "responses": [
+            "Jungle Troopers"
+        ]
+    },
+    "Q1820": {
+        "term": "Which field does Pipismon belong to?.",
+        "responses": [
+            "Wind Guardians"
+        ]
+    },
+    "Q1821": {
+        "term": "What is the type of Digmon?.",
+        "responses": [
+            "Crustacean-type"
+        ]
+    },
+    "Q1822": {
+        "term": "What is the type of Shima Unimon?.",
+        "responses": [
+            "Beast-type"
+        ]
+    },
+    "Q1823": {
+        "term": "What is the type of Clear Agumon?.",
+        "responses": [
+            "Bewitching Bird-type"
+        ]
+    },
+    "Q1824": {
+        "term": "What is the type of Hexeblaumon?.",
+        "responses": [
+            "Knight-type"
+        ]
+    },
+    "Q1825": {
+        "term": "What is the type of Deltamon?.",
+        "responses": [
+            "Dinosaur-type"
+        ]
+    },
+    "Q1826": {
+        "term": "What is the type of Gold V-dramon?.",
+        "responses": [
+            "Small Dragon-type"
+        ]
+    },
+    "Q1827": {
+        "term": "What is they type of Hyogamon?.",
+        "responses": [
+            "Ice-Snow-type"
+        ]
+    },
+    "Q1828": {
+        "term": "What is the type of Mojamon?.",
+        "responses": [
+            "Animal-type"
+        ]
+    },
+    "Q1829": {
+        "term": "What is the type of Tsuchidarumon?.",
+        "responses": [
+            "Puppet-type"
+        ]
+    },
+    "Q1830": {
+        "term": "What is the type of Archelomon?.",
+        "responses": [
+            "Aquatic-type"
+        ]
+    },
+    "Q1831": {
+        "term": "What is the type of Coelamon?.",
+        "responses": [
+            "Aquatic-type"
+        ]
+    },
+    "Q1832": {
+        "term": "What is the correct type of Elephamon?.",
+        "responses": [
+            "Ancient Fish-type"
+        ]
+    },
+    "Q1833": {
+        "term": "What is the type of Mermaimon?.",
+        "responses": [
+            "Beast Man-type"
+        ]
+    },
+    "Q1834": {
+        "term": "What is the attribute of Regulumon?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q1835": {
+        "term": "What is the type of Karatenmon?.",
+        "responses": [
+            "Beast Man-type"
+        ]
+    },
+    "Q1836": {
+        "term": "What is the type of Slash Angemon?.",
+        "responses": [
+            "Ophan-type"
+        ]
+    },
+    "Q1837": {
+        "term": "What is the type of Fangmon?.",
+        "responses": [
+            "Demon Man-type"
+        ]
+    },
+    "Q1838": {
+        "term": "What is the attribute of Fangmon?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q1839": {
+        "term": "How much data does Terriermon have?.",
+        "responses": [
+            "10G"
+        ]
+    },
+    "Q1840": {
+        "term": "What is the type of Ancient Sphinxmon?.",
+        "responses": [
+            "Ancient Dragon-type"
+        ]
+    },
+    "Q1841": {
+        "term": "What is the type of Ancient Mermaimon?.",
+        "responses": [
+            "Ancient Aquatic-type"
+        ]
+    },
+    "Q1842": {
+        "term": "What is they type of Ancient Troiamon?.",
+        "responses": [
+            "Ancient Plant-type"
+        ]
+    },
+    "Q1843": {
+        "term": "What is the type of Ginkakumon?.",
+        "responses": [
+            "Demon Man-type"
+        ]
+    },
+    "Q1844": {
+        "term": "XXXX, the item that is in the form of bell hanging on the ear of Tailmon X, has the power of chasing away bad Digimons by ringing the degree of sacred power it has. What is this?.",
+        "responses": [
+            "Holy Ring"
+        ]
+    },
+    "Q1845": {
+        "term": "What is the type of Kyubimon(Silver)?.",
+        "responses": [
+            "Ore-type"
+        ]
+    },
+    "Q1846": {
+        "term": "This Digimon was born from the remained evil thought data of Apocalymon that had every life face the collapse. It is good at dark magic and its character is highly cruel, but it is also a tactician with high intelligence. Which Digimon is this?.",
+        "responses": [
+            "Vamdemon"
+        ]
+    },
+    "Q1847": {
+        "term": "What is nickname of Rapidmon?.",
+        "responses": [
+            "Keen Hound"
+        ]
+    },
+    "Q1848": {
+        "term": "EBEmon was created by the interpreted and improved data of captured Vademon. It is created in the facility which is called XX, the homeland of it. What is XX?.",
+        "responses": [
+            "Area 48"
+        ]
+    },
+    "Q1849": {
+        "term": "What is nickname of Ornismon?.",
+        "responses": [
+            "Ruler of the Skies"
+        ]
+    },
+    "Q1850": {
+        "term": "This Digimon is hard to defeat for enemies even if they are more than 10. It is said that this Digimon is impregnable. Which Digimon is this?.",
+        "responses": [
+            "Xuanwumon"
+        ]
+    },
+    "Q1851": {
+        "term": "How much data does Dagomon have?.",
+        "responses": [
+            "20G"
+        ]
+    },
+    "Q1852": {
+        "term": "This Digimon controls and arbitrates the angel and the fallen angel. It has the qualities of “Tactician of another world”. Which Digimon is this?.",
+        "responses": [
+            "Jupitermon"
+        ]
+    },
+    "Q1853": {
+        "term": "The title of DIGIMON ADVENTURE Episode 47 is OO Saber Leomon. What is OO?.",
+        "responses": [
+            "Oh Wind! Oh Light!"
+        ]
+    },
+    "Q1854": {
+        "term": "Which one does not have any attributes?.",
+        "responses": [
+            "Dokunemon"
+        ]
+    },
+    "Q1855": {
+        "term": "What is the type of Kaiser Greymon?.",
+        "responses": [
+            "Light Dragon-type"
+        ]
+    },
+    "Q1856": {
+        "term": "What is the type of Cotsucomon?.",
+        "responses": [
+            "Armor-type"
+        ]
+    },
+    "Q1857": {
+        "term": "What is the type of Black Seraphimon?.",
+        "responses": [
+            "Angel-type"
+        ]
+    },
+    "Q1858": {
+        "term": "What is the attribute of Flybeemon?.",
+        "responses": [
+            "Virus"
+        ]
+    },
+    "Q1859": {
+        "term": "Which one is not lethal move of Monzaemon?.",
+        "responses": [
+            "Bullet Hammer"
+        ]
+    },
+    "Q1860": {
+        "term": "This Digimon advised Monzaemon that it had to be cautious of Chosen Children, but was killed by Monzaemon because of the advice. Which Digimon is this?.",
+        "responses": [
+            "Vegimon"
+        ]
+    },
+    "Q1861": {
+        "term": "What kinds of Digizoid constitutes the armor, covering whole body of Metal Seadramon?.",
+        "responses": [
+            "Blue Digizoid"
+        ]
+    },
+    "Q1862": {
+        "term": "Which Digimon has different attributes among the Dark Masters?.",
+        "responses": [
+            "Metal Seadramon"
+        ]
+    },
+    "Q1863": {
+        "term": "Which field does Elephamon belong to?.",
+        "responses": [
+            "Wind Guardians"
+        ]
+    },
+    "Q1864": {
+        "term": "There is “XX”, the nether world where Digimons that died of natural causes or was extincted by defeated in Battle are sent to, in <Digimon Chronicle X>. What is this?.",
+        "responses": [
+            "Hell"
+        ]
+    },
+    "Q1865": {
+        "term": "This Digimon judges the good and the evil, protects and supervises the place for Digimon who died of natural causes or was extincted by defeated in the Battle. Which Digimon is this?.",
+        "responses": [
+            "Venusmon"
+        ]
+    },
+    "Q1866": {
+        "term": "It is an Attribute of Digimon, so-called hybrid, that inherits Warrior Ten's data. With this Attribute, Digimon can change their Attributes into the same one as opponent in the Battle. What is it?.",
+        "responses": [
+            "Unknown"
+        ]
+    },
+    "Q1867": {
+        "term": "The word “Alda” of “Aldamon” originated in XX XX from India Mythology. What is this?.",
+        "responses": [
+            "the prank of God"
+        ]
+    },
+    "Q1868": {
+        "term": "The word “Lowe” of Lowemon originated from German word which has the meaning of OO. What is OO?.",
+        "responses": [
+            "Leopard"
+        ]
+    },
+    "Q1869": {
+        "term": "What is correct characteristic of Hisyaryumon?.",
+        "responses": [
+            "Wide"
+        ]
+    },
+    "Q1870": {
+        "term": "What is correct skill of Gerbemon?.",
+        "responses": [
+            "Throw poops"
+        ]
+    },
+    "Q1871": {
+        "term": "Which Digimon has made the shield and protected until Seraphimon's revival in DIGIMON FRONTIER?.",
+        "responses": [
+            "Sorcerimon"
+        ]
+    },
+    "Q1872": {
+        "term": "Which Digimon damaged Seraphimon and made it fall asleep by attacking in DIGIMON FRONTIER?.",
+        "responses": [
+            "Duskmon"
+        ]
+    },
+    "Q1873": {
+        "term": "This Digimon has analysis ability to understand and analyze the information stereoscopically. With an outstanding interpretation ability, it can sense the opponent’s behavior at the high speed. Which Digimon is this?.",
+        "responses": [
+            "EBEmon"
+        ]
+    },
+    "Q1874": {
+        "term": "The word Mera of Meramon originated in XX. What is XX?.",
+        "responses": [
+            "Fire"
+        ]
+    },
+    "Q1875": {
+        "term": "How much data does Griffomon have?.",
+        "responses": [
+            "30G"
+        ]
+    },
+    "Q1876": {
+        "term": "How much data does Giga Seadramon have?.",
+        "responses": [
+            "40G"
+        ]
+    },
+    "Q1877": {
+        "term": "The leader of team XX usually uses Chaosdramon as an agent. What is the name of this team?.",
+        "responses": [
+            "Crack"
+        ]
+    },
+    "Q1878": {
+        "term": "This Machine-type Digimon has parts of Justimon and Mugendramon. It's unknown as to why their part is used to this Digimon, but it is said that this Digimon's combat capability is high. Which Digimon is this?.",
+        "responses": [
+            "Rebootmon"
+        ]
+    },
+    "Q1879": {
+        "term": "This Armor Digimon is evolved by power of “Digimental of Kindness”. This Digimon is suitable for secret behavior, so it is said that this Digimon can enter the database through an impregnable security. Which Digimon is this?.",
+        "responses": [
+            "Cutemon"
+        ]
+    },
+    "Q1880": {
+        "term": "What is the type of Mad Leomon?.",
+        "responses": [
+            "Beast Knight-type"
+        ]
+    },
+    "Q1881": {
+        "term": "The general of the Fire-fury Army of the \"Big Death-Stars\". It leads a multitude of dragon Digimon in perfect order, and destroys its enemies with its overwhelming battle strength, in any kind of combat situation. Which Digimon is this?.",
+        "responses": [
+            "Deusmon"
+        ]
+    },
+    "Q1882": {
+        "term": "How much data does Death Meramon have?.",
+        "responses": [
+            "20G"
+        ]
+    },
+    "Q1883": {
+        "term": "How much data does Jumbo Gamemon have?.",
+        "responses": [
+            "30G"
+        ]
+    },
+    "Q1884": {
+        "term": "How much data does Ultimate Brachimon have?.",
+        "responses": [
+            "83G"
+        ]
+    },
+    "Q1885": {
+        "term": "What is the type of Murmukusmon?.",
+        "responses": [
+            "Demon God-type"
+        ]
+    },
+    "Q1886": {
+        "term": "Originally, this Digimon was high-ranking Angel Digimon. But after its depravity, it became Demon Lord-type Digimon which commands 30 demons as being called “Count”. Which Digimon is this?.",
+        "responses": [
+            "Darcmon "
+        ]
+    },
+    "Q1887": {
+        "term": "This Digimon is known for outstanding ability to repel rare malignant computer virus. It is known as illusion Digimon to some people. Which Digimon is this?.",
+        "responses": [
+            "Hanumon"
+        ]
+    },
+    "Q1888": {
+        "term": "What is the name of Pidmon's weapon that is on its right hand?.",
+        "responses": [
+            "Heaven Rod"
+        ]
+    },
+    "Q1889": {
+        "term": "Whice one is the correct nickname of Firamon?.",
+        "responses": [
+            "Sky-soaring Lion"
+        ]
+    },
+    "Q1890": {
+        "term": "How much data does Tobucatmon have?.",
+        "responses": [
+            "14g"
+        ]
+    },
+    "Q1891": {
+        "term": "The word XXX written on Tobucatmon's body is said to be the proof of a Digimon that fights inconsistently with its outward appearance. What is this?.",
+        "responses": [
+            "B10"
+        ]
+    },
+    "Q1892": {
+        "term": "Whice one is the correct nickname of Tuskmon?.",
+        "responses": [
+            "Demon Digimon"
+        ]
+    },
+    "Q1893": {
+        "term": "The star symbols on its two arms represent the number of Digimon it has defeated. How many Digimons are for one star?.",
+        "responses": [
+            "1 Digimon"
+        ]
+    },
+    "Q1894": {
+        "term": "How much data does Tuskmon have?.",
+        "responses": [
+            "30G"
+        ]
+    },
+    "Q1895": {
+        "term": "What is the type of Vademon?.",
+        "responses": [
+            "Cyborg-type"
+        ]
+    },
+    "Q1896": {
+        "term": "Gokuwmon is originated in XXX that appears in Jouney to the West mythology. What is XXX?.",
+        "responses": [
+            "Son Goku"
+        ]
+    },
+    "Q1897": {
+        "term": "What is the type of Sanzomon?.",
+        "responses": [
+            "Human-type"
+        ]
+    },
+    "Q1898": {
+        "term": "This Digimon is said as the nearest existence to Yggdrasill in Digital World. It is regarded as a guardian of the east of Digital World. Which Digimon is this?.",
+        "responses": [
+            "Shakamon"
+        ]
+    },
+    "Q1899": {
+        "term": "What is the type of Volcanicdramon?.",
+        "responses": [
+            "Light Dragon-type"
+        ]
+    },
+    "Q1900": {
+        "term": "How much data does Beel Starmon have?.",
+        "responses": [
+            "20G"
+        ]
+    },
+    "Q1901": {
+        "term": "How much data does Victory Greymon have?.",
+        "responses": [
+            "25G"
+        ]
+    },
+    "Q1902": {
+        "term": "How much data does Zhuqiaomon have?.",
+        "responses": [
+            "15G"
+        ]
+    },
+    "Q1903": {
+        "term": "How much data does Metal Piranimon have?.",
+        "responses": [
+            "55G"
+        ]
+    },
+    "Q1904": {
+        "term": "Ravmon was called “XXX XXX” serving certain God Man-type Digimon in Genesis of Digital World. What is XXX XXX, the nickname of this Digimon?.",
+        "responses": [
+            "Corrupt Crow"
+        ]
+    },
+    "Q1905": {
+        "term": "How much data does Alphamon: Ouryuken Mode have?.",
+        "responses": [
+            "70G"
+        ]
+    },
+    "Q1906": {
+        "term": "Each of the Three Archangels has a role to play. What is a role of Seraphimon?.",
+        "responses": [
+            "Benevolence - Mercy"
+        ]
+    },
+    "Q1907": {
+        "term": "Whice one is the correct nickname of Titamon?.",
+        "responses": [
+            "God of the giants"
+        ]
+    },
+    "Q1908": {
+        "term": "What is the type of Charismon?.",
+        "responses": [
+            "Beast Knight-type"
+        ]
+    },
+    "Q1909": {
+        "term": "What is the type of Chaos Dukemon?.",
+        "responses": [
+            "Dark Knight-type"
+        ]
+    },
+    "Q1910": {
+        "term": "How many eyes does Huanglongmon have?.",
+        "responses": [
+            "4 eyes"
+        ]
+    },
+    "Q1911": {
+        "term": "How much data does Triceramon have?.",
+        "responses": [
+            "45G"
+        ]
+    },
+    "Q1912": {
+        "term": "Crowmon is said to be a Digimon that leads the chosen ones in the XXX that exist in the east of the digital world. It is said that the XXX barrier is lifted by the guidance of Crownmon. What is this?.",
+        "responses": [
+            "God of the gods"
+        ]
+    },
+    "Q1913": {
+        "term": "Valvemon is Machine-type Digimon that has the biggest size among Vehicle-type Digimons, which can transport dozens of Digmons to an operation point. How many Digimons can Valvemon transport?.",
+        "responses": [
+            "30 Digimons"
+        ]
+    },
+    "Q1914": {
+        "term": "How much data does Mammon have?.",
+        "responses": [
+            "30G"
+        ]
+    },
+    "Q1915": {
+        "term": "How much data does Digitamamon have?.",
+        "responses": [
+            "5G"
+        ]
+    },
+    "Q1916": {
+        "term": "This Digimon has the highest INT and Battle competency among all Bird-type Digimons. It is admired because only chosen Digimons can evolve into this Digimon. What is the name of this Digimon, which is said to be the best friend of Leomon, which has the sa.",
+        "responses": [
+            "Birdramon"
+        ]
+    },
+    "Q1917": {
+        "term": "What is the type of Garudamon?.",
+        "responses": [
+            "Beast-type"
+        ]
+    },
+    "Q1918": {
+        "term": "What is the type of Ikkakumon?.",
+        "responses": [
+            "Ancient Beast-type"
+        ]
+    },
+    "Q1919": {
+        "term": "How many tails does Kyubimon have?.",
+        "responses": [
+            "6 tails"
+        ]
+    },
+    "Q1920": {
+        "term": "The chords produced from the three holes at the tip of its tongue and the ad-libbing of the horn allow it to control the feeling of opponent. How many holes are on the tip of Gekomon’s tongue?.",
+        "responses": [
+            "1 hole"
+        ]
+    },
+    "Q1921": {
+        "term": "How much data does Guardromon have?.",
+        "responses": [
+            "30G"
+        ]
+    },
+    "Q1922": {
+        "term": "It is said that Filmon originated in XX tree. What is this?.",
+        "responses": [
+            "Palm"
+        ]
+    },
+    "Q1923": {
+        "term": "What is the type of Piyomon?.",
+        "responses": [
+            "Bird-type"
+        ]
+    },
+    "Q1924": {
+        "term": "Where does Candmon have a Digicore, which is also called the heart of Digimon?.",
+        "responses": [
+            "Inside the body"
+        ]
+    },
+    "Q1925": {
+        "term": "How many tails does Elecmon have?.",
+        "responses": [
+            "6 tails"
+        ]
+    },
+    "Q1926": {
+        "term": "What Digimon doesn’t have whole ATK lethal move in Digimon RPG?.",
+        "responses": [
+            "Examon"
+        ]
+    },
+    "Q1927": {
+        "term": "What is the No.2 song of Sirenmon’s lethal move?.",
+        "responses": [
+            "Fleepony"
+        ]
+    },
+    "Q1928": {
+        "term": "What is the name of Sirenmon’s lethal move that plays low bass?.",
+        "responses": [
+            "Fleeponic"
+        ]
+    },
+    "Q1929": {
+        "term": "Who is Japanese voice actor of Daimon Suguru in Digimon Savers?.",
+        "responses": [
+            "Gouda Hozumi"
+        ]
+    },
+    "Q1930": {
+        "term": "What Digimon doesn’t belong to Cherubimon’s army in DIGIMON FRONTIER?.",
+        "responses": [
+            "Fantomon"
+        ]
+    },
+    "Q1931": {
+        "term": "Striver Cannon, the lethal move of Tankdramon, has an explanation that “Fires shots that split into many missiles, reducing everything within OOkm”. What is OO?.",
+        "responses": [
+            "20km"
+        ]
+    },
+    "Q1932": {
+        "term": "Which Digimon was born from the Jogress between Durandamon, the strongest sword among the Legend-Arms, and Bryweludramon, who is said to be the strongest shield?.",
+        "responses": [
+            "Ragna Lordmon"
+        ]
+    },
+    "Q1933": {
+        "term": "The three Digimons of Bagramon's superiors under the direct control of Bagramon are called the \"Three Head Officers\". Which Digimon does not belong to 'Three Head Officers'?.",
+        "responses": [
+            "Tactimon"
+        ]
+    },
+    "Q1934": {
+        "term": "What is the type of Noble Pumpmon?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q1935": {
+        "term": "How much data does Impmon have?.",
+        "responses": [
+            "10G"
+        ]
+    },
+    "Q1936": {
+        "term": "How much data does Pyocomon have?.",
+        "responses": [
+            "1G"
+        ]
+    },
+    "Q1937": {
+        "term": "How much data does Chocomon have?.",
+        "responses": [
+            "3G"
+        ]
+    },
+    "Q1938": {
+        "term": "What is the type of Blucomon?.",
+        "responses": [
+            "Evil Dramon-type"
+        ]
+    },
+    "Q1939": {
+        "term": "What is the name of weapon that “Sistermon Blanc” holds?.",
+        "responses": [
+            "Divine Piece"
+        ]
+    },
+    "Q1940": {
+        "term": "The weapon of “Sistermon Ciel” is Katana. What is the name of it?.",
+        "responses": [
+            "Wado Ichimonji"
+        ]
+    },
+    "Q1941": {
+        "term": "What is the type of Lavorvomon?.",
+        "responses": [
+            "Fire Dragon-type"
+        ]
+    },
+    "Q1942": {
+        "term": "What is the name of gun that “Sistermon Noir” holds?.",
+        "responses": [
+            "Anthony"
+        ]
+    },
+    "Q1943": {
+        "term": "How much data does Snimon have?.",
+        "responses": [
+            "10G"
+        ]
+    },
+    "Q1944": {
+        "term": "A noble, bloodsucking wolf Digimon. It is a considerably old species of Digimon, and is said to have survived since the Genesis of the Digital World. Digimon who have had their blood sucked by this Digimon have all the information drawn out of their Digic.",
+        "responses": [
+            "Sangloupmon "
+        ]
+    },
+    "Q1945": {
+        "term": "How much data does Cyclomon have?.",
+        "responses": [
+            "20G"
+        ]
+    },
+    "Q1946": {
+        "term": "What is the type of Cyclomon?.",
+        "responses": [
+            "Monster Man-type"
+        ]
+    },
+    "Q1947": {
+        "term": "How much data does Chrysalimon, the evolved Digimon from Keramon, have?.",
+        "responses": [
+            "10G"
+        ]
+    },
+    "Q1948": {
+        "term": "How much data does Cyberdramon have?.",
+        "responses": [
+            "19G"
+        ]
+    },
+    "Q1949": {
+        "term": "How much data does Volcamon have?.",
+        "responses": [
+            "30G"
+        ]
+    },
+    "Q1950": {
+        "term": "How much data does Grademon have?.",
+        "responses": [
+            "33G"
+        ]
+    },
+    "Q1951": {
+        "term": "There are 3 plugs equipped on the back of Justimon. These 3 plugs can be changed into Power, Electric, and Sword-types. What is the name of this equipment?.",
+        "responses": [
+            "Extend Transmitter"
+        ]
+    },
+    "Q1952": {
+        "term": "The destructive power of “Justice Kick”, the lethal move of Justimon, is said to reach XX tons. How many tons is it?.",
+        "responses": [
+            "35t"
+        ]
+    },
+    "Q1953": {
+        "term": "What is the type of Ancient Irismon?.",
+        "responses": [
+            "Ancient Bird-type"
+        ]
+    },
+    "Q1954": {
+        "term": "How much data does Spinomon have?.",
+        "responses": [
+            "30G"
+        ]
+    },
+    "Q1955": {
+        "term": "How much data does Saber Leomon have?.",
+        "responses": [
+            "10G"
+        ]
+    },
+    "Q1956": {
+        "term": "How much data does Venom Vamdemon have?.",
+        "responses": [
+            "35G"
+        ]
+    },
+    "Q1957": {
+        "term": "What is the type of Venom Vamdemon?.",
+        "responses": [
+            "Demon Lord-type"
+        ]
+    },
+    "Q1958": {
+        "term": "What is the name of equipment that Vikemon uses?.",
+        "responses": [
+            "Mjolnir"
+        ]
+    },
+    "Q1959": {
+        "term": "How much data does Qinglongmon have?.",
+        "responses": [
+            "20G"
+        ]
+    },
+    "Q1960": {
+        "term": "“This”, the drop of Petal that is seen as the Rosemon X's wrath is provoked, is called Rosemon’s tear of love. What is this?.",
+        "responses": [
+            "Hera"
+        ]
+    },
+    "Q1961": {
+        "term": "What is the name of a fugitive Digimon: that was born from the data of wanted criminals, has a price on its head but isn't distrusted as it is believed to be a \"Bounty Hunter\", and a strange villain on a hunt for criminals?.",
+        "responses": [
+            "Snimon"
+        ]
+    },
+    "Q1962": {
+        "term": "This Demon Man-type Digimon attacks the enemy with flexible body and soft movement. Its power increases as it gains the moonlight. It attacks the enemy by closing the distance with seducing it and using the weapon on its both hands, “Noir Luna”. Which Dig.",
+        "responses": [
+            "Dianamon"
+        ]
+    },
+    "Q1963": {
+        "term": "How much data does Chimeramon have?.",
+        "responses": [
+            "20G"
+        ]
+    },
+    "Q1964": {
+        "term": "Which field does Betamon belong to?.",
+        "responses": [
+            "Virus Busters "
+        ]
+    },
+    "Q1965": {
+        "term": "Which field does Gizamon belong to?.",
+        "responses": [
+            "Dark Area"
+        ]
+    },
+    "Q1966": {
+        "term": "Which field does Agumon(Black) belong to?.",
+        "responses": [
+            "Deep Savers"
+        ]
+    },
+    "Q1967": {
+        "term": "What is the type of Algomon(In-Training Level)?.",
+        "responses": [
+            "Unknown"
+        ]
+    },
+    "Q1968": {
+        "term": "What is the name of a giant mechanical Digimon that is said to be the ultimate destructive Digimon and fires out the drills all over its body, with its lethal move that is called \"Infinity Boring\"?.",
+        "responses": [
+            "Metal Greymon(Virus) X"
+        ]
+    },
+    "Q1969": {
+        "term": "What is the type of Woodmon?.",
+        "responses": [
+            "Plant-type"
+        ]
+    },
+    "Q1970": {
+        "term": "Which one is not lethal move of Metal Garurumon X?.",
+        "responses": [
+            "Cocytus Breath"
+        ]
+    },
+    "Q1971": {
+        "term": "What is the name of the friend of Yukio Oikawa, who believed the existence of Digimon with Yukio, but died earlier than Yukio in <DIGIMON ADVENTURE 02>?.",
+        "responses": [
+            "Hida Hiroki"
+        ]
+    },
+    "Q1972": {
+        "term": "Main characters’ future jobs were introduced in the ending of <DIGIMON ADVENTURE 02>. Which one is not corretly paired?.",
+        "responses": [
+            "Joe Kido, Doctor"
+        ]
+    },
+    "Q1973": {
+        "term": "Which Digimon can come to the reality by opening Dimensional Gate whenever it wants?.",
+        "responses": [
+            "Vamdemon"
+        ]
+    },
+    "Q1974": {
+        "term": "Which place did main characters choose for defeating Demon in <DIGIMON ADVENTURE 02>?.",
+        "responses": [
+            "Net Ocean"
+        ]
+    },
+    "Q1975": {
+        "term": "When is the execution date of user agreement of Digimon RPG?.",
+        "responses": [
+            "18th Feb, 2002"
+        ]
+    },
+    "Q1976": {
+        "term": "This Digimon is rumored to be the being closest to Yggdrasill in Digital World. It is said that it has protected the eastern Digital World since ancient times. Which Digimon is this?.",
+        "responses": [
+            "Sagomon"
+        ]
+    },
+    "Q1977": {
+        "term": "This Digimon has an ability of wind. It can fly in the air like Jet with the power of wind by collecting up the wind. Which Digimon is this?.",
+        "responses": [
+            "Jet Serafimon"
+        ]
+    },
+    "Q1978": {
+        "term": "Which Digimons Jogress Evolve to become Shooting Starmon?.",
+        "responses": [
+            "Starmon + Darkdramon"
+        ]
+    },
+    "Q1979": {
+        "term": "Which is the correct answer of Chibickmon’s type and attribute?.",
+        "responses": [
+            "Dragon Man-type, Vaccine"
+        ]
+    },
+    "Q1980": {
+        "term": "This Digimon has been more strongly influenced by the Eneruge Clan and magical power. Also, it learned Bolt Break, lightning sorcery powerful enough to cause quantum disintegration. Which Digimon is this?.",
+        "responses": [
+            "Mistymon X"
+        ]
+    },
+    "Q1981": {
+        "term": "Which one does not belong to Three Head Officers in <Digimon Xros Wars>?.",
+        "responses": [
+            "Lilithmon"
+        ]
+    },
+    "Q1982": {
+        "term": "What is a motive of Lucemon in Seven Demon Lord Digimons?.",
+        "responses": [
+            "Lucifer"
+        ]
+    },
+    "Q1983": {
+        "term": "What is a motive of Demon in Seven Demon Lord Digimons?.",
+        "responses": [
+            "Satan"
+        ]
+    },
+    "Q1984": {
+        "term": "What is a motive of Lilithmon in Seven Demon Lord Digimons?.",
+        "responses": [
+            "Aphrodite"
+        ]
+    },
+    "Q1985": {
+        "term": "What is a motive of Leviamon in Seven Demon Lord Digimons?.",
+        "responses": [
+            "Leviathan"
+        ]
+    },
+    "Q1986": {
+        "term": "What is a motive of Belphemon in Seven Demon Lord Digimons?.",
+        "responses": [
+            "Belphegere"
+        ]
+    },
+    "Q1987": {
+        "term": "What is a motive of Barbamon in Seven Demon Lord Digimons?.",
+        "responses": [
+            "Barbatos"
+        ]
+    },
+    "Q1988": {
+        "term": "What is the type of Metal Piranimon?.",
+        "responses": [
+            "Aquatic-type"
+        ]
+    },
+    "Q1989": {
+        "term": "What is the type of Bao Huckmon?.",
+        "responses": [
+            "Dinosaur-type"
+        ]
+    },
+    "Q1990": {
+        "term": "What is the name of Piedmon's lethal move that makes the space where everything goes as Piedmon wants to?.",
+        "responses": [
+            "Masks Square"
+        ]
+    },
+    "Q1991": {
+        "term": "Which one is the correct characteristic of Etemon?.",
+        "responses": [
+            "Aim"
+        ]
+    },
+    "Q1992": {
+        "term": "Which one is not the correct characteristic of Pile Volcamon?.",
+        "responses": [
+            "Madness"
+        ]
+    },
+    "Q1993": {
+        "term": "Which one is the correct characteristic of Gran Kuwagamon?.",
+        "responses": [
+            "Sniping"
+        ]
+    },
+    "Q1994": {
+        "term": "Which one is the correct characteristic of Stingmon?.",
+        "responses": [
+            "Mid-Air"
+        ]
+    },
+    "Q1995": {
+        "term": "Which one is the correct characteristic of Wargaruruon?.",
+        "responses": [
+            "Wide"
+        ]
+    },
+    "Q1996": {
+        "term": "Which one is the correct characteristic of Metal Garurumon X?.",
+        "responses": [
+            "Sniping"
+        ]
+    },
+    "Q1997": {
+        "term": "Which one is correct speciaty of Omegamon Zwart?.",
+        "responses": [
+            "Devotion"
+        ]
+    },
+    "Q1998": {
+        "term": "Which one is the correct characteristic of Metal Greymon(Virus)?.",
+        "responses": [
+            "Wide"
+        ]
+    },
+    "Q1999": {
+        "term": "Which one is the correct characteristic of Tonosama Gekomon?.",
+        "responses": [
+            "Fight"
+        ]
+    },
+    "Q2000": {
+        "term": "Which Digimon's lethal move is Dystopia Lancers?.",
+        "responses": [
+            "Arkadimon Super Ultimate"
+        ]
+    },
+    "Q2001": {
+        "term": "What is the attribute of Shoutmon X7: Superior Mode?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q2002": {
+        "term": "What is the type of Shoutmon X7: Superior Mode?.",
+        "responses": [
+            "Composite-type"
+        ]
+    },
+    "Q2003": {
+        "term": "What is the attribute of Arresterdramon: Superior Mode?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q2004": {
+        "term": "What is the type of Arresterdramon: Superior Mode?.",
+        "responses": [
+            "Dragon Man-type"
+        ]
+    },
+    "Q2005": {
+        "term": "This Digimon is the most fearsome mechanical god who brings about the end. It has the ability to seize the consciousnesses of all App lifeforms, destroying them completely and incorporating them into a part of itself. Which Digimon is this?.",
+        "responses": [
+            "Shoutmon X7"
+        ]
+    },
+    "Q2006": {
+        "term": "What is Trailmon's evolution level?.",
+        "responses": [
+            "Rookie-level"
+        ]
+    },
+    "Q2007": {
+        "term": "What is the type of Crys Paledramon?.",
+        "responses": [
+            "Dragon Man-type"
+        ]
+    },
+    "Q2008": {
+        "term": "What is the type of Cerberumon: Werewolf Mode?.",
+        "responses": [
+            "Ancient Beast-type"
+        ]
+    },
+    "Q2009": {
+        "term": "What is an attirbute of Shakkoumon?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q2010": {
+        "term": "What is the status of Omegamon Zwart?.",
+        "responses": [
+            "STR5 AGI4 CON0 INT1"
+        ]
+    },
+    "Q2011": {
+        "term": "In which series doesn’t Skull Satamon appear?.",
+        "responses": [
+            "Power Digimon"
+        ]
+    },
+    "Q2012": {
+        "term": "What is the type of Atlur Ballistamon?.",
+        "responses": [
+            "Machine-type"
+        ]
+    },
+    "Q2013": {
+        "term": "What is the attribute of Diablomon X?.",
+        "responses": [
+            "Virus"
+        ]
+    },
+    "Q2014": {
+        "term": "How much data does Mervamon have?.",
+        "responses": [
+            "20G"
+        ]
+    },
+    "Q2015": {
+        "term": "What city was aimed by nuclear missile in <DIGIMON ADVENTURE: Episode 2>?.",
+        "responses": [
+            "Nagoya"
+        ]
+    },
+    "Q2016": {
+        "term": "What is the type of Chibi Kiwimon?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q2017": {
+        "term": "Wizarmon X is Digimon that Wizarmon does X-evoution into. What skill has it acquired while evolving?.",
+        "responses": [
+            "Thunder Cloud"
+        ]
+    },
+    "Q2018": {
+        "term": "Gesomon X is Digimon that Gesomon does X-Evolution into. What skill has it acquired while evolving?.",
+        "responses": [
+            "Mad Viking"
+        ]
+    },
+    "Q2019": {
+        "term": "Allomon X is Digimon that Allomon does X-Evolution into. What skill has it acquired while evolving?.",
+        "responses": [
+            "Dynamite Head"
+        ]
+    },
+    "Q2020": {
+        "term": "What is the type of XV-mon(Black)?.",
+        "responses": [
+            "Demon Dragon-type"
+        ]
+    },
+    "Q2021": {
+        "term": "What is the type of Chaosdramon X?.",
+        "responses": [
+            "Machine-type"
+        ]
+    },
+    "Q2022": {
+        "term": "How much data does Gabumon have?.",
+        "responses": [
+            "10G"
+        ]
+    },
+    "Q2023": {
+        "term": "How much data does Igamon have?.",
+        "responses": [
+            "10G"
+        ]
+    },
+    "Q2024": {
+        "term": "How many guns does Revolmon have?.",
+        "responses": [
+            "1 gun"
+        ]
+    },
+    "Q2025": {
+        "term": "Which Digimon belongs to Virus Busters?.",
+        "responses": [
+            "Revolmon "
+        ]
+    },
+    "Q2026": {
+        "term": "Which Digimon has the weapon “Gairyu Sadaijin”?.",
+        "responses": [
+            "Dinohumon"
+        ]
+    },
+    "Q2027": {
+        "term": "What is the stats of Shakomon?.",
+        "responses": [
+            "STR2 AGI2 CON4 INT1"
+        ]
+    },
+    "Q2028": {
+        "term": "Who was the writer of scenario of DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Sakabe Gou"
+        ]
+    },
+    "Q2029": {
+        "term": "Who was the voice actor of Yagami Taichi in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Hanae Natsuki"
+        ]
+    },
+    "Q2030": {
+        "term": "Who was the voice actor of Ishida Yamato in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Nanami Otzuki"
+        ]
+    },
+    "Q2031": {
+        "term": "Which Digimon’s data is different from other Digimons?.",
+        "responses": [
+            "Gottsumon "
+        ]
+    },
+    "Q2032": {
+        "term": "Who was the voice actor of Tachikawa Mimi in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Hashirama Kuku"
+        ]
+    },
+    "Q2033": {
+        "term": "Who was the voice actor of Mochidzuki Meiko in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Mochizuki Mei"
+        ]
+    },
+    "Q2034": {
+        "term": "Who was the voice actor of Yagami Hikari in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Yoshida Hitomi"
+        ]
+    },
+    "Q2035": {
+        "term": "Who was the voice actor of Izumi Koshiro in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Tamura Mutsumi"
+        ]
+    },
+    "Q2036": {
+        "term": "Who was the voice actor of Agumon in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Sakamoto Katzu"
+        ]
+    },
+    "Q2037": {
+        "term": "Who was the voice actor of Gabumon in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Sakamoto Katzu"
+        ]
+    },
+    "Q2038": {
+        "term": "Who was the voice actor of Piyomon in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Sigematzu Sigero"
+        ]
+    },
+    "Q2039": {
+        "term": "Which Digimon’s data is different from other Digimons?.",
+        "responses": [
+            "Guilmon X"
+        ]
+    },
+    "Q2040": {
+        "term": "Who was the voice actor of Filmon in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Kinoko Yamada"
+        ]
+    },
+    "Q2041": {
+        "term": "Who was the voice actor of Patamon in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Morishita Miwa"
+        ]
+    },
+    "Q2042": {
+        "term": "Who was the voice actor of Tailmon in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Tokumatzu Kai"
+        ]
+    },
+    "Q2043": {
+        "term": "Who was the voice actor of Meikuumon in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Morishita Yuki"
+        ]
+    },
+    "Q2044": {
+        "term": "What is the name of Chosen Children Taichi and Hikari's father, in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Yagami Teiji"
+        ]
+    },
+    "Q2045": {
+        "term": "What is the name of Chosen Children Taichi and Hikari's mother, in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Yagami Mei"
+        ]
+    },
+    "Q2046": {
+        "term": "What is the name of Chosen Children Jo's father, in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Yisizuka Kou"
+        ]
+    },
+    "Q2047": {
+        "term": "What is the name of Chosen Children Jo's mother, in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Atori Mao"
+        ]
+    },
+    "Q2048": {
+        "term": "Who was the voice actor of Huckmon, the envoy of Homeostasis in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Takeuchi Shisayi"
+        ]
+    },
+    "Q2049": {
+        "term": "Who was the voice actor of  chairman of cultural festival executive committee in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Kana Hanazawa"
+        ]
+    },
+    "Q2050": {
+        "term": "Who was the voice actor of Leomon in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Hirata Houzi"
+        ]
+    },
+    "Q2051": {
+        "term": "What is the stats of title RETURN TO DR?.",
+        "responses": [
+            "All stats 19"
+        ]
+    },
+    "Q2052": {
+        "term": "What is an another name of Gran Death Big Bang, one of the lethal moves of Apocalymon?.",
+        "responses": [
+            "Grand Apocalypse"
+        ]
+    },
+    "Q2053": {
+        "term": "Which one is the correct attribute of JESmon?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q2054": {
+        "term": "What is the type of Mad Leomon?.",
+        "responses": [
+            "Undead-type"
+        ]
+    },
+    "Q2055": {
+        "term": "This Digimon has the ability that captures Digimon who has the bad data and was sent to Dark Area in eternal darkness, returns Digimon who has good data to Digitama. Which Digimon is this?.",
+        "responses": [
+            "Lucemon"
+        ]
+    },
+    "Q2056": {
+        "term": "Which Digimon takes data from fighting games and defeats the enemy with its own original principles?.",
+        "responses": [
+            "Grappu Leomon"
+        ]
+    },
+    "Q2057": {
+        "term": "What is the correct characteristic of Lucemon Choas Mode (Ultra-level) in Digimon RPG?.",
+        "responses": [
+            "Rush"
+        ]
+    },
+    "Q2058": {
+        "term": "What is the correct characteristic of Lucemon Choas Mode (Mega-level) in Digimon RPG?.",
+        "responses": [
+            "Sharpshooter"
+        ]
+    },
+    "Q2059": {
+        "term": "What is the name of Lucemon: Larva's F2 Skill in Digimon RPG?.",
+        "responses": [
+            "Lightning Spear"
+        ]
+    },
+    "Q2060": {
+        "term": "What is the symbol planet of Dianamon from Olympos XII?.",
+        "responses": [
+            "the Solar System"
+        ]
+    },
+    "Q2061": {
+        "term": "What is not the correct characteristic of Blitz Greymon in Digimon RPG?.",
+        "responses": [
+            "Sharpshooter"
+        ]
+    },
+    "Q2062": {
+        "term": "What is the stats of Agumon(Black) in Digimon RPG?.",
+        "responses": [
+            "STR3 AGI2 CON2 INT1"
+        ]
+    },
+    "Q2063": {
+        "term": "Which Digimon is not Capsule Evolution Digimon of Hawkmon affiliation?.",
+        "responses": [
+            "Rinkmon"
+        ]
+    },
+    "Q2064": {
+        "term": "According to Digimon RPG Encyclopedia, what is the name of Ravmon’s sword?.",
+        "responses": [
+            "Chouou-mari"
+        ]
+    },
+    "Q2065": {
+        "term": "What is the stats of Thunderballmon in Digimon RPG?.",
+        "responses": [
+            "STR3 AGI2 CON2 INT1"
+        ]
+    },
+    "Q2066": {
+        "term": "What is the color of Grademon’s cape?.",
+        "responses": [
+            "Green"
+        ]
+    },
+    "Q2067": {
+        "term": "Which item can’t be gained when you hunt Pharaohmon on the 3rd floor of Labyrinth in Digimon RPG?.",
+        "responses": [
+            "Unidentified Invitation"
+        ]
+    },
+    "Q2068": {
+        "term": "Craniummon appears in the 2nd floor of Royal Base in Digimon RPG. When you hunt Craniummon, it rarely drops the item Digimental of XX. What is XX?.",
+        "responses": [
+            "Affirmative"
+        ]
+    },
+    "Q2069": {
+        "term": "As you open Mysterious Box (Gold) after completing the riddle contents in Digimon RPG, Shining Wings come out of the box. What is the color of this wing?.",
+        "responses": [
+            "White"
+        ]
+    },
+    "Q2070": {
+        "term": "Which one is Zeed Millenniumon’s exclusive characteristic?.",
+        "responses": [
+            "Afterimage"
+        ]
+    },
+    "Q2071": {
+        "term": "Lilithmon has a Holy Ring. Where is it?.",
+        "responses": [
+            "Left ring finger"
+        ]
+    },
+    "Q2072": {
+        "term": "Which Digimon owns the most number of Holy Ring?.",
+        "responses": [
+            "Cherubimon(Vice)"
+        ]
+    },
+    "Q2073": {
+        "term": "Which Digimon owns the lowest number of Holy Ring?.",
+        "responses": [
+            "Seraphimon"
+        ]
+    },
+    "Q2074": {
+        "term": "Which one is not correct skill of Digimon on the 1st floor of Sky Dungeon?.",
+        "responses": [
+            "Crystal Revolution"
+        ]
+    },
+    "Q2075": {
+        "term": "Which one is not whole attack skill?.",
+        "responses": [
+            "Vahnijwala"
+        ]
+    },
+    "Q2076": {
+        "term": "What is the option of Imperfect Spirit of Ice H (X)?.",
+        "responses": [
+            "Max. VP +100"
+        ]
+    },
+    "Q2077": {
+        "term": "Which item do you need when you replace your Tamed Digimon to Gazimon?.",
+        "responses": [
+            "Replacement Item 1 (for Tamed Digimon)"
+        ]
+    },
+    "Q2078": {
+        "term": "Which card was not used in Battles in DIGIMON TAMERS Episode 5?.",
+        "responses": [
+            "High-speed plug-in D"
+        ]
+    },
+    "Q2079": {
+        "term": "It's nickname is, “Cool-headed White Lion”, it exterminates those devoted to evil for the sake of justice. Which Digimon is this?.",
+        "responses": [
+            "Panjyamon"
+        ]
+    },
+    "Q2080": {
+        "term": "This Digimon inflames the enemy by using its skill, “Angel's Low Kick” that smiles while kicking the opponent's feet with completely distracts the opponent. Which Digimon is this?.",
+        "responses": [
+            "Vegimon X"
+        ]
+    },
+    "Q2081": {
+        "term": "Which one is not Mamemon-affiliate?.",
+        "responses": [
+            "Catch Mamemon"
+        ]
+    },
+    "Q2082": {
+        "term": "This Digimon’s lethal move, “Hell Howling”, has incalculable amount of evil energy. Which Digimon is this?.",
+        "responses": [
+            "Megidramon X"
+        ]
+    },
+    "Q2083": {
+        "term": "This Digmon has super-hard horns that excel Monochromon's. These horns are so strong that they can destroy Mineral-type Digimons easily. Which Digimon is this?.",
+        "responses": [
+            "Mammon"
+        ]
+    },
+    "Q2084": {
+        "term": "This Digimon originally had virus attributebut was converted to a Vaccine by a mutation. Normal Tamers can’t control this Digimon. Which Digimon is this?.",
+        "responses": [
+            "Labramon"
+        ]
+    },
+    "Q2085": {
+        "term": "What is the meaning of Digimoji written on the ring of Marin Angemon?.",
+        "responses": [
+            "Peace of the Digital World"
+        ]
+    },
+    "Q2086": {
+        "term": "Which Insect-type Digimon that evolved with the data of Kabuterimon and Kuwagamon species?.",
+        "responses": [
+            "Atlur Kabuterimon"
+        ]
+    },
+    "Q2087": {
+        "term": "Which is Relemon's Mega-level Digimon?.",
+        "responses": [
+            "Saint Galgomon"
+        ]
+    },
+    "Q2088": {
+        "term": "Zerimon is In-Training level I Digimon. Then what is Digimon that Zerimon evolves into In-Training level II?.",
+        "responses": [
+            "Hopmon"
+        ]
+    },
+    "Q2089": {
+        "term": "Cocomon is In-Training level I Digimon. Then what is Digimon that Cocomon evolves into In-Training level II?.",
+        "responses": [
+            "Caprimon"
+        ]
+    },
+    "Q2090": {
+        "term": "Among Deva Digimons (Twelve Heavenly Generals), which attribute takes up the most?.",
+        "responses": [
+            "Virus"
+        ]
+    },
+    "Q2091": {
+        "term": "Among Deva Digimons (Twelve Heavenly Generals), which attribute takes up the least?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q2092": {
+        "term": "What is not the correct component parts of Mugendramon?.",
+        "responses": [
+            "Metal Greymon - Helmet"
+        ]
+    },
+    "Q2093": {
+        "term": "How much data does Mother D-Reaper have?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q2094": {
+        "term": "What is the attribute of Vamdemon X?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q2095": {
+        "term": "Which one is not lethal move of Omega Shoutmon X?.",
+        "responses": [
+            "Omega Infinity"
+        ]
+    },
+    "Q2096": {
+        "term": "What is the type of Grey Knightsmon?.",
+        "responses": [
+            "Dark Knight-type"
+        ]
+    },
+    "Q2097": {
+        "term": "This Digimon is Darkness Rumbling Mode that was born from the DigiXros of Dark Knightsmon and Tuwarmon. It uses powerful skill that emits two Digimons' energy with Gouradarai Gun. Which Digimon is this?.",
+        "responses": [
+            "Musin Knightmon"
+        ]
+    },
+    "Q2098": {
+        "term": "What is the attribute of Imperialdramon: Dragon Mode (Black)?.",
+        "responses": [
+            "Unknown"
+        ]
+    },
+    "Q2099": {
+        "term": "Which Digimon won the Battle against Lucemon: Satan Mode in Digimon Xros Wars?.",
+        "responses": [
+            "Shooting Starmon"
+        ]
+    },
+    "Q2100": {
+        "term": "What is the type of Shoutmon X4B?.",
+        "responses": [
+            "Unknown"
+        ]
+    },
+    "Q2101": {
+        "term": "What is the attribute of Spadamon?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q2102": {
+        "term": "What is the type fo Kakkinmon?.",
+        "responses": [
+            "Dragon-type"
+        ]
+    },
+    "Q2103": {
+        "term": "By sacrificing its agility, it gained durability that allows it to withstand even an attack from an Ultimate-level Digimons. The shields attached to its shoulders and arms automatically put up an electric barrier. What is the name of this Digimon?.",
+        "responses": [
+            "Lighdramon"
+        ]
+    },
+    "Q2104": {
+        "term": "What is the type of Agumon X?.",
+        "responses": [
+            "Reptile-type"
+        ]
+    },
+    "Q2105": {
+        "term": "Who was Japanese Voice Actor of Davis Motomiya in DIGIMON ADVENTURE 02?.",
+        "responses": [
+            "Kiuchi Reiko "
+        ]
+    },
+    "Q2106": {
+        "term": "Who takes care of Mochimon in the Village of Beginning in DIGIMON FRONTIER?.",
+        "responses": [
+            "Zoe Orimoto"
+        ]
+    },
+    "Q2107": {
+        "term": "What Digimon did Jogress Evolution into Ordinemon in DIGIMON ADVENTURE Tri?.",
+        "responses": [
+            "Ofanimon"
+        ]
+    },
+    "Q2108": {
+        "term": "How many Holy Rings does Goddramon have?.",
+        "responses": [
+            "None"
+        ]
+    },
+    "Q2109": {
+        "term": "How many Holy Rings does Rapidmon(Armor) have?.",
+        "responses": [
+            "None"
+        ]
+    },
+    "Q2110": {
+        "term": "Which Digimon has different number of Holy Rings?.",
+        "responses": [
+            "Marin Angemon"
+        ]
+    },
+    "Q2111": {
+        "term": "Among Seven Demon Lord Digimons who did X-Evolution, only this Digimon gained the power that excels Super Ultimate-level. Even the Royal Knights have trouble handling this Demon Lord Digimon. Which Digimon is this?.",
+        "responses": [
+            "Demon"
+        ]
+    },
+    "Q2112": {
+        "term": "This Digimon was evolved as the replacement, as Holy Angemon was defeated by Arkadimon then it evolved into this Digimon instead of Seraphimon due to the absence of its sacred power that was stolen. Which Digimon is this?.",
+        "responses": [
+            "Dominimon"
+        ]
+    },
+    "Q2113": {
+        "term": "Which Digimon uses the skill “Elder Sign” that summons the ultimate evil god from universe?.",
+        "responses": [
+            "Mercurimon  "
+        ]
+    },
+    "Q2114": {
+        "term": "What is correct another mode among Olympos XII?.",
+        "responses": [
+            "Bacchusmon: Crapulence Mode"
+        ]
+    },
+    "Q2115": {
+        "term": "What is a motive animal of Vulcanusmon  of Olympos XII?.",
+        "responses": [
+            "Centaur"
+        ]
+    },
+    "Q2116": {
+        "term": "What is a motive animal of Bacchusmon of Olympos XII?.",
+        "responses": [
+            "Snake"
+        ]
+    },
+    "Q2117": {
+        "term": "This Archangel Digimon has silvery wings, takes a charge of a law executor. It supervises and oversees many Angel-type Digimons. Which Digimon is this?.",
+        "responses": [
+            "Holy Angemon"
+        ]
+    },
+    "Q2118": {
+        "term": "Which Digimon doesn’t exist?.",
+        "responses": [
+            "Holy Angemon: Priest Mode"
+        ]
+    },
+    "Q2119": {
+        "term": "Ultimate form of god beast Digimon and its heroic appearance is reminiscent of a ruler of the sky. There are few who have seen its appearance, and it has not even been entirely confirmed where it usually is. Which Digimon is this?.",
+        "responses": [
+            "Hououmon"
+        ]
+    },
+    "Q2120": {
+        "term": "Originally it was once high-class Angel-type Digimon like Demon, but it depraved and fell to Dark Area. This Digimon’s lethal move is “Explosion Eye”.  Which Digimon is this?.",
+        "responses": [
+            "Deathmon"
+        ]
+    },
+    "Q2121": {
+        "term": "Which Digimon did Huanglongmon Digicross with in <Digimon Xros Wars>?.",
+        "responses": [
+            "Darkdramon"
+        ]
+    },
+    "Q2122": {
+        "term": "Which Digimon's lethal move is “Smash Horn”?.",
+        "responses": [
+            "Tylomon X"
+        ]
+    },
+    "Q2123": {
+        "term": "Four Holy Beasts command their own Deva Digimons. Which one does not belong to Deva Digimons of Baihumon?.",
+        "responses": [
+            "Sinduramon"
+        ]
+    },
+    "Q2124": {
+        "term": "What is the level of Zeed Millenniumon, where the villain Digimon Millenniumon evolves stochastically?.",
+        "responses": [
+            "165"
+        ]
+    },
+    "Q2125": {
+        "term": "Which Digimon’s data is different from other Digimons?.",
+        "responses": [
+            "Taomon"
+        ]
+    },
+    "Q2126": {
+        "term": "Which Digimon’s data is different from other Digimons?.",
+        "responses": [
+            "Bancho Mamemon"
+        ]
+    },
+    "Q2127": {
+        "term": "Which combination of Digimon has the lowest sum of data?.",
+        "responses": [
+            "Gottsumon - Pumpmon"
+        ]
+    },
+    "Q2128": {
+        "term": "Which combination of Digimon has the highest sum of data?.",
+        "responses": [
+            "Gottsumon - Pumpmon"
+        ]
+    },
+    "Q2129": {
+        "term": "What is Armagemon's attribute?.",
+        "responses": [
+            "Light"
+        ]
+    },
+    "Q2130": {
+        "term": "What is Huanglongmon's attribute?.",
+        "responses": [
+            "Light, Metal"
+        ]
+    },
+    "Q2131": {
+        "term": "What is Ofanimon's attribute?.",
+        "responses": [
+            "Light"
+        ]
+    },
+    "Q2132": {
+        "term": "As just receiving the howling of Belphemon: Rage Mode, Digimon who is less than OOO dies going through the dismemberment of its data. What is OOO-level?.",
+        "responses": [
+            "Rookie"
+        ]
+    },
+    "Q2133": {
+        "term": "How many Belphemon’s Chain Pieces do you need to do 100% reinforcement of Belphemon: Rage Mode?.",
+        "responses": [
+            "30"
+        ]
+    },
+    "Q2134": {
+        "term": "Which one is the correct element attribute of War Greymon X?.",
+        "responses": [
+            "Water"
+        ]
+    },
+    "Q2135": {
+        "term": "Which one is the correct element attribtue of Blitz Greymon?.",
+        "responses": [
+            "Metal"
+        ]
+    },
+    "Q2136": {
+        "term": "Which Digimon’s data is different from other Digimons?.",
+        "responses": [
+            "Z'd Garurumon"
+        ]
+    },
+    "Q2137": {
+        "term": "What is the F3 Skill of Tocanmon?.",
+        "responses": [
+            "Cutting Beak"
+        ]
+    },
+    "Q2138": {
+        "term": "What is the type of Vikemon?.",
+        "responses": [
+            "Beast Man-type"
+        ]
+    },
+    "Q2139": {
+        "term": "Which Digimon has different data?.",
+        "responses": [
+            "Dracomon"
+        ]
+    },
+    "Q2140": {
+        "term": "Which Digimon has 30 data?.",
+        "responses": [
+            "Snimon "
+        ]
+    },
+    "Q2141": {
+        "term": "What is the type of Gumdramon?.",
+        "responses": [
+            "Machine Dragon-type"
+        ]
+    },
+    "Q2142": {
+        "term": "How much data does Mirage Gaogamon have?.",
+        "responses": [
+            "25G"
+        ]
+    },
+    "Q2143": {
+        "term": "What is the name of Digimon that is called the offspring of Dokugumon?.",
+        "responses": [
+            "Chrysalimon"
+        ]
+    },
+    "Q2144": {
+        "term": "What is the type of Kuramon?.",
+        "responses": [
+            "Virus"
+        ]
+    },
+    "Q2145": {
+        "term": "How much data does Kuramon have?.",
+        "responses": [
+            "5G"
+        ]
+    },
+    "Q2146": {
+        "term": "What is the type of Black War Greymon X?.",
+        "responses": [
+            "Demon Man-type"
+        ]
+    },
+    "Q2147": {
+        "term": "How much data does Mercuremon have?.",
+        "responses": [
+            "40G"
+        ]
+    },
+    "Q2148": {
+        "term": "How much data does Marin Angemon have?.",
+        "responses": [
+            "5G"
+        ]
+    },
+    "Q2149": {
+        "term": "How much data does Beelzebumon have?.",
+        "responses": [
+            "15G"
+        ]
+    },
+    "Q2150": {
+        "term": "How much data does Boltmon have?.",
+        "responses": [
+            "20G"
+        ]
+    },
+    "Q2151": {
+        "term": "What attribute does Solarmon have?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q2152": {
+        "term": "How much data does Hagurumon have?.",
+        "responses": [
+            "11G"
+        ]
+    },
+    "Q2153": {
+        "term": "How much data does Falcomon have?.",
+        "responses": [
+            "13G"
+        ]
+    },
+    "Q2154": {
+        "term": "What is the type of Petit Mamon?.",
+        "responses": [
+            "Small Devil-type"
+        ]
+    },
+    "Q2155": {
+        "term": "What is the type of Hyokomon?.",
+        "responses": [
+            "Warrior-type"
+        ]
+    },
+    "Q2156": {
+        "term": "How much data does Kokuwamon have?.",
+        "responses": [
+            "5G"
+        ]
+    },
+    "Q2157": {
+        "term": "How much data does Kunemon have?.",
+        "responses": [
+            "10G"
+        ]
+    },
+    "Q2158": {
+        "term": "How much data does Bakumon have?.",
+        "responses": [
+            "15G"
+        ]
+    },
+    "Q2159": {
+        "term": "What is the type of Morphomon?.",
+        "responses": [
+            "Puppet-type"
+        ]
+    },
+    "Q2160": {
+        "term": "How much data does Lalmon have?.",
+        "responses": [
+            "10G"
+        ]
+    },
+    "Q2161": {
+        "term": "How much data does Mushmon have?.",
+        "responses": [
+            "10G"
+        ]
+    },
+    "Q2162": {
+        "term": "How much data does Swimmon have?.",
+        "responses": [
+            "6g"
+        ]
+    },
+    "Q2163": {
+        "term": "What is the type of Swimmon?.",
+        "responses": [
+            "Ancient Fish-type"
+        ]
+    },
+    "Q2164": {
+        "term": "How much data does Whamon Perfect have?.",
+        "responses": [
+            "40G"
+        ]
+    },
+    "Q2165": {
+        "term": "How much data does Neo Devimon have?.",
+        "responses": [
+            "15G"
+        ]
+    },
+    "Q2166": {
+        "term": "How much data does DORUgoramon have?.",
+        "responses": [
+            "58G"
+        ]
+    },
+    "Q2167": {
+        "term": "What is the type of Grace Novamon?.",
+        "responses": [
+            "Space-type"
+        ]
+    },
+    "Q2168": {
+        "term": "How much data does Tyilinmon have?.",
+        "responses": [
+            "20G"
+        ]
+    },
+    "Q2169": {
+        "term": "What is the type of Angewomon X?.",
+        "responses": [
+            "Cherub-type"
+        ]
+    },
+    "Q2170": {
+        "term": "How much data does Atlur Kabuterimon?.",
+        "responses": [
+            "30G"
+        ]
+    },
+    "Q2171": {
+        "term": "What is the type of Paledramon?.",
+        "responses": [
+            "Warrior-type"
+        ]
+    },
+    "Q2172": {
+        "term": "What is the name of Digimon with nickname of “Blue Bomber”?.",
+        "responses": [
+            "Goddramon "
+        ]
+    },
+    "Q2173": {
+        "term": "It is a Demon Man Digimon which was expelled from the Digital World's heaven and fell to the backwoods of North Bridge Island, and its character is cheerful and jokester, but it gets angry and becomes a terrifying Digimon if it touches the skull wrapped a.",
+        "responses": [
+            "Gokumon"
+        ]
+    },
+    "Q2174": {
+        "term": "Word Burai of Buraimon originated from “This”. What is “This”?.",
+        "responses": [
+            "Hunter"
+        ]
+    },
+    "Q2175": {
+        "term": "What is the type of Saberdramon?.",
+        "responses": [
+            "Chick-type"
+        ]
+    },
+    "Q2176": {
+        "term": "What is the type of Gladimon?.",
+        "responses": [
+            "Machine-type"
+        ]
+    },
+    "Q2177": {
+        "term": "What is the type of Mori Shellmon?.",
+        "responses": [
+            "Mammal-type"
+        ]
+    },
+    "Q2178": {
+        "term": "Word Duft from Duftmon means “This” in German. What is “This”?.",
+        "responses": [
+            "Planner"
+        ]
+    },
+    "Q2179": {
+        "term": "What kind of Digi-Zoid armor is cladded in Mirage Gaogamon's body?.",
+        "responses": [
+            "Blue Digizoid"
+        ]
+    },
+    "Q2180": {
+        "term": "What is the evolution condition level of Metal Garurumon(Black)’s Evolution Card?.",
+        "responses": [
+            "51Lv"
+        ]
+    },
+    "Q2181": {
+        "term": "What is the type of Aegiochusmon: Dark?.",
+        "responses": [
+            "Undead-type"
+        ]
+    },
+    "Q2182": {
+        "term": "How much data does Cupimon have?.",
+        "responses": [
+            "5G"
+        ]
+    },
+    "Q2183": {
+        "term": "What is the type of Cupimon?.",
+        "responses": [
+            "Reverse Angel-type"
+        ]
+    },
+    "Q2184": {
+        "term": "What attribute does Blizzarmon have?.",
+        "responses": [
+            "Variables"
+        ]
+    },
+    "Q2185": {
+        "term": "What is the name of this Digimon which has a carefree personality opposed to Garurumon's, is never obedient to its master and never swears allegiance to its master, but is a good rival to Garurumon?.",
+        "responses": [
+            "Rinkmon"
+        ]
+    },
+    "Q2186": {
+        "term": "What attribute does Betsumon have?.",
+        "responses": [
+            "Vaccine"
+        ]
+    },
+    "Q2187": {
+        "term": "How much data does Neptunemon have?.",
+        "responses": [
+            "8G"
+        ]
+    },
+    "Q2188": {
+        "term": "How much data does Plotmon have?.",
+        "responses": [
+            "10g"
+        ]
+    },
+    "Q2189": {
+        "term": "What is the type of Aquilamon?.",
+        "responses": [
+            "Bird-type"
+        ]
+    },
+    "Q2190": {
+        "term": "Whice is the correct nickname of Aquilamon?.",
+        "responses": [
+            "Great Eagle of the Desert"
+        ]
+    },
+    "Q2191": {
+        "term": "What is correct status of Dynasmon X?.",
+        "responses": [
+            "STR2 AGI1 CON3 INT1"
+        ]
+    },
+    "Q2192": {
+        "term": "What is F1 Skill of Imperialdramon: Paladin Mode?.",
+        "responses": [
+            "Omega Blade"
+        ]
+    },
+    "Q2193": {
+        "term": "Which Digimon’s data is unknown?.",
+        "responses": [
+            "Chimairamon"
+        ]
+    },
+    "Q2194": {
+        "term": "What is the correct element attribute of Mervamon?.",
+        "responses": [
+            "Land"
+        ]
+    },
+    "Q2195": {
+        "term": "Which Digimon uses the skill called “Fire Breath”?.",
+        "responses": [
+            "Greymon"
+        ]
+    },
+    "Q2196": {
+        "term": "Whcih Digimon uses the skill called “Artifical Intelligence Missile”?.",
+        "responses": [
+            "Dark Tyranomon"
+        ]
+    },
+    "Q2197": {
+        "term": "What is the correct type of Bancho Leomon?.",
+        "responses": [
+            "Beast Man-type"
+        ]
+    },
+    "Q2198": {
+        "term": "What is the origin of Budmon?.",
+        "responses": [
+            "Bud"
+        ]
+    },
+    "Q2199": {
+        "term": "What is not correct lethal move of Greymon(C)?.",
+        "responses": [
+            "Grey Flame"
+        ]
+    },
+    "Q2200": {
+        "term": "This Digimon walks with 4 legs and has a gentle personality, but when it gets angry it emits “Electric Shock” by generating electricity which is not fewer than a million bolt and attack the enemy. What is this Digimon?.",
+        "responses": [
+            "Betamon"
+        ]
+    },
+    "Q2201": {
+        "term": "This Digimon moves nimbly and uses attacks of great accuracy, and has lethal move “Gatling Arm”. What is this Digimon?.",
+        "responses": [
+            "Galgomon"
+        ]
+    },
+    "Q2202": {
+        "term": "What is the name of the Digimon that Turuiemon evolved from?.",
+        "responses": [
+            "Ganimon"
+        ]
+    },
+    "Q2203": {
+        "term": "Which Digimon was born from the Jogress between Scorpmon and Tripmon?.",
+        "responses": [
+            "Sateramon"
+        ]
+    },
+    "Q2204": {
+        "term": "Which Digimon shows up in the 1st Episode of <Digimon Universe Appli Monsters> and reports its defeat to Messemon?.",
+        "responses": [
+            "Kameramon"
+        ]
+    },
+    "Q2205": {
+        "term": "Which Digimon always sleeps and acts while sleeping, changes into horrifying appearance when it forcefully wakes up by someone?.",
+        "responses": [
+            "Moneymon"
+        ]
+    },
+    "Q2206": {
+        "term": "What is this Super Appmon which showed up through “App Joint” activated by Haru’s attempt of App link with Gatchmon and Navimon?.",
+        "responses": [
+            "DoGatchmon"
+        ]
+    },
+    "Q2207": {
+        "term": "Which Digimon is a perfectionist tactician and good at coming out with bad strategies wheeling and dealing?.",
+        "responses": [
+            "Duftmon X"
+        ]
+    },
+    "Q2208": {
+        "term": "Which Digimon appears as mid-boss in <Digimon Universe Appli Monsters Part 1>?.",
+        "responses": [
+            "Orgemon"
+        ]
+    },
+    "Q2209": {
+        "term": "Which Digimon has a camouflage ability and is an evil clown that creates lies to deceive the whole world?.",
+        "responses": [
+            "Fakemon"
+        ]
+    },
+    "Q2210": {
+        "term": "Which Digimon is armor-level Holy Beast Digimon evolved by the power of Digimental of Hope, with the attribute of “Holy\"?.",
+        "responses": [
+            "Hououmon"
+        ]
+    },
+    "Q2211": {
+        "term": "Which is not Burst Mode Digimon?.",
+        "responses": [
+            "Bancho Leomon: Burst Mode"
+        ]
+    },
+    "Q2212": {
+        "term": "What is this Burst Mode Digimon became famous because of its illustration drawn by “Arumaria”, the illustrator of X-Antibody?.",
+        "responses": [
+            "Shine Greymon"
+        ]
+    },
+    "Q2213": {
+        "term": "How many Death-X-mon's Essence can be exchanged with Kudamon's Cartridge?.",
+        "responses": [
+            "30 of Essence of Death-X-mon"
+        ]
+    },
+    "Q2214": {
+        "term": "Who is the NPC that decompresses the 10 billion BIT compressed disk?.",
+        "responses": [
+            "Thunderballmon"
+        ]
+    },
+    "Q2215": {
+        "term": "Who is the 18th encounter villain Digimon in Darkness Dungeon HARD mode?.",
+        "responses": [
+            "Gaomon"
+        ]
+    },
+    "Q2216": {
+        "term": "What is the line of Chimairamon in Darkness Dungeon HARD mode?.",
+        "responses": [
+            "Aooooo!!"
+        ]
+    },
+    "Q2217": {
+        "term": "What is the name of Gargomon's favourite pants?.",
+        "responses": [
+            "DVI'S501xx"
+        ]
+    },
+    "Q2218": {
+        "term": "What is the name of the pattern that is on the shoulder armor of Alphamon?.",
+        "responses": [
+            "Empty Seat"
+        ]
+    },
+    "Q2219": {
+        "term": "Apocalymon is a regular n-sided body. What is n?.",
+        "responses": [
+            "8"
+        ]
+    },
+    "Q2220": {
+        "term": "In the ending of Power Digimon(Digimon Adventure 02), which of the following does not match the main characters' occupations?.",
+        "responses": [
+            "Mimi - Food Researcher"
+        ]
+    },
+    "Q2221": {
+        "term": "How many pairs of wings does Black Seraphimon have?.",
+        "responses": [
+            "4"
+        ]
+    },
+    "Q2222": {
+        "term": "What is the meaning of Digimoji on the body of Garudamon?.",
+        "responses": [
+            "Digimon"
+        ]
+    },
+    "Q2223": {
+        "term": "What is the meaning of Digimoji on Heavens Gate, one of the Holy Angemon's lethal moves?.",
+        "responses": [
+            "Digital World"
+        ]
+    },
+    "Q2224": {
+        "term": "This Digimon's smell is so intense that those who are not used to it will get knocked out cold. What is the name of this Digimon?.",
+        "responses": [
+            "Aquilamon"
+        ]
+    },
+    "Q2225": {
+        "term": "Which of the following is not Sunflowmon's lethal move?.",
+        "responses": [
+            "Sunshine Beam"
+        ]
+    },
+    "Q2226": {
+        "term": "Which one is not correct evolution condition of Black Seraphimon?.",
+        "responses": [
+            "Tamer Level 201"
+        ]
+    },
+    "Q2227": {
+        "term": "What is the correct level of Slayerdramon appearing in Wind Valley?.",
+        "responses": [
+            "82"
+        ]
+    },
+    "Q2228": {
+        "term": "What is Omegamon's favorite food?.",
+        "responses": [
+            "Bulgogi Curry"
+        ]
+    },
+    "Q2229": {
+        "term": "What is the name of Mushmon's lethal move that throws poisonous mushrooms?.",
+        "responses": [
+            "Rough S-mush"
+        ]
+    },
+    "Q2230": {
+        "term": "What is the model of gun that Monzaemon used in gunfight with Takaishi Takeru in the episode of DIGIMON ADVENTURE?.",
+        "responses": [
+            ".41 Magnum"
+        ]
+    },
+    "Q2231": {
+        "term": "What is the model of gun that Monzaemon lent Takaishi Takeru in gunfight with him in the episdoe of DIGIMON ADVENTURE?.",
+        "responses": [
+            "MAC-10"
+        ]
+    },
+    "Q2232": {
+        "term": "How many legs does Ogudomon have?.",
+        "responses": [
+            "5 legs"
+        ]
+    },
+    "Q2233": {
+        "term": "What is the name of weapon that Panjyamon X uses?.",
+        "responses": [
+            "Snow Fireworks"
+        ]
+    },
+    "Q2234": {
+        "term": "Monzaemon X gives \"this\" to Digimons which were attracted by loveliness of Monzaemon X, so what is \"this\"?.",
+        "responses": [
+            "Lovely Candy"
+        ]
+    },
+    "Q2235": {
+        "term": "What is the name of a bird that is always with Venusmon?.",
+        "responses": [
+            "Olive"
+        ]
+    },
+    "Q2236": {
+        "term": "Metallicdramon's lethal move, Laser Canon, can be seen from far distances when the skill is activated. How far can it be seen?.",
+        "responses": [
+            "10km"
+        ]
+    },
+    "Q2237": {
+        "term": "Which Digimon is not Vaccine-type?.",
+        "responses": [
+            "V-mon"
+        ]
+    },
+    "Q2238": {
+        "term": "What kind of Digizoid organizes the armor of Victory Greymon?.",
+        "responses": [
+            "Chrome Digizoid"
+        ]
+    },
+    "Q2239": {
+        "term": "Which Digimon has different type?.",
+        "responses": [
+            "Angewomon"
+        ]
+    },
+    "Q2240": {
+        "term": "Which Digimon has different type among Four Holy Beasts?.",
+        "responses": [
+            "Holydramon"
+        ]
+    },
+    "Q2241": {
+        "term": "Which Digimon has different type?.",
+        "responses": [
+            "War Greymon"
+        ]
+    },
+    "Q2242": {
+        "term": "How much data does Gaioumon have?.",
+        "responses": [
+            "55G"
+        ]
+    },
+    "Q2243": {
+        "term": "What is the required level of Giga Seadramon's evolution?.",
+        "responses": [
+            "51"
+        ]
+    },
+    "Q2244": {
+        "term": "Which Digimon has the nickname of the 'Noise Digimon'?.",
+        "responses": [
+            "Tortamon"
+        ]
+    },
+    "Q2245": {
+        "term": "Which Digimon has the nickname of the 'Flying Lion'?.",
+        "responses": [
+            "Liamon"
+        ]
+    },
+    "Q2246": {
+        "term": "Which is the Magic Warrior Digimon from \"Witchelny\"?.",
+        "responses": [
+            "Witchmon"
+        ]
+    },
+    "Q2247": {
+        "term": "How many times does 'Apocalymon' have the chances of '100% reinforcement'?.",
+        "responses": [
+            "30 times"
+        ]
+    },
+    "Q2248": {
+        "term": "What is the correct word that goes into Alpha [ ] Force?.",
+        "responses": [
+            "All in"
+        ]
+    },
+    "Q2249": {
+        "term": "What is the name of forest that Ceresmon carries?.",
+        "responses": [
+            "Karpos Hule"
+        ]
+    },
+    "Q2250": {
+        "term": "What is the name of famous fruit, bearing in forest that Ceresmon carries?.",
+        "responses": [
+            "Fruits"
+        ]
+    },
+    "Q2251": {
+        "term": "What is this Demon Beast Digimon that inhabits in the dark forest that is spread vast across the Dark Area?.",
+        "responses": [
+            "Gran Kuwagamon"
+        ]
+    },
+    "Q2252": {
+        "term": "Where is the base camp of Tyrant Kabuterimon?.",
+        "responses": [
+            "Karpos Hule"
+        ]
+    },
+    "Q2253": {
+        "term": "Which Digimon's horn was used to make the sword that Regalecusmon uses?.",
+        "responses": [
+            "Aegiochusmon "
+        ]
+    },
+    "Q2254": {
+        "term": "What is the name of long sword that Darcmon uses?.",
+        "responses": [
+            "La Pucello"
+        ]
+    },
+    "Q2255": {
+        "term": "Which Digimon does not belong to the 'Three Musketeers'?.",
+        "responses": [
+            "Magna Kidmon"
+        ]
+    },
+    "Q2256": {
+        "term": "Where is the true form of Vamdemon X?.",
+        "responses": [
+            "Boots"
+        ]
+    },
+    "Q2257": {
+        "term": "Which Digimon is artificially remodeled that doesn't feel fatigue, pain and has no fear of death?.",
+        "responses": [
+            "Troopmon"
+        ]
+    },
+    "Q2258": {
+        "term": "User A bought Pitchmon's Egg and Pet's Food (for Pitchmon) from Prince Mamemon using Earned Coins, which were obtained by purchasing 6 of Examon Evolution Set Box, 35 of Moist Spring's Rain Box x2 at the Store. How much does Earned Coin remain?.",
+        "responses": [
+            "30"
+        ]
+    },
+    "Q2259": {
+        "term": "User A bought Will of Fusion from Prince Mamemon using Earned Coins, which were obtained by purchasing 6 of Examon Evolution Set Box, 35 of Moist Spring's Rain Box x2 at the Store. How much does Earned Coin remain?.",
+        "responses": [
+            "5"
+        ]
+    },
+    "Q2260": {
+        "term": "Which Digimon officially has the biggest size?.",
+        "responses": [
+            "Examon"
+        ]
+    },
+    "Q2261": {
+        "term": "How much data does Gaioumon have?.",
+        "responses": [
+            "50GB"
+        ]
+    },
+    "Q2262": {
+        "term": "Choose the one that matches the appearance cost and evolution cost of Omegamon X-Antibody (BT5-111) from Battle of Omega in the Digimon card game..",
+        "responses": [
+            "App:13 , Evo:3"
+        ]
+    },
+    "Q2263": {
+        "term": "Among the effects of V-dramon(BT22-026) in the Digimon Card Game, what effect is given to this card if there is a blue Tamer?.",
+        "responses": [
+            "Go-ahead"
+        ]
+    },
+    "Q2264": {
+        "term": "Which Digimon has a different attribute?.",
+        "responses": [
+            "Indaramon"
+        ]
+    },
+    "Q2265": {
+        "term": "Which Digimon is sometimes seen going on a rampage with driving a herd of Machmon?.",
+        "responses": [
+            "Rebellimon"
+        ]
+    },
+    "Q2266": {
+        "term": "What is the name of weapon that Vulturemon uses?.",
+        "responses": [
+            "CND-95"
+        ]
+    },
+    "Q2267": {
+        "term": "Which Digimon is called 'Jet-black Warrior'?.",
+        "responses": [
+            "Darkness Bagramon"
+        ]
+    },
+    "Q2268": {
+        "term": "Which Digimon is called 'Jet-black Lion'?.",
+        "responses": [
+            "Kaiser Leomon"
+        ]
+    },
+    "Q2269": {
+        "term": "Which Digimon is called 'Jet-black Demon Dragon'?.",
+        "responses": [
+            "Yatagaramon"
+        ]
+    },
+    "Q2270": {
+        "term": "What is the name of weapon that Bancho Mamemon uses?.",
+        "responses": [
+            "Golden Rush"
+        ]
+    },
+    "Q2271": {
+        "term": "How many Holy Rings are on the body of Hououmon X?.",
+        "responses": [
+            "6 Holy Rings"
+        ]
+    },
+    "Q2272": {
+        "term": "In which episode of <DIGIMON ADVENTURE> animation did Joe, one of the Chosen Children, obtain his Crest?.",
+        "responses": [
+            "14"
+        ]
+    },
+    "Q2273": {
+        "term": "In which episode of <DIGIMON ADVENTURE> animation did Agumon carry out Dark Evolution into Skull Greymon?.",
+        "responses": [
+            "13"
+        ]
+    },
+    "Q2274": {
+        "term": "What is the type of Nyokimon?.",
+        "responses": [
+            "Seed-type"
+        ]
+    },
+    "Q2275": {
+        "term": "According to the Digimon Lore, how many grams is the weight of Tanemon?.",
+        "responses": [
+            "9g"
+        ]
+    },
+    "Q2276": {
+        "term": "It is a Cyborg-type Digimon who eliminates the life of enemies with the movement that is close to the speed of light. Which Digimon's explanation is this?.",
+        "responses": [
+            "Black Saint Galgomon"
+        ]
+    },
+    "Q2277": {
+        "term": "Which Digimon saves those who are in distress in the snowy mountains when they are judged worthwhile?.",
+        "responses": [
+            "Fros Velgrmon"
+        ]
+    },
+    "Q2278": {
+        "term": "Which Digimon saved other Digimons when Digital World was in Ice Age then moved to \"Witchelny\", the other dimension?.",
+        "responses": [
+            "Fros Velgrmon"
+        ]
+    },
+    "Q2279": {
+        "term": "Why did Taichi wake up with surprise when he lied down on the tree?.",
+        "responses": [
+            "Noisy sound"
+        ]
+    },
+    "Q2280": {
+        "term": "Which Digimon was sent to the human world by Qinglongmon to prevent the activation of D-Reaper in DIGIMON TAMERS?.",
+        "responses": [
+            "Zhuqiaomon"
+        ]
+    },
+    "Q2281": {
+        "term": "Which is not the correct type of training that Piccolomon directed to the Chosen Children in DIGIMON ADVENTURE?.",
+        "responses": [
+            "Cleaning"
+        ]
+    },
+    "Q2282": {
+        "term": "When did Chosen Children cross to the Digital World?.",
+        "responses": [
+            "30th July, 1999"
+        ]
+    },
+    "Q2283": {
+        "term": "What is Raremon's next stage of evolution?.",
+        "responses": [
+            "Metal Raremon"
+        ]
+    },
+    "Q2284": {
+        "term": "Which Digimon was a servant of Vamdemon, and was awakened by the Holy Ring on Tailmon's tail?.",
+        "responses": [
+            "Metal Seadramon"
+        ]
+    },
+    "Q2285": {
+        "term": "What is the correct word for OOO in DORUmon's official description? [A Beast Digimon that is, because of the outdated OOO on its brow, presumed to be an experimental \"Prototype Digimon\" from before Digimon were discovered.].",
+        "responses": [
+            "Jewel"
+        ]
+    },
+    "Q2286": {
+        "term": "Which one is not a Tamer [Front] Title?.",
+        "responses": [
+            "Cutesy"
+        ]
+    },
+    "Q2287": {
+        "term": "Which one is not a Tamer [Back] Title?.",
+        "responses": [
+            "Chopping Firewood"
+        ]
+    },
+    "Q2288": {
+        "term": "Which one is a Tamer [Front] Title?.",
+        "responses": [
+            "Grottoed"
+        ]
+    },
+    "Q2289": {
+        "term": "Which one is a Tamer [Back] Title?.",
+        "responses": [
+            "Fading"
+        ]
+    },
+    "Q2290": {
+        "term": "In the description of the item \"Over Program\", which words will go in the order OOO and □□□? [An item that can convert remaining OOO points into □□□ points.].",
+        "responses": [
+            "Stats, Skill"
+        ]
+    },
+    "Q2291": {
+        "term": "In the description of the card \"Data Explosion\", which words will go in the order OOO and □□□? [HP reduced by OOO%. Damage increased by □□□%.].",
+        "responses": [
+            "50, 80"
+        ]
+    },
+    "Q2292": {
+        "term": "What is the name of the item with the following description? [When Millenniummon dies, if you have this, something powerful will come back to life.].",
+        "responses": [
+            "Spirit of Darkness"
+        ]
+    },
+    "Q2293": {
+        "term": "What is the name of the item with the following description? [An item that artificially processed Digimon's data.].",
+        "responses": [
+            "Data's Fragment"
+        ]
+    },
+    "Q2294": {
+        "term": "What is the name of the item with the following description? [An item containing the Royal Knights Force, Emperor's Fang, and Avalon's Gate.].",
+        "responses": [
+            "Evolution Card Set"
+        ]
+    },
+    "Q2295": {
+        "term": "What is the name of the card with the following description? [Attacks all enemies with 100% damage without loss of damage.].",
+        "responses": [
+            "Offense Plug-In A"
+        ]
+    },
+    "Q2296": {
+        "term": "What is the name of the card with the following description? [Damage increased by 80%.].",
+        "responses": [
+            "Boost Chip"
+        ]
+    },
+    "Q2297": {
+        "term": "To make \"DigiMemory(BR) X\", You need to find Dr. Kurata Akihiro. On which map is he located?.",
+        "responses": [
+            "Park Town"
+        ]
+    },
+    "Q2298": {
+        "term": "What is the name of the item you should use to free up space in your bag or card book?.",
+        "responses": [
+            "Repair Kit"
+        ]
+    },
+    "Q2299": {
+        "term": "Which one is not a Tamer [Front] Title?.",
+        "responses": [
+            "Barking"
+        ]
+    },
+    "Q2300": {
+        "term": "Which one is not a Tamer [Back] Title?.",
+        "responses": [
+            "Rudolph"
+        ]
+    },
+    "Q2301": {
+        "term": "Which of the following is not a component in the [Kaiser Greymon Evolution Set] sold in the In-Game Shop from September 8, 2022 to September 22, 2022?.",
+        "responses": [
+            "Special Taming Net"
+        ]
+    },
+    "Q2302": {
+        "term": "What is the correct word for OOO in Bancho Leomon's official description? [The \"GAKU-RAN\" worn over its shoulders is endowed with a defensive function that negates OOO% of the opponent's physical strikes.].",
+        "responses": [
+            "88.9"
+        ]
+    },
+    "Q2303": {
+        "term": "What is the correct word for OOO in Seraphimon's official description? [As the highest-ranked being among OOO Digimon, it rules over them all.].",
+        "responses": [
+            "Angel"
+        ]
+    },
+    "Q2304": {
+        "term": "What is the correct word for OOO in Cherubimon(Virtue)'s official description? [Its primary duty is to defend the Digital World's \"OOO\".].",
+        "responses": [
+            "Royal Knights"
+        ]
+    },
+    "Q2305": {
+        "term": "This is part of Yggdrasil's description in <Digital Monster X-evolution>, which words will go in the order OOO and □□□? [Yggdrasill was eventually destroyed by the Royal Knights OOO and □□□, when they realized that it intended to end the lives of all Digi.",
+        "responses": [
+            "Alphamon, Lord Knightmon"
+        ]
+    },
+    "Q2306": {
+        "term": "This is part of Yggdrasil's description in <Digimon Savers>, What would go into OOO? [When Yggdrasill became “OOO” as a result of being unable to interpret the requests of the Digimon. It began to call itself the \"WIZ9000 Computer\".].",
+        "responses": [
+            "bugged"
+        ]
+    },
+    "Q2307": {
+        "term": "Which of the following Digimon does not wear armor made of Chrome Digizoid?.",
+        "responses": [
+            "Mirage Gaogamon"
+        ]
+    },
+    "Q2308": {
+        "term": "Which of the following Digimon does not wear armor made of Gold Digizoid?.",
+        "responses": [
+            "Cres Garurumon"
+        ]
+    },
+    "Q2309": {
+        "term": "Please choose the one that correctly matches the name of the Digimon of Olympos XII and the domain that the Digimon is responsible for..",
+        "responses": [
+            "Apollomon - Sea"
+        ]
+    },
+    "Q2310": {
+        "term": "Please choose the one that correctly matches the name of the Digimon of Olympos XII and the domain that the Digimon is responsible for..",
+        "responses": [
+            "Vulcanusmo - Smithery"
+        ]
+    },
+    "Q2311": {
+        "term": "Choose the one that matches the name of the Digimon of Olympos XII and the animal that became the motif of the Digimon..",
+        "responses": [
+            "Apollomon - Wolf"
+        ]
+    },
+    "Q2312": {
+        "term": "Choose the one that matches the name of the Digimon of Olympos XII and the animal that became the motif of the Digimon..",
+        "responses": [
+            "Marsmon - Lion"
+        ]
+    },
+    "Q2313": {
+        "term": "Please choose one that matches the following Digimental Name with its Owner..",
+        "responses": [
+            "Courage - Motomiya Daisuke"
+        ]
+    },
+    "Q2314": {
+        "term": "Please choose one that matches the following Digimental Name with its Location..",
+        "responses": [
+            "Love - Small cavern"
+        ]
+    },
+    "Q2315": {
+        "term": "Which of the following is not a Dark Tower Digimon?.",
+        "responses": [
+            "Knightmon"
+        ]
+    },
+    "Q2316": {
+        "term": "This is part of Lucemon : Falldown Mode's description in <Digimon Frontier>, What would go into OOO? [When he opened the gate way to Earth the Legendary Chosen came again and fought him. During the battle Kouichi came in the way of his OOO attack and Luce.",
+        "responses": [
+            "Dead or Alive"
+        ]
+    },
+    "Q2317": {
+        "term": "This is part of Hagurumon's description in <Digimon Adventure>, What would go into OOO? [Two Hagurumon served OOO, working as his advisers and message-runners for his army.].",
+        "responses": [
+            "Andromon"
+        ]
+    },
+    "Q2318": {
+        "term": "This is part of Mugendramon's description in <Digimon Adventure>, What would go into OOO? [Mugendramon orders the execution of \"OOO\" to destroy the entire city and smoke the group out.].",
+        "responses": [
+            "Plan A"
+        ]
+    },
+    "Q2319": {
+        "term": "The following is a part of the description of the Royal Knights appearing in <Digimon Savers>, which words will go in the order OOO, □□□ and △△△? [The Royal Knights as a whole were originally viewed upon as being antagonists, due to being ordered to destr.",
+        "responses": [
+            "Digital, Human, Real"
+        ]
+    },
+    "Q2320": {
+        "term": "The following is a part of the description of the Bakumon appearing in <Digimon Adventure tri.>, What would go into OOO? [As of \"Coexistence\", Bakumon has fled and disappeared. Maki wanders aimlessly in a delusional haze to find it in the OOO.].",
+        "responses": [
+            "Dark Ocean"
+        ]
+    },
+    "Q2321": {
+        "term": "The following is a part of the description of the Vamdemon appearing in <Digimon Universe Appli Monsters>, What would go into OOO? [Agumon asks Shinkai Haru if he is the one who lost to Vamdemon OOO times.].",
+        "responses": [
+            "464"
+        ]
+    },
+    "Q2322": {
+        "term": "The following is a description of some places within the Real World appearing in <Digimon Tamers>. What word goes into OOO? [OOO is one of the special wards of Tokyo, where Guilmon makes his home and finds a portal to the Digital World, and Tokyo Metropol.",
+        "responses": [
+            "Shinjuku"
+        ]
+    },
+    "Q2323": {
+        "term": "The following is a description of some places within the Real World appearing in <Digimon Savers>. What word goes into OOO? [OOO was breifly seen being destroyed by Dunasmos, following Yggdrasill's orders to save the Digital World.].",
+        "responses": [
+            "Stockholm"
+        ]
+    },
+    "Q2324": {
+        "term": "Which -Field- is the following description about? [Darkness or spirit based Digimon, or Digimon based on traditional \"Halloween\" monsters like vampires, werewolves, or Japanese youkai and demons. Can represent haunted or cursed areas.].",
+        "responses": [
+            "Deep Savers"
+        ]
+    },
+    "Q2325": {
+        "term": "Which -Field- is the following description about? [Flying, air, or plant based Digimon. Can represent forests and the sky.].",
+        "responses": [
+            "Wind Guardians"
+        ]
+    },
+    "Q2326": {
+        "term": "Which -Field- is the following description about? [Villainous, demonic, terrifying, evil Digimon. Can represent the Dark Area of the Digital World.].",
+        "responses": [
+            "Nightmare Soldiers"
+        ]
+    },
+    "Q2327": {
+        "term": "Which -Field- is the following description about? [Heroic or angelic Digimon, often includes main characters from the anime or manga. Can represent the sky or heavens.].",
+        "responses": [
+            "Dragon's Roar"
+        ]
+    },
+    "Q2328": {
+        "term": "Which -Field- is the following description about? [Draconic, reptile, or fire-related Digimon.].",
+        "responses": [
+            "Deep Savers"
+        ]
+    },
+    "Q2329": {
+        "term": "Which -Field- is the following description about? [Plant or Insect based Digimon.].",
+        "responses": [
+            "Jungle Troopers"
+        ]
+    },
+    "Q2330": {
+        "term": "Which -Group- is the following description about? [Extremely powerful Demon Lord-type Digimon who generally come from the Dark Area.].",
+        "responses": [
+            "Four Great Dragons"
+        ]
+    },
+    "Q2331": {
+        "term": "Which -Group- is the following description about? [Twelve Digimon based on the Asian Zodiac and myths of the Buddhist Heavenly Warriors that serve the Four Holy Beasts.].",
+        "responses": [
+            "Deva"
+        ]
+    },
+    "Q2332": {
+        "term": "Which -Group- is the following description about? [Ten ancient Digimon what protected the Digital World in the past. Each one off them rules over one of the ten elements of the Digital World.].",
+        "responses": [
+            "Royal Knights"
+        ]
+    },
+    "Q2333": {
+        "term": "Which [Title] item has the following description? [I... don't listen to orders from guys weaker than me!].",
+        "responses": [
+            "Fighter"
+        ]
+    },
+    "Q2334": {
+        "term": "Which [Title] item has the following description? [Anyone who owns this will surely have a good future.].",
+        "responses": [
+            "Knowledgeable"
+        ]
+    },
+    "Q2335": {
+        "term": "How long after receiving the \"Attendance Check Box\" item will it be automatically opened?.",
+        "responses": [
+            "30 minutes"
+        ]
+    },
+    "Q2336": {
+        "term": "How many return cards are included in the 'Evolution Return Package'?.",
+        "responses": [
+            "3 ea"
+        ]
+    },
+    "Q2337": {
+        "term": "What is the effect of the 'Digimon Title Collection' that is activated when 100 Digimon Titles are collected?.",
+        "responses": [
+            "Battle Rating +100"
+        ]
+    },
+    "Q2338": {
+        "term": "What is the effect of the 'Digimon Title Collection' that is activated when 150 Digimon Titles are collected?.",
+        "responses": [
+            "INT +20"
+        ]
+    },
+    "Q2339": {
+        "term": "What is the effect of the 'Digimon Title Collection' that is activated when 190 Digimon Titles are collected?.",
+        "responses": [
+            "CON +10"
+        ]
+    },
+    "Q2340": {
+        "term": "Which Digimon uses the skill called “Hell's Howling”?.",
+        "responses": [
+            "Chaosdramon X"
+        ]
+    },
+    "Q2341": {
+        "term": "Which Digimon uses the skill called “Double Dust”?.",
+        "responses": [
+            "Skull Mammon"
+        ]
+    },
+    "Q2342": {
+        "term": "Which Digimon uses the skill called “Metal Impulse”?.",
+        "responses": [
+            "Death-X-DORUgoramon"
+        ]
+    },
+    "Q2343": {
+        "term": "Which Digimon uses the skill called “Sukara”?.",
+        "responses": [
+            "Sakuyamon"
+        ]
+    },
+    "Q2344": {
+        "term": "Which Digimon uses the skill called “Glorious Burst”?.",
+        "responses": [
+            "Ofanimon"
+        ]
+    },
+    "Q2345": {
+        "term": "Which Digimon uses the skill called “Blaze Power”?.",
+        "responses": [
+            "Rust Tyranomon"
+        ]
+    },
+    "Q2346": {
+        "term": "The following is an explanation of the 'Baihumon's Energy' Resonance Effect. What is the word for OO? [Huanglongmon's Characteristic 'Recovery' is changed to 'Amplification', and OO increased by 150.].",
+        "responses": [
+            "CON"
+        ]
+    },
+    "Q2347": {
+        "term": "The following is an explanation of the 'Xuanwumon's Energy' Resonance Effect. What is the word for OO? [Huanglongmon has the Extra Characteristic 'Presentiment', and OO increased by 500.].",
+        "responses": [
+            "HP"
+        ]
+    },
+    "Q2348": {
+        "term": "The following is an explanation of the 'Royal Knights - Flash Knight' Resonance Effect. What is the word for OO? [Omegamon X's Characteristic 'Devotion' is changed to 'OO'.].",
+        "responses": [
+            "Reckless"
+        ]
+    },
+    "Q2349": {
+        "term": "The following is an explanation of the 'Black Dog' Resonance Effect. What is the word for OO? [Increases the activation chances of Black Saint Galgomon's Exclusive Characteristic 'Black Weapon' by an additional OO%.].",
+        "responses": [
+            "20"
+        ]
+    },
+    "Q2350": {
+        "term": "The following is an explanation of the 'Royal Knights - Loyal Knight' Resonance Effect. What is the word for OOO? [Increases the activation chances of Dukemon X's Exclusive Characteristic 'Holy Shield Aegis' by 20% and OOO increased by 30.].",
+        "responses": [
+            "ATK and DEF"
+        ]
+    },
+    "Q2351": {
+        "term": "What item is the following description for? [This is ancient coordinate data that can be moved to Baihumon's hideout.].",
+        "responses": [
+            "Coordinate Data (N)"
+        ]
+    },
+    "Q2352": {
+        "term": "What item is the following description for? [A hair item with a fresh green color. So cute!].",
+        "responses": [
+            "Invisible Cap"
+        ]
+    },
+    "Q2353": {
+        "term": "What item is the following description for? [Trousers that are shorter than regular trousers and reveal the calf.].",
+        "responses": [
+            "Jeans"
+        ]
+    },
+    "Q2354": {
+        "term": "What is the correct word for OOO in Yuramon's official description? [When it hatches from its OOO, it seeks an environment suitable for its growth, and drifts lightly through the air, like a dandelion seed.].",
+        "responses": [
+            "Digicode"
+        ]
+    },
+    "Q2355": {
+        "term": "What is the correct word for OOO in Megidramon's official description? [Although it is a rare species that isn't even known to be extant, and its very existence is a \"Digital Hazard\", its powers were sealed away by some sort of \"force\".].",
+        "responses": [
+            "Chaos Dukemon"
+        ]
+    },
+    "Q2356": {
+        "term": "What is the correct word for OOO in Coredramon(Blue)'s official description? [The blue-skinned Coredramon is said to be the evolved form of a Dracomon that ingested large quantities of a rare gem called \"OOO\",···].",
+        "responses": [
+            "Blue Diamante"
+        ]
+    },
+    "Q2357": {
+        "term": "What is the correct word for OOO in Coredramon(Green)'s official description? [he green-skinned Coredramon is said to be the evolved form of a Dracomon that ingested large quantities of a rare gem called \"OOO\",···].",
+        "responses": [
+            "Green Sapphire"
+        ]
+    },
+    "Q2358": {
+        "term": "What is the correct word for OOO in Renamon's official description? [A Beast Man Digimon with the appearance of a OOO fox.].",
+        "responses": [
+            "golden"
+        ]
+    },
+    "Q2359": {
+        "term": "What is the correct word for OOO in Flybeemon's official description? [An Armor-level Insect Digimon that evolved through the power of the \"Digimental of OOO\".].",
+        "responses": [
+            "Hope"
+        ]
+    },
+    "Q2360": {
+        "term": "What is the correct word for OOO in Otamamon's official description? [It swims in lakes and rivers upstream of the OOO with its large tail,···].",
+        "responses": [
+            "Square World"
+        ]
+    },
+    "Q2361": {
+        "term": "What is the correct word for OOO in Gargomon's official description? [An Armor-level Demon Beast Digimon that evolved through the power of the \"Digimental of OOO\".].",
+        "responses": [
+            "Knowledge"
+        ]
+    },
+    "Q2362": {
+        "term": "What is the correct word for OOO in Candmon's official description? [A Flame Digimon whose Digicore, which can also be said to be a Digimon's OOO, burns intensely while mounted atop its head.].",
+        "responses": [
+            "heart"
+        ]
+    },
+    "Q2363": {
+        "term": "What is the correct word for OOO in Kongoumon's official description? [An Armor-level Insect Digimon that evolved through the power of the \"Digimental of OOO\".].",
+        "responses": [
+            "Courage"
+        ]
+    },
+    "Q2364": {
+        "term": "What is the correct word for OOO in Butterflamon's official description? [An Armor-level Insect Digimon that evolved through the power of the \"Digimental of OOO\".].",
+        "responses": [
+            "Hope"
+        ]
+    },
+    "Q2365": {
+        "term": "What is the correct word for OOO in Ranamon's official description? [A Digimon that possesses power over OOO which bears the might of one of the legendary Warrior Ten.].",
+        "responses": [
+            "Water"
+        ]
+    },
+    "Q2366": {
+        "term": "What is the correct word for OOO in Garudamon's official description? [Also, it is matchless friends with the hero OOO, who possesses the same will.].",
+        "responses": [
+            "V-dramon"
+        ]
+    },
+    "Q2367": {
+        "term": "What is the correct word for OOO in V-dramon's official description? [A Mythical Dragon Digimon that, even with the vastness of the Digital World, is said to only exist on the OOO.].",
+        "responses": [
+            "Demon's Valley"
+        ]
+    },
+    "Q2368": {
+        "term": "What is the correct word for OOO in XV-mon's official description? [An Adult-level OOO Dragon Digimon that attained V-mon's natural power and evolved.].",
+        "responses": [
+            "Mythical"
+        ]
+    },
+    "Q2369": {
+        "term": "Which one is not a Tamer [Front] Title?.",
+        "responses": [
+            "Cynical"
+        ]
+    },
+    "Q2370": {
+        "term": "Which one is not a Tamer [Back] Title?.",
+        "responses": [
+            "Child"
+        ]
+    },
+    "Q2371": {
+        "term": "Which one is a Tamer [Front] Title?.",
+        "responses": [
+            "Fading"
+        ]
+    },
+    "Q2372": {
+        "term": "Which one is a Tamer [Back] Title?.",
+        "responses": [
+            "Loving"
+        ]
+    },
+    "Q2373": {
+        "term": "How much is the 'Megidramon X Evolution Set Box' sold at In-Game Shop?.",
+        "responses": [
+            "750 Crown"
+        ]
+    },
+    "Q2374": {
+        "term": "Which of the following is not a Digimon of Demon Dragon-type?.",
+        "responses": [
+            "Majiramon"
+        ]
+    },
+    "Q2375": {
+        "term": "Which of the following is not a Digimon of Baby Dragon-type?.",
+        "responses": [
+            "Babydmon"
+        ]
+    },
+    "Q2376": {
+        "term": "Which of the following is not a Digimon of Warrior-type?.",
+        "responses": [
+            "Medieval Dukemon"
+        ]
+    },
+    "Q2377": {
+        "term": "Which of the following is not a Digimon of Dark Knight-type?.",
+        "responses": [
+            "Dark Knightmon"
+        ]
+    },
+    "Q2378": {
+        "term": "Which Digimon correspond to Unknown-type?.",
+        "responses": [
+            "Prince Mamemon"
+        ]
+    },
+    "Q2379": {
+        "term": "Which Digimon correspond to Machine-type?.",
+        "responses": [
+            "Saint Galgomon"
+        ]
+    },
+    "Q2380": {
+        "term": "Which Digimon correspond to Ancient Beast-type?.",
+        "responses": [
+            "Marin Devimon"
+        ]
+    },
+    "Q2381": {
+        "term": "Which Digimon correspond to God Man-type?.",
+        "responses": [
+            "Vajramon"
+        ]
     }
 }; 
 
