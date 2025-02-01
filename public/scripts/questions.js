@@ -12040,7 +12040,7 @@ var QA =  {
     "Q2380": {
         "term": "Which Digimon correspond to Ancient Beast-type?.",
         "responses": [
-            "Marin Devimon"
+            "Dinotigermon"
         ]
     },
     "Q2381": {
