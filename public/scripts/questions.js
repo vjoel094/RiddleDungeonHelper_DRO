@@ -8265,7 +8265,7 @@ var QA = {
     "Q1378": {
         "term": "What is the name of Waru Monzaemon’s weapon that immitates “Kuma Tsume” of Gryzmon?.",
         "responses": [
-            "Death Claw"
+            "Bear Claw"
         ]
     },
     "Q1379": {
