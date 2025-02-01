@@ -21,7 +21,7 @@ var QA = {
     "Q4": {
         "term": "What is the type of King Etemon?.",
         "responses": [
-            "PupPet-type"
+            "PuPet-type"
         ]
     },
     "Q5": {
@@ -33,7 +33,7 @@ var QA = {
     "Q6": {
         "term": "What kind of Digimental is used to evolve Goatmon?.",
         "responses": [
-            "Digimental of Miracles"
+            "Digimental of Hope"
         ]
     },
     "Q7": {
@@ -45,7 +45,7 @@ var QA = {
     "Q8": {
         "term": "What is Otamamon's evolution level?.",
         "responses": [
-            "In-Training"
+            "Rookie"
         ]
     },
     "Q9": {
@@ -81,7 +81,7 @@ var QA = {
     "Q14": {
         "term": "What is the name of the saber of light Dukemon : Crimson Mode uses?.",
         "responses": [
-            "Zet Sword"
+            "Blutgang"
         ]
     },
     "Q15": {
@@ -105,13 +105,13 @@ var QA = {
     "Q18": {
         "term": "At what level can one be Robust Tamer?.",
         "responses": [
-            "Lv.101"
+            "Lv.201"
         ]
     },
     "Q19": {
         "term": "Which of the following is not needed for Jogress-Evolution of Apocalymon in the Digimon RPG?.",
         "responses": [
-            "Pinochimon"
+            "Mugendramon"
         ]
     },
     "Q20": {
@@ -135,7 +135,7 @@ var QA = {
     "Q23": {
         "term": "What is the percentage of producing Omegamon X's Evolution Card?.",
         "responses": [
-            "0.10%"
+            "0,20%"
         ]
     },
     "Q24": {
@@ -189,13 +189,13 @@ var QA = {
     "Q32": {
         "term": "Which of the following is the correct ingredient for the Evolution of Cherubimon(Virtue)?.",
         "responses": [
-            "Asuramon's Necklace"
+            "Evilmon's Beard"
         ]
     },
     "Q33": {
         "term": "What is the name of the NPC who creates Guilds at Park Town?.",
         "responses": [
-            "Ms. Asanuma Tami"
+            "Ms. Asanuma Nami"
         ]
     },
     "Q34": {
@@ -207,7 +207,7 @@ var QA = {
     "Q35": {
         "term": "Which of the following is not the usage of item \"Digimon's Blessing\"?.",
         "responses": [
-            "Reinforcement of Dynasmon's Crest"
+            "Evolution of Cherubimon(Virtue)"
         ]
     },
     "Q36": {
@@ -225,7 +225,7 @@ var QA = {
     "Q38": {
         "term": "How much is the Constitution figure of Greymon(Blue)'s status?.",
         "responses": [
-            "1"
+            "2"
         ]
     },
     "Q39": {
@@ -237,19 +237,19 @@ var QA = {
     "Q40": {
         "term": "Which of the following is the right effect of \"Chicken Combo\"?.",
         "responses": [
-            "HP +100 / VP +50"
+            "HP +150 VP +50"
         ]
     },
     "Q41": {
         "term": "Which of the following is the right Characteristic of Megalo Growmon?.",
         "responses": [
-            "Fight"
+            "Rush"
         ]
     },
     "Q42": {
         "term": "Which of the following is not the Extra Characteristics (Attack) in Digimon RPG?.",
         "responses": [
-            "Virus Killer"
+            "Stealing"
         ]
     },
     "Q43": {
@@ -261,7 +261,7 @@ var QA = {
     "Q44": {
         "term": "Which of the following is the right effect of the \"Potion of Ruse\"?.",
         "responses": [
-            "ATK +1%"
+            "Excl Charc ACT Chances +1%"
         ]
     },
     "Q45": {
@@ -381,7 +381,7 @@ var QA = {
     "Q64": {
         "term": "How old is Yagami Taichi in the animation <DIGIMON ADVENTURE>?.",
         "responses": [
-            "10 years old"
+            "11 years old (this is jp age)"
         ]
     },
     "Q65": {
@@ -393,13 +393,13 @@ var QA = {
     "Q66": {
         "term": "Which is the correct effect of \"1000th Win [Title]\"?.",
         "responses": [
-            "STR +2 / AGI +2"
+            "STR+ 2 / AGI +2"
         ]
     },
     "Q67": {
         "term": "What is the name of the NPC who can Jogress-Evolution of Apocalymon?.",
         "responses": [
-            "Extraordinary Jijimon"
+            "Scary Jijimon"
         ]
     },
     "Q68": {
@@ -417,7 +417,7 @@ var QA = {
     "Q70": {
         "term": "What is the message created when you kill Omegamon Zwart D existing on the Labyrinth HARD - 3F?.",
         "responses": [
-            "Ughhhhhhh!"
+            "Ughhhhhhh! (Only 1 \" ! \")"
         ]
     },
     "Q71": {
@@ -471,13 +471,13 @@ var QA = {
     "Q79": {
         "term": "Which of the following is not the server provided by Digimon RPG?.",
         "responses": [
-            "Net Ocean"
+            "Ocean of Dagomon"
         ]
     },
     "Q80": {
         "term": "How much Bits can you gain when you sell the \"Crest of Determination\" to the item store?.",
         "responses": [
-            "300,000 Bits"
+            "400,000 bits"
         ]
     },
     "Q81": {
@@ -507,19 +507,19 @@ var QA = {
     "Q85": {
         "term": "Choose the correct CON effect option of the \"Those Recognized by Xuanwumon [Title]\"..",
         "responses": [
-            "CON +10"
+            "CON +20"
         ]
     },
     "Q86": {
         "term": "Choose the correct INT effect option of the \"Those Recognized by Qinglongmon [Title]\"..",
         "responses": [
-            "INT +10"
+            "INT +20"
         ]
     },
     "Q87": {
         "term": "How many 'Belphemon's Chain' are required for 100% chance evolution of Belphemon : Rage Mode?.",
         "responses": [
-            "20"
+            "30"
         ]
     },
     "Q88": {
@@ -567,7 +567,7 @@ var QA = {
     "Q95": {
         "term": "Which Digimon's arm is not included in Chimairamon's arm?.",
         "responses": [
-            "Kuwagamon"
+            "Kabuterimon"
         ]
     },
     "Q96": {
@@ -579,7 +579,7 @@ var QA = {
     "Q97": {
         "term": "Which Digimon is not motived after dinosaur?.",
         "responses": [
-            "Tyranomon"
+            "Dinotigermon"
         ]
     },
     "Q98": {
@@ -639,13 +639,13 @@ var QA = {
     "Q107": {
         "term": "What is the shortcut to open extra card case?.",
         "responses": [
-            "Alt + NUM"
+            "Shift + NUM"
         ]
     },
     "Q108": {
         "term": "How many extra card cases can you equip at maximum?.",
         "responses": [
-            "8"
+            "7"
         ]
     },
     "Q109": {
@@ -675,7 +675,7 @@ var QA = {
     "Q113": {
         "term": "What is the name of the piece Paildramon first appeared?.",
         "responses": [
-            "DIGIMON ADVENTURE"
+            "DIGIMON ADVENTURE 02"
         ]
     },
     "Q114": {
@@ -945,7 +945,7 @@ var QA = {
     "Q158": {
         "term": "Which Chinese character is written on Waru Monzaemon's arm?.",
         "responses": [
-            "死"
+            "(Number 4) - 惡"
         ]
     },
     "Q159": {
@@ -1011,7 +1011,7 @@ var QA = {
     "Q169": {
         "term": "What is the name of the spear equipped on Dukemon's right hand?.",
         "responses": [
-            "Holy Lance Claiomh Solais"
+            "Holy Lance Gram"
         ]
     },
     "Q170": {
@@ -1023,7 +1023,7 @@ var QA = {
     "Q171": {
         "term": "Which Digimon became mutant with Diablomon's youth largely fusioned into?.",
         "responses": [
-            "Infermon"
+            "Armagemon"
         ]
     },
     "Q172": {
@@ -1065,13 +1065,13 @@ var QA = {
     "Q178": {
         "term": "What is the official alias of Examon?.",
         "responses": [
-            "Solvant"
+            "Dragon Emperor"
         ]
     },
     "Q179": {
         "term": "What is the lethal Skill from Omegamon X's Grey Sword?.",
         "responses": [
-            "Garuru Cannon"
+            "All Delete"
         ]
     },
     "Q180": {
@@ -1101,7 +1101,7 @@ var QA = {
     "Q184": {
         "term": "What is the name of Astamon's machine gun?.",
         "responses": [
-            "Sonic Vulcan"
+            "Oro Salmon"
         ]
     },
     "Q185": {
@@ -1113,7 +1113,7 @@ var QA = {
     "Q186": {
         "term": "What is the name of Neptunemon's spear?.",
         "responses": [
-            "Queen's Bite"
+            "King's Bite"
         ]
     },
     "Q187": {
@@ -1149,7 +1149,7 @@ var QA = {
     "Q192": {
         "term": "Which Digimon is called 'Beelzebumon lady', using two pistols?.",
         "responses": [
-            "Mastemon"
+            "Beel Starmon"
         ]
     },
     "Q193": {
@@ -1227,7 +1227,7 @@ var QA = {
     "Q205": {
         "term": "Which of the following Digimons does not have X-Antibody?.",
         "responses": [
-            "Alphamon"
+            "Cres Garurumon"
         ]
     },
     "Q206": {
@@ -1257,13 +1257,13 @@ var QA = {
     "Q210": {
         "term": "What is the name of Examon's Exclusive Characteristic?.",
         "responses": [
-            "Dragonic Impact"
+            "Dragon Emperor"
         ]
     },
     "Q211": {
         "term": "How many percentage of HP does \"Characteristic - Recovery\" recover?.",
         "responses": [
-            "5%"
+            "15%"
         ]
     },
     "Q212": {
@@ -1329,7 +1329,7 @@ var QA = {
     "Q222": {
         "term": "What is the Holy Arm Ulforce V-dramon wears made of?.",
         "responses": [
-            "Brown Digizoid"
+            "Blue Digizoid"
         ]
     },
     "Q223": {
@@ -1341,13 +1341,13 @@ var QA = {
     "Q224": {
         "term": "How many wings does Hououmon have?.",
         "responses": [
-            "2 wings"
+            "Four Wings"
         ]
     },
     "Q225": {
         "term": "How many wings does Angewomon have?.",
         "responses": [
-            "2 wings"
+            "6 wings"
         ]
     },
     "Q226": {
@@ -1365,13 +1365,13 @@ var QA = {
     "Q228": {
         "term": "What is the name of the equipment equipped on War Greymon's both arms?.",
         "responses": [
-            "Grey Killers"
+            "Dramon Killers"
         ]
     },
     "Q229": {
         "term": "When the horn on War Greymon's back is combined into one, it becomes the strongest shield, and the name is?.",
         "responses": [
-            "Burst Shield"
+            "Brave Shield"
         ]
     },
     "Q230": {
@@ -1431,13 +1431,13 @@ var QA = {
     "Q239": {
         "term": "There is a Holy Ring on Tailmon's body, on which part is it on?.",
         "responses": [
-            "Wrist"
+            "Tail"
         ]
     },
     "Q240": {
         "term": "Which Tamer does not wear glasses?.",
         "responses": [
-            "Matsuda Takato"
+            "Hida Iori"
         ]
     },
     "Q241": {
@@ -1581,19 +1581,19 @@ var QA = {
     "Q264": {
         "term": "How many legs does Sleipmon have?.",
         "responses": [
-            "2"
+            "6 Legs"
         ]
     },
     "Q265": {
         "term": "According to official settings, how many times does Belphemon wake up in a year?.",
         "responses": [
-            "Once in 100 years"
+            "Once in 1000 years"
         ]
     },
     "Q266": {
         "term": "What is the name of the group of 10 Mega-level ancient Digimons that appear in <DIGIMON FRONTIER>?.",
         "responses": [
-            "Royal Knights"
+            "Warrior Ten"
         ]
     },
     "Q267": {
@@ -1677,7 +1677,7 @@ var QA = {
     "Q280": {
         "term": "What is Scorpiomon's nickname according to official settings?.",
         "responses": [
-            "Assassin of the Desert"
+            "Assasin of the Desert"
         ]
     },
     "Q281": {
@@ -1725,25 +1725,25 @@ var QA = {
     "Q288": {
         "term": "Which Digimon is not one of Apocalymon's ingredients in Digimon RPG?.",
         "responses": [
-            "Pinochimon"
+            "Piemon"
         ]
     },
     "Q289": {
         "term": "Which Digimon is not one of Huanglongmon's ingredients in Digimon RPG?.",
         "responses": [
-            "Zhuqiaomon"
+            "Garurumon"
         ]
     },
     "Q290": {
         "term": "What is the percentage of Evolutioning Belphemon : Rage Mode in Digimon RPG?.",
         "responses": [
-            "1%"
+            "2% (this is the OG rate, NA got a buff to 5%)"
         ]
     },
     "Q291": {
         "term": "Which \"Replacement Item\" should you use when you want to change it to Tiger Vespamon?.",
         "responses": [
-            "Replacement Item 1"
+            "Replacement Item 3"
         ]
     },
     "Q292": {
@@ -1803,7 +1803,7 @@ var QA = {
     "Q301": {
         "term": "Which of the following is not the Holy Dragon-type Digimon?.",
         "responses": [
-            "Aero V-dramon"
+            "Growmon"
         ]
     },
     "Q302": {
@@ -1839,13 +1839,13 @@ var QA = {
     "Q307": {
         "term": "What is the attributes of Hawkmon?.",
         "responses": [
-            "Vaccine"
+            "Data"
         ]
     },
     "Q308": {
         "term": "What is the attributes of Gekomon?.",
         "responses": [
-            "Vaccine"
+            "Virus"
         ]
     },
     "Q309": {
@@ -1857,13 +1857,13 @@ var QA = {
     "Q310": {
         "term": "According to the Digimon Lore, which Digimon transformed to to the weapon Alphamon: Ouryuken uses?.",
         "responses": [
-            "Grademon"
+            "Ouryumon"
         ]
     },
     "Q311": {
         "term": "What is the name of Marsmon's F3 Skill?.",
         "responses": [
-            "Needle Squall"
+            "Corona Sanction"
         ]
     },
     "Q312": {
@@ -1899,7 +1899,7 @@ var QA = {
     "Q317": {
         "term": "Which Digimon proceeds the Cherubimon's Evolution quest in Digimon RPG?.",
         "responses": [
-            "Dinotigermon"
+            "Dinohumon"
         ]
     },
     "Q318": {
@@ -1977,7 +1977,7 @@ var QA = {
     "Q330": {
         "term": "What is the attributes of Sinduramon?.",
         "responses": [
-            "Vaccine"
+            "Data"
         ]
     },
     "Q331": {
@@ -1989,7 +1989,7 @@ var QA = {
     "Q332": {
         "term": "What is the name of the NPC who changes Skill point to status point using \"Over Program\" or Bits?.",
         "responses": [
-            "Dinohumon"
+            "Tocanmon"
         ]
     },
     "Q333": {
@@ -2061,13 +2061,13 @@ var QA = {
     "Q344": {
         "term": "What is the Title that can be gained at Digimon Lv.41?.",
         "responses": [
-            "King of Lose"
+            "A New Start"
         ]
     },
     "Q345": {
         "term": "What is the Title that can be gained at Digimon Lv.77?.",
         "responses": [
-            "A New Start"
+            "Break Through Fixed EXP"
         ]
     },
     "Q346": {
@@ -2091,7 +2091,7 @@ var QA = {
     "Q349": {
         "term": "What effect does the 1st reward item of Fighter Club has?.",
         "responses": [
-            "ATK +3%"
+            "5%"
         ]
     },
     "Q350": {
@@ -2115,7 +2115,7 @@ var QA = {
     "Q353": {
         "term": "What is Taomon's evolution level?.",
         "responses": [
-            "Rookie"
+            "Ultimate"
         ]
     },
     "Q354": {
@@ -2139,7 +2139,7 @@ var QA = {
     "Q357": {
         "term": "Which of the following is not Event Partner Digimon?.",
         "responses": [
-            "Dorimon"
+            "Koromon"
         ]
     },
     "Q358": {
@@ -2169,7 +2169,7 @@ var QA = {
     "Q362": {
         "term": "What is the percentage of succeeding reinforcement from Avatar +7 to Avatar +8?.",
         "responses": [
-            "5%"
+            "10%"
         ]
     },
     "Q363": {
@@ -2229,13 +2229,13 @@ var QA = {
     "Q372": {
         "term": "What is the attributes of Candmon?.",
         "responses": [
-            "Vaccine"
+            "Data"
         ]
     },
     "Q373": {
         "term": "What is the attributes of Stingmon?.",
         "responses": [
-            "Vaccine"
+            "Virus"
         ]
     },
     "Q374": {
@@ -2247,7 +2247,7 @@ var QA = {
     "Q375": {
         "term": "Which of the following is not the Digimon Metal Garurumon can evolve into?.",
         "responses": [
-            "Z'd Garurumon"
+            "Ancient Garurumon"
         ]
     },
     "Q376": {
@@ -2355,7 +2355,7 @@ var QA = {
     "Q393": {
         "term": "What is the name of the NPC who is [Addition, Decomposition, and Crafting of Characteristics] in Digimon RPG?.",
         "responses": [
-            "Carla"
+            "Carly"
         ]
     },
     "Q394": {
@@ -2385,7 +2385,7 @@ var QA = {
     "Q398": {
         "term": "Which NPC Digimon is in charge of Belial Vamdemon's Evolution?.",
         "responses": [
-            "Vademon"
+            "EBEmon"
         ]
     },
     "Q399": {
@@ -2397,7 +2397,7 @@ var QA = {
     "Q400": {
         "term": "What is related to Thunderballmon in the Theme Park?.",
         "responses": [
-            "Earned Coin Store"
+            "Compressed Disc(10B"
         ]
     },
     "Q401": {
@@ -2439,7 +2439,7 @@ var QA = {
     "Q407": {
         "term": "How many Gekomon's eggs are needed to evolve Otamamon?.",
         "responses": [
-            "70 eggs"
+            "80 eggs"
         ]
     },
     "Q408": {
@@ -2493,7 +2493,7 @@ var QA = {
     "Q416": {
         "term": "Which Digimon doees not appear in the Waterspace Undersea B?.",
         "responses": [
-            "Ikkakumon"
+            "Hisyaryumon"
         ]
     },
     "Q417": {
@@ -2517,13 +2517,13 @@ var QA = {
     "Q420": {
         "term": "How many percentages of damage increases, \"Characteristic - Rush\"?.",
         "responses": [
-            "5%"
+            "15%"
         ]
     },
     "Q421": {
         "term": "What is the common abbreviation of Digital Monster?.",
         "responses": [
-            "Digimon"
+            "Digimon (Did you really have to look this one up?)"
         ]
     },
     "Q422": {
@@ -2535,25 +2535,25 @@ var QA = {
     "Q423": {
         "term": "What is the shortcut to the full screen of the current Digimon RPG?.",
         "responses": [
-            "ALT+ENTER"
+            "ALT+F12"
         ]
     },
     "Q424": {
         "term": "What are the coordinates of Jijimon in the Sky Dungeon 3F?.",
         "responses": [
-            "(50, 76)"
+            "(50,76)"
         ]
     },
     "Q425": {
         "term": "Which Digimon walks around eating fries, wanting many Digimons to know how delicious they are?.",
         "responses": [
-            "Popomon"
+            "Potamon"
         ]
     },
     "Q426": {
         "term": "What is the percentage of succeeding reinforcement from Avatar +7 to Avatar +8?.",
         "responses": [
-            "5%"
+            "10%"
         ]
     },
     "Q427": {
@@ -2589,7 +2589,7 @@ var QA = {
     "Q432": {
         "term": "Which of the following has the score of Red Digizoid in the Ladder-level?.",
         "responses": [
-            "2250 points"
+            "2250"
         ]
     },
     "Q433": {
@@ -2631,7 +2631,7 @@ var QA = {
     "Q439": {
         "term": "What is the shortcut of Digimon guide in Digimon RPG?.",
         "responses": [
-            "(Q) key"
+            "(V) key"
         ]
     },
     "Q440": {
@@ -2643,7 +2643,7 @@ var QA = {
     "Q441": {
         "term": "What is the shortcut to see list of my Digimon's information in Digimon RPG?.",
         "responses": [
-            "(X) key"
+            "(D) key"
         ]
     },
     "Q442": {
@@ -2679,7 +2679,7 @@ var QA = {
     "Q447": {
         "term": "Which of the following is not the Characteristic of DORUgoramon?.",
         "responses": [
-            "Elasticity"
+            "Madness"
         ]
     },
     "Q448": {
@@ -2751,7 +2751,7 @@ var QA = {
     "Q459": {
         "term": "How many Signs do you need to go to Labyrinth HARD - 3F?.",
         "responses": [
-            "5 Signs"
+            "4 Signs"
         ]
     },
     "Q460": {
@@ -2775,7 +2775,7 @@ var QA = {
     "Q463": {
         "term": "To which Digimon does DORUgoramon evolve through Death-X-Evolution?.",
         "responses": [
-            "Death-X-DORUgamon"
+            "Death-X-DORUgoramon"
         ]
     },
     "Q464": {
@@ -2787,7 +2787,7 @@ var QA = {
     "Q465": {
         "term": "What is the motorcycle Beelzebumon rides?.",
         "responses": [
-            "Berenjena"
+            "Behemoth"
         ]
     },
     "Q466": {
@@ -2811,7 +2811,7 @@ var QA = {
     "Q469": {
         "term": "According to official settings, Yggdrasill made a Digimon the 'Founder' of Royal Knights. Which Digimon is it?.",
         "responses": [
-            "Alphamon : Ouryuken"
+            "Imperialdramon:"
         ]
     },
     "Q470": {
@@ -2823,13 +2823,13 @@ var QA = {
     "Q471": {
         "term": "According to the official setting, Alphamon: Ouryuken is the result of Jogress of Alphamon and Ouryuken, What is the official word for the union of these two?.",
         "responses": [
-            "Slide-Evolution"
+            "Ultimate Accelerated-Evolution"
         ]
     },
     "Q472": {
         "term": "Which deadly sin is Lilithmon in charge of?.",
         "responses": [
-            "Greed"
+            "Lust"
         ]
     },
     "Q473": {
@@ -2847,13 +2847,13 @@ var QA = {
     "Q475": {
         "term": "What's the name of this Digimon called 7 Seconds Man, 7 Seconds Punch due to its long Skill motion in the game Digimon RPG?.",
         "responses": [
-            "Leomon"
+            "Bancho Leomon"
         ]
     },
     "Q476": {
         "term": "What is the name of the Digimon that some of the strong ones of Gran Kuwagamon can evolve?.",
         "responses": [
-            "Okuwamon"
+            "Grandis Kuwagamon"
         ]
     },
     "Q477": {
@@ -2889,13 +2889,13 @@ var QA = {
     "Q482": {
         "term": "Which Digimon arrived in the Real World but turned into a small Gyukimon soon after, though without losing control of himself in Digimon: Ghost Game?.",
         "responses": [
-            "Kyokyomon"
+            "Ryudamon"
         ]
     },
     "Q483": {
         "term": "Which spirit increases 400 HP? (Not a Title Item.).",
         "responses": [
-            "Spirit of Earth (B)"
+            "Spirit of Earth H"
         ]
     },
     "Q484": {
@@ -2931,7 +2931,7 @@ var QA = {
     "Q489": {
         "term": "What is the name of the shield Craniummon carries around?.",
         "responses": [
-            "God Bless"
+            "Avalon"
         ]
     },
     "Q490": {
@@ -3069,13 +3069,13 @@ var QA = {
     "Q512": {
         "term": "Which of the following is Prototype Digimon?.",
         "responses": [
-            "DORUmon"
+            "DORU's Family = \"Digimon OR Unknown-Monsters\""
         ]
     },
     "Q513": {
         "term": "What is Mervamon's type?.",
         "responses": [
-            "Dragon Man-type"
+            "God Man-type"
         ]
     },
     "Q514": {
@@ -3111,7 +3111,7 @@ var QA = {
     "Q519": {
         "term": "Which Digimon is the Partner Digimon of Higashimitarai Kiyoshiro in Digimon: Ghost Game?.",
         "responses": [
-            "Chewymon"
+            "Jellymon"
         ]
     },
     "Q520": {
@@ -3135,7 +3135,7 @@ var QA = {
     "Q523": {
         "term": "What is Lucemon X's evolution level?.",
         "responses": [
-            "Rookie-level"
+            "Mega-level"
         ]
     },
     "Q524": {
@@ -3177,7 +3177,7 @@ var QA = {
     "Q530": {
         "term": "What is Magnamon's armour made of?.",
         "responses": [
-            "Blue Digizoid"
+            "Chrome Digizoid"
         ]
     },
     "Q531": {
@@ -3189,7 +3189,7 @@ var QA = {
     "Q532": {
         "term": "Which NPC does not exist in the Theme Park?.",
         "responses": [
-            "Kaori"
+            "Administration Reward Agent"
         ]
     },
     "Q533": {
@@ -3309,7 +3309,7 @@ var QA = {
     "Q552": {
         "term": "What is the attributes of Omegamon Zwart? .",
         "responses": [
-            "VIrus"
+            "Vaccine"
         ]
     },
     "Q553": {
@@ -3351,31 +3351,31 @@ var QA = {
     "Q559": {
         "term": "Table Flip! What Digimon uses this lethal move?.",
         "responses": [
-            "JESmon"
+            "Gankoomon"
         ]
     },
     "Q560": {
         "term": "Which Digimon has different sum of status which increases per level-up?.",
         "responses": [
-            "Rosemon(Lalamon Line)"
+            "Lighdramon"
         ]
     },
     "Q561": {
         "term": "Which Digimon has different sum of status which increases per level-up?.",
         "responses": [
-            "Imperialdramon : Dragon Mode"
+            "Lighdramon"
         ]
     },
     "Q562": {
         "term": "Which one is the correct Attributes of Vritramon that evolves with Beast Spirit of Fire in <DIGIMON FRONTIER>?.",
         "responses": [
-            "Reptile-type"
+            "Demon Dragon-type"
         ]
     },
     "Q563": {
         "term": "What is not correct for Numemon's Evolution or Mutant?.",
         "responses": [
-            "Gold Numemon"
+            "Red Numemon"
         ]
     },
     "Q564": {
@@ -3387,7 +3387,7 @@ var QA = {
     "Q565": {
         "term": "Which one is not Holy Knight-type?.",
         "responses": [
-            "Rapidmon"
+            "Medieval Dukemon"
         ]
     },
     "Q566": {
@@ -3423,7 +3423,7 @@ var QA = {
     "Q571": {
         "term": "How many wings does Lucemon have?.",
         "responses": [
-            "6 wings"
+            "12 Wings"
         ]
     },
     "Q572": {
@@ -3447,7 +3447,7 @@ var QA = {
     "Q575": {
         "term": "Which one is correct Attributes of Cherubimon X(Vice)?.",
         "responses": [
-            "Virus"
+            "Vaccine"
         ]
     },
     "Q576": {
@@ -3507,7 +3507,7 @@ var QA = {
     "Q585": {
         "term": "Which Digimon's ears have grown sharp and hard, and act as horns?.",
         "responses": [
-            "Duromon"
+            "Dorimon"
         ]
     },
     "Q586": {
@@ -3519,7 +3519,7 @@ var QA = {
     "Q587": {
         "term": "How many wings does Ofanimon X have?.",
         "responses": [
-            "8 wings"
+            "8"
         ]
     },
     "Q588": {
@@ -3573,7 +3573,7 @@ var QA = {
     "Q596": {
         "term": "Which one is not correct component of Beginner Package in Item Store?.",
         "responses": [
-            "1 Set of Jump Gate"
+            "1 Set of Fenrir Sword"
         ]
     },
     "Q597": {
@@ -3597,13 +3597,13 @@ var QA = {
     "Q600": {
         "term": "Which Digimon has different sum of status which increases per level-up?.",
         "responses": [
-            "Kongoumon"
+            "Lighdramon"
         ]
     },
     "Q601": {
         "term": "How much is ATK of the \"Lord Knightmon's Crest +10\"?.",
         "responses": [
-            "ATK +175"
+            "ATK +185"
         ]
     },
     "Q602": {
@@ -3615,13 +3615,13 @@ var QA = {
     "Q603": {
         "term": "How much is the maximum sum of available Digimon's Cost in Ladder Battle?.",
         "responses": [
-            "130"
+            "140"
         ]
     },
     "Q604": {
         "term": "Which Digimon has different sum of status which increases per level-up?.",
         "responses": [
-            "Omegamon"
+            "Lighdramon"
         ]
     },
     "Q605": {
@@ -3639,25 +3639,25 @@ var QA = {
     "Q607": {
         "term": "What is purchasable card from the Card Store NPC in Tsuchidarumon's Village?.",
         "responses": [
-            "Offense Plug-In N"
+            "Holy Orb"
         ]
     },
     "Q608": {
         "term": "What is the most expensive card when you are going to buy from the NPC in the Card Store?.",
         "responses": [
-            "Brave Shield"
+            "Offense Plug-in N"
         ]
     },
     "Q609": {
         "term": "How many are the maximum times of the Card Slash in Ladder Battle generally?.",
         "responses": [
-            "30 times"
+            "40 times"
         ]
     },
     "Q610": {
         "term": "Which one is not correct pair of Digimon and its Characteristic?.",
         "responses": [
-            "Blitz Greymon ⇔ Presentiment"
+            "Justimon <> Stroke"
         ]
     },
     "Q611": {
@@ -3687,13 +3687,13 @@ var QA = {
     "Q615": {
         "term": "What is the effect of the \"First Lose [Title]\" that can be gained as you lose for the first time?.",
         "responses": [
-            "STR +1"
+            "CON +1"
         ]
     },
     "Q616": {
         "term": "What is the effect of the \"A New Start [Title]\" that can be gained as Digimon evolves into Mega-level?.",
         "responses": [
-            "STR +3"
+            "INT +3"
         ]
     },
     "Q617": {
@@ -3711,7 +3711,7 @@ var QA = {
     "Q619": {
         "term": "Which Attributes has rare chances as you use the item Attribute Capsule No.1?.",
         "responses": [
-            "Provocation"
+            "Stealing"
         ]
     },
     "Q620": {
@@ -3741,19 +3741,19 @@ var QA = {
     "Q624": {
         "term": "Which Digimon doesn't exist in Digimon RPG?.",
         "responses": [
-            "Pukamon(Beast)"
+            "Peti Meramon (Demon Man)"
         ]
     },
     "Q625": {
         "term": "What is not correct type of Pagumon?.",
         "responses": [
-            "Pagumon(Oni-type)"
+            "Pagumon(Meteorite-type)"
         ]
     },
     "Q626": {
         "term": "What Digimental is necessary for Hawkmon's Digimental-Evolution to Allomon?.",
         "responses": [
-            "Digimental of Friendship"
+            "Digimental of Courage"
         ]
     },
     "Q627": {
@@ -3873,7 +3873,7 @@ var QA = {
     "Q646": {
         "term": "What is the type of Alphamon stated in encyclopedia of 'Digimon.net'?.",
         "responses": [
-            "Vaccine"
+            "NO DATA"
         ]
     },
     "Q647": {
@@ -3957,7 +3957,7 @@ var QA = {
     "Q660": {
         "term": "When you answer correctly to the question in Room of Riddle, Yukimi Botamon appears. What is the lines of Yukimi Botamon?.",
         "responses": [
-            "Bingo~!"
+            "Bingo~"
         ]
     },
     "Q661": {
@@ -3969,7 +3969,7 @@ var QA = {
     "Q662": {
         "term": "Which Digimon has different sum of status which increases per level-up?.",
         "responses": [
-            "Gargomon"
+            "Lighdramon"
         ]
     },
     "Q663": {
@@ -4017,7 +4017,7 @@ var QA = {
     "Q670": {
         "term": "What item is necessary for changing Tamed Digimon with Superstarmon?.",
         "responses": [
-            "Replacement Item 1"
+            "There's no such way."
         ]
     },
     "Q671": {
@@ -4047,7 +4047,7 @@ var QA = {
     "Q675": {
         "term": "Which one is belong to 7 sins of Seven Great Demon Lords?.",
         "responses": [
-            "Violence"
+            "Lust"
         ]
     },
     "Q676": {
@@ -4101,7 +4101,7 @@ var QA = {
     "Q684": {
         "term": "How much was the percentage of attack increase of \"Witch's Hat\" as its first release?.",
         "responses": [
-            "ATK +10%"
+            "ATK +20%"
         ]
     },
     "Q685": {
@@ -4143,7 +4143,7 @@ var QA = {
     "Q691": {
         "term": "Which group is the strongest warrior group in Digital World?.",
         "responses": [
-            "Seven Great Demon Lords"
+            "Royal Knights"
         ]
     },
     "Q692": {
@@ -4239,7 +4239,7 @@ var QA = {
     "Q707": {
         "term": "Which Shortcut Key and its function isn't used in the game Digimon RPG?.",
         "responses": [
-            "Alt + F12 ⇔ Full Screen"
+            "Alt+F4<->Location Sync"
         ]
     },
     "Q708": {
@@ -4287,7 +4287,7 @@ var QA = {
     "Q715": {
         "term": "Which one is not belong to Royal Knights?.",
         "responses": [
-            "Omegamon Zwart"
+            "Omegamon Alter-B"
         ]
     },
     "Q716": {
@@ -4299,7 +4299,7 @@ var QA = {
     "Q717": {
         "term": "[Chaosmon retains each of the Digicores of the Digimon before the Jogress, and maintains its form in a very incomplete state. Chaosmon is the codename for Digimon who \"should not exist\".] What is the attribute of Chaosmon?.",
         "responses": [
-            "Virus"
+            "Vaccine"
         ]
     },
     "Q718": {
@@ -4347,13 +4347,13 @@ var QA = {
     "Q725": {
         "term": "What Digimon has the highest-level in \"DigiMemory (L)\"?.",
         "responses": [
-            "Minervamon"
+            "Omegamon X"
         ]
     },
     "Q726": {
         "term": "How many are B-level Digimon picked at most without wearing \"Ugg Boots\"?.",
         "responses": [
-            "1 Digimon"
+            "3 Digimons"
         ]
     },
     "Q727": {
@@ -4371,13 +4371,13 @@ var QA = {
     "Q729": {
         "term": "Which Mega-level Digimon has different numbers of Characteristic?.",
         "responses": [
-            "Dukemon X"
+            "Magnamon X"
         ]
     },
     "Q730": {
         "term": "Which one is not able to do with Dolphine in Time Village?.",
         "responses": [
-            "[Evolution] Omegamon Alter-S"
+            "[Evolution] Omegamon X"
         ]
     },
     "Q731": {
@@ -4389,13 +4389,13 @@ var QA = {
     "Q732": {
         "term": "Which one is correct DEF of \"Crest of Determination\"?.",
         "responses": [
-            "DEF +30"
+            "DEF+40"
         ]
     },
     "Q733": {
         "term": "Which one is correct Battle Rating of \"Crest of Faith\"?.",
         "responses": [
-            "Battle Rating +250"
+            "Battle Rating +300"
         ]
     },
     "Q734": {
@@ -4419,7 +4419,7 @@ var QA = {
     "Q737": {
         "term": "How much chances are the gaining of \"Characteristic Capsule No. 1 (Defense)\" from \"X-Mas Gift Box\"?.",
         "responses": [
-            "6.583%"
+            "6.584%"
         ]
     },
     "Q738": {
@@ -4443,7 +4443,7 @@ var QA = {
     "Q741": {
         "term": "What is the attribute of Chaosmon?.",
         "responses": [
-            "Unknown"
+            "Vaccine"
         ]
     },
     "Q742": {
@@ -4521,7 +4521,7 @@ var QA = {
     "Q754": {
         "term": "Which is the correct pair of recovery amount of HP and VP after using Hamburger, Chicken Combo, Vitamin B, Vitamin E in Digimon RPG?.",
         "responses": [
-            "HP +225, VP +200"
+            "HP +225, VP +250"
         ]
     },
     "Q755": {
@@ -4581,13 +4581,13 @@ var QA = {
     "Q764": {
         "term": "What is Big Mamemon's evolution level?.",
         "responses": [
-            "Rookie-level"
+            "Ultimate-level"
         ]
     },
     "Q765": {
         "term": "Which Digimon is not related to Egypt?.",
         "responses": [
-            "Sethmon"
+            "Archnemon"
         ]
     },
     "Q766": {
@@ -4599,7 +4599,7 @@ var QA = {
     "Q767": {
         "term": "Magna Garurumon from <DIGIMON FRONTIER> was created by gathering the Spirits of 5 following Attributes. Which is the correct answer for these 5 Attributes?.",
         "responses": [
-            "Light, Darkness, Electricity, Water, Metal"
+            "Light, Darkness, Electricity, Water and Steel"
         ]
     },
     "Q768": {
@@ -4689,13 +4689,13 @@ var QA = {
     "Q782": {
         "term": "What is the name of demonic shield that Chaos Dukemon has?.",
         "responses": [
-            "Gargon"
+            "Gorgon"
         ]
     },
     "Q783": {
         "term": "What is the name of interface on DORUmon and Ryudamon's forehead?.",
         "responses": [
-            "Digi-Interface"
+            "Digicore Interface"
         ]
     },
     "Q784": {
@@ -4725,7 +4725,7 @@ var QA = {
     "Q788": {
         "term": "What item exitsts in Digimon RPG?.",
         "responses": [
-            "Digimental of Faith"
+            "Birdramon's Feather"
         ]
     },
     "Q789": {
@@ -4845,7 +4845,7 @@ var QA = {
     "Q808": {
         "term": "Choose the correct Bit cost for getting <1 Hour EXP Buff> from NPC Nyang in Digital Administration Bureau..",
         "responses": [
-            "10,000 Bits"
+            "1 million bits"
         ]
     },
     "Q809": {
@@ -4917,7 +4917,7 @@ var QA = {
     "Q820": {
         "term": "Which one is not belong to Royal Knights?.",
         "responses": [
-            "Gankoomon"
+            "Omegamon Alter-B"
         ]
     },
     "Q821": {
@@ -4971,7 +4971,7 @@ var QA = {
     "Q829": {
         "term": "How many teeth does Koromon have?.",
         "responses": [
-            "2 teeth"
+            "6 teeth"
         ]
     },
     "Q830": {
@@ -5025,7 +5025,7 @@ var QA = {
     "Q838": {
         "term": "What is the damage increase rate of the card item, \"Bao Chui\"?.",
         "responses": [
-            "60%"
+            "70%"
         ]
     },
     "Q839": {
@@ -5037,7 +5037,7 @@ var QA = {
     "Q840": {
         "term": "How many wings are on the back of Dukemon : Crimson Mode?.",
         "responses": [
-            "8 wings"
+            "10 wings"
         ]
     },
     "Q841": {
@@ -5061,7 +5061,7 @@ var QA = {
     "Q844": {
         "term": "How many backgrounds are in Battle Zone's Stadium?.",
         "responses": [
-            "3"
+            "5"
         ]
     },
     "Q845": {
@@ -5163,7 +5163,7 @@ var QA = {
     "Q861": {
         "term": "What is the correct Attributes of Fairimon?.",
         "responses": [
-            "Vaccine"
+            "Variable"
         ]
     },
     "Q862": {
@@ -5187,7 +5187,7 @@ var QA = {
     "Q865": {
         "term": "How much does Bits cost to upgrade an item with 100% chance using \"Blessing of Reinforcement\"?.",
         "responses": [
-            "130,000 Bits"
+            "160,000 Bits"
         ]
     },
     "Q866": {
@@ -5199,7 +5199,7 @@ var QA = {
     "Q867": {
         "term": "How much Bit are Bread, French Fries, and Hamburger on Item Store in the Theme Park?.",
         "responses": [
-            "1,000 Bits"
+            "600 Bits"
         ]
     },
     "Q868": {
@@ -5223,7 +5223,7 @@ var QA = {
     "Q871": {
         "term": "What item is not on sale on Item Store in Gekomon Village?.",
         "responses": [
-            "Babamon Village"
+            "Vitamin B"
         ]
     },
     "Q872": {
@@ -5235,19 +5235,19 @@ var QA = {
     "Q873": {
         "term": "What is the effect option of \"2013 Battle ComPetition [Title]\"?.",
         "responses": [
-            "DEF +100"
+            "All stats +5"
         ]
     },
     "Q874": {
         "term": "What Digimon can be exchanged with \"Exchange Ticket : Super Ultimate (Virus)\"?.",
         "responses": [
-            "Omegamon Zwart D"
+            "Death-X-mon"
         ]
     },
     "Q875": {
         "term": "When you log-in Digimon RPG Homepage, you can enhance the security through the U-OTP Security service. How many numbers do you need to build your U-OTP+ verification code? .",
         "responses": [
-            "5 numbers"
+            "7 numbers"
         ]
     },
     "Q876": {
@@ -5265,7 +5265,7 @@ var QA = {
     "Q878": {
         "term": "Which one is not correct name of the map that user can select in user Battle room in Ladder Battle?.",
         "responses": [
-            "The Law of the Jungle"
+            "Continent of Darkness"
         ]
     },
     "Q879": {
@@ -5337,7 +5337,7 @@ var QA = {
     "Q890": {
         "term": "Which Digimon does not belong to Twelve Deities?.",
         "responses": [
-            "Kumbhiramon"
+            "Minervamon"
         ]
     },
     "Q891": {
@@ -5463,7 +5463,7 @@ var QA = {
     "Q911": {
         "term": "What is Bancho Mamemon's evolution level?.",
         "responses": [
-            "Champion-level"
+            "Mega-level"
         ]
     },
     "Q912": {
@@ -5643,25 +5643,25 @@ var QA = {
     "Q941": {
         "term": "Which of the following is not an item that can reinforce a Digimon with a 100% chance?.",
         "responses": [
-            "Apocalymon's Lingering Thought"
+            "Songpyeon"
         ]
     },
     "Q942": {
         "term": "What shortcut key is for HELP in Digimon RPG?.",
         "responses": [
-            "(H) key"
+            "(H) Key"
         ]
     },
     "Q943": {
         "term": "What shortcut key is for checking Digimon's Titles in Digimon RPG?.",
         "responses": [
-            "(H) key"
+            "(J) key"
         ]
     },
     "Q944": {
         "term": "What shortcut key is for checking an Extra Bag and Card Book in Digimon RPG?.",
         "responses": [
-            "(H) key"
+            "(B) key"
         ]
     },
     "Q945": {
@@ -5703,7 +5703,7 @@ var QA = {
     "Q951": {
         "term": "What Digimon is not used to make Mugendramon?.",
         "responses": [
-            "Metal Tyranomon"
+            "Metal Seadramon"
         ]
     },
     "Q952": {
@@ -5721,7 +5721,7 @@ var QA = {
     "Q954": {
         "term": "How many Petabytes are 1 Exabyte that is representation of Examon?.",
         "responses": [
-            "100 Petabytes"
+            "1024 Petabytes"
         ]
     },
     "Q955": {
@@ -5757,7 +5757,7 @@ var QA = {
     "Q960": {
         "term": "How many tails does Leviamon have?.",
         "responses": [
-            "No tails."
+            "2 tails"
         ]
     },
     "Q961": {
@@ -5883,7 +5883,7 @@ var QA = {
     "Q981": {
         "term": "Which one is not correct pair of Digimon and its regeneration location?.",
         "responses": [
-            "Belphemon : Sleep Mode ⇔ Darkness Dungeon 3F"
+            "Xuanwumon <> East of Gekomon Forest"
         ]
     },
     "Q982": {
@@ -6015,7 +6015,7 @@ var QA = {
     "Q1003": {
         "term": "What is the attribute of Locomon?.",
         "responses": [
-            "Vaccine"
+            "Data"
         ]
     },
     "Q1004": {
@@ -6063,7 +6063,7 @@ var QA = {
     "Q1011": {
         "term": "In <DIGIMON ADVENTURE>, there is an ornament of Takaishi Takeru's hat. What is the color of this ornament?.",
         "responses": [
-            "Yellow"
+            "Blue"
         ]
     },
     "Q1012": {
@@ -6093,7 +6093,7 @@ var QA = {
     "Q1016": {
         "term": "Which of the following is correct topping of each Chosen Child as they eat fried egg, according to <DIGIMON ADVENTURE> Episode 7?.",
         "responses": [
-            "Kido Jo, Salt & Soy Sauce"
+            "Tachikawa Mimi, Sugar & Natto"
         ]
     },
     "Q1017": {
@@ -6165,7 +6165,7 @@ var QA = {
     "Q1028": {
         "term": "Which one is not correct kind of Tailmon?.",
         "responses": [
-            "Tailmon X"
+            "Blue Tailmon"
         ]
     },
     "Q1029": {
@@ -6195,7 +6195,7 @@ var QA = {
     "Q1033": {
         "term": "Which one is not Digimon?.",
         "responses": [
-            "Keemon"
+            "Daimon"
         ]
     },
     "Q1034": {
@@ -6273,7 +6273,7 @@ var QA = {
     "Q1046": {
         "term": "How much point do you need as you buy Spirit of Unknown X-Antibody Digimon in Point Store in Battle Zone?.",
         "responses": [
-            "20,000 Points"
+            "30,000 Points"
         ]
     },
     "Q1047": {
@@ -6339,7 +6339,7 @@ var QA = {
     "Q1057": {
         "term": "What is the attribute of Vermillimon?.",
         "responses": [
-            "Vaccine"
+            "Data"
         ]
     },
     "Q1058": {
@@ -6363,7 +6363,7 @@ var QA = {
     "Q1061": {
         "term": "Which is the correct effect option of 'Welcome DR (Henry Wong) [Title]'?.",
         "responses": [
-            "STR +9"
+            "All stats +9"
         ]
     },
     "Q1062": {
@@ -6477,7 +6477,7 @@ var QA = {
     "Q1080": {
         "term": "Which ability did Wolfmon inherit from the Warrior Ten?.",
         "responses": [
-            "Water"
+            "Light"
         ]
     },
     "Q1081": {
@@ -6489,7 +6489,7 @@ var QA = {
     "Q1082": {
         "term": "What is the attribute of Rhino Kabuterimon?.",
         "responses": [
-            "Virus"
+            "Variables"
         ]
     },
     "Q1083": {
@@ -6789,7 +6789,7 @@ var QA = {
     "Q1132": {
         "term": "Among 10 Warriors, which power does Arbormon have?.",
         "responses": [
-            "Fire"
+            "Wood"
         ]
     },
     "Q1133": {
@@ -6843,7 +6843,7 @@ var QA = {
     "Q1141": {
         "term": "How many clones come out when Kumbhiromon uses its lethal move, Krimisa?.",
         "responses": [
-            "4 clones"
+            "6 clones"
         ]
     },
     "Q1142": {
@@ -6873,7 +6873,7 @@ var QA = {
     "Q1146": {
         "term": "How many legs does Ogudomon have?.",
         "responses": [
-            "4"
+            "7 legs"
         ]
     },
     "Q1147": {
@@ -6903,7 +6903,7 @@ var QA = {
     "Q1151": {
         "term": "Which card do Tamers use to evolve Rookie-level Digimons into Champion-level Digimons in DIGIMON TAMERS?.",
         "responses": [
-            "Evolution Plug-In E"
+            "Super Evolution Plug-in S"
         ]
     },
     "Q1152": {
@@ -6933,7 +6933,7 @@ var QA = {
     "Q1156": {
         "term": "Which is one of Warrior Ten Digimon that saved Digital World with Wind-attribute?.",
         "responses": [
-            "Ancient Mermaimon"
+            "Ancient Irismon"
         ]
     },
     "Q1157": {
@@ -6951,7 +6951,7 @@ var QA = {
     "Q1159": {
         "term": "Which is one of Warrior Ten Digimon that saved Digital World with Thunder-attribute?.",
         "responses": [
-            "Ancient Volcamon"
+            "Ancient Beatmon"
         ]
     },
     "Q1160": {
@@ -7023,7 +7023,7 @@ var QA = {
     "Q1171": {
         "term": "In DIGIMON TAMERS, what is the statement that comes out when Tamers evolve their Partner Digimons into Mega-level?.",
         "responses": [
-            "MATRIX EVOLUTION"
+            "MATRIX EVOLUTION"
         ]
     },
     "Q1172": {
@@ -7059,13 +7059,13 @@ var QA = {
     "Q1177": {
         "term": "Which one is not Holy Knight-type?.",
         "responses": [
-            "Examon"
+            "Medieval Dukemon"
         ]
     },
     "Q1178": {
         "term": "Among Journey-to-the-west Digimons, who appared in Digimon RPG?.",
         "responses": [
-            "Shakamon"
+            "Shawujinmon"
         ]
     },
     "Q1179": {
@@ -7137,7 +7137,7 @@ var QA = {
     "Q1190": {
         "term": "This Digimon's lethal move is Mugen Cannon, firing superdreadnought-class energy waves from its two cannons. What is the name of this Digimon?.",
         "responses": [
-            "Tankdramon"
+            "Mugendramon"
         ]
     },
     "Q1191": {
@@ -7191,7 +7191,7 @@ var QA = {
     "Q1199": {
         "term": "Which Digimon is known to exist on the verge of transforming to Demon?.",
         "responses": [
-            "Beelzebumon : Blaster Mode"
+            "Black Seraphimon"
         ]
     },
     "Q1200": {
@@ -7545,7 +7545,7 @@ var QA = {
     "Q1258": {
         "term": "What is the type of Dagomon?.",
         "responses": [
-            "Ore-type"
+            "Aquatic Beast Man-type"
         ]
     },
     "Q1259": {
@@ -7557,7 +7557,7 @@ var QA = {
     "Q1260": {
         "term": "In DIGIMON ADVENTURE 02, which Digimon was killed by Belial Vamdemon, after Archnemon had been killed by Belial Vamdemon?.",
         "responses": [
-            "Archnemon"
+            "Mummymon"
         ]
     },
     "Q1261": {
@@ -7569,19 +7569,19 @@ var QA = {
     "Q1262": {
         "term": "What is the attribute of Lucemon(Rookie-level)?.",
         "responses": [
-            "Vaccine"
+            "Vaccine / Angel-type"
         ]
     },
     "Q1263": {
         "term": "What is the type of Lucemon(Rookie-level)?.",
         "responses": [
-            "Demon Lord-type"
+            "Angel-type"
         ]
     },
     "Q1264": {
         "term": "What is the type of Lucemon: Satan Mode? .",
         "responses": [
-            "Demon Lord-type"
+            "Demon God-type"
         ]
     },
     "Q1265": {
@@ -7665,7 +7665,7 @@ var QA = {
     "Q1278": {
         "term": "What is correct characteristic of Rapidmon Armor? .",
         "responses": [
-            "Aim"
+            "Grace"
         ]
     },
     "Q1279": {
@@ -7779,7 +7779,7 @@ var QA = {
     "Q1297": {
         "term": "Which group defeated Lucemon?.",
         "responses": [
-            "Royal Knights"
+            "Warrior Ten"
         ]
     },
     "Q1298": {
@@ -7797,7 +7797,7 @@ var QA = {
     "Q1300": {
         "term": "Who killed Seraphimon in DIGIMON FRONTIER?.",
         "responses": [
-            "Cherubimon"
+            "Mercuremon"
         ]
     },
     "Q1301": {
@@ -7809,7 +7809,7 @@ var QA = {
     "Q1302": {
         "term": "Which Digizoid is the full body armor worn by Slayerdramon?.",
         "responses": [
-            "Red Digizoid"
+            "Chorme Digizoid"
         ]
     },
     "Q1303": {
@@ -7965,7 +7965,7 @@ var QA = {
     "Q1328": {
         "term": "What is type of Tylomon X?.",
         "responses": [
-            "Aquatic-type"
+            "Sea Dragon-type"
         ]
     },
     "Q1329": {
@@ -8025,7 +8025,7 @@ var QA = {
     "Q1338": {
         "term": "Gawappamon is a Cyborg-type Digimon born from the fusion of a Music Player and the Legendary Animal XX. What is XX?.",
         "responses": [
-            "Turtle"
+            "Kappa"
         ]
     },
     "Q1339": {
@@ -8175,13 +8175,13 @@ var QA = {
     "Q1363": {
         "term": "What is Jijimon's evolution level?.",
         "responses": [
-            "Champion-level"
+            "Mega-level"
         ]
     },
     "Q1364": {
         "term": "How many eyes does Huanglongmon have?.",
         "responses": [
-            "4 eyes"
+            "8 Eyes"
         ]
     },
     "Q1365": {
@@ -8247,7 +8247,7 @@ var QA = {
     "Q1375": {
         "term": "This Digimon has the appearance of a witch, and is known as a rival of Wizarmon. Which Digimon is this?.",
         "responses": [
-            "Mastemon"
+            "Witchmon"
         ]
     },
     "Q1376": {
@@ -8265,13 +8265,13 @@ var QA = {
     "Q1378": {
         "term": "What is the name of Waru Monzaemon’s weapon that immitates “Kuma Tsume” of Gryzmon?.",
         "responses": [
-            "Bear Claw"
+            "Death Claw"
         ]
     },
     "Q1379": {
         "term": "How many tails does Kyubimon have?.",
         "responses": [
-            "6 tails"
+            "9 tails"
         ]
     },
     "Q1380": {
@@ -8319,7 +8319,7 @@ var QA = {
     "Q1387": {
         "term": "How much percentage of ATK increases for 10min, as you use Bigger Steamed Bun in Digimon RPG? .",
         "responses": [
-            "10%"
+            "20%"
         ]
     },
     "Q1388": {
@@ -8379,7 +8379,7 @@ var QA = {
     "Q1397": {
         "term": "Which one is the effect of Royal Base Adventure King, the first clear reward of the 2nd floor of Royal Base?.",
         "responses": [
-            "All stats +15"
+            "All stats +18"
         ]
     },
     "Q1398": {
@@ -8523,7 +8523,7 @@ var QA = {
     "Q1421": {
         "term": "What is Delumon's evolution level?.",
         "responses": [
-            "Champion-level"
+            "Ultimate-level"
         ]
     },
     "Q1422": {
@@ -8679,13 +8679,13 @@ var QA = {
     "Q1447": {
         "term": "What is the type of Dokunemon?.",
         "responses": [
-            "Insect-type"
+            "Larva-type"
         ]
     },
     "Q1448": {
         "term": "Which Digimon is not pre-evolved Digimon of Kunemon?.",
         "responses": [
-            "Pyocomon"
+            "Dokunemon"
         ]
     },
     "Q1449": {
@@ -8697,7 +8697,7 @@ var QA = {
     "Q1450": {
         "term": "Whose In-Training-level Digimon is Gigimon?.",
         "responses": [
-            "Agumon"
+            "Gilmon (typo)"
         ]
     },
     "Q1451": {
@@ -8769,13 +8769,13 @@ var QA = {
     "Q1462": {
         "term": "What is the attribute of Gokuwmon?.",
         "responses": [
-            "Free"
+            "Virus"
         ]
     },
     "Q1463": {
         "term": "What spirit is used in Susanoomon's evolution in DIGIMON FRONTIER?.",
         "responses": [
-            "Double Spirit"
+            "Ancient Spirit"
         ]
     },
     "Q1464": {
@@ -8931,7 +8931,7 @@ var QA = {
     "Q1489": {
         "term": "What is Tortamon's evolution level?.",
         "responses": [
-            "Rookie-level"
+            "Champion-level"
         ]
     },
     "Q1490": {
@@ -8949,7 +8949,7 @@ var QA = {
     "Q1492": {
         "term": "Which one is the correct characteristic of Mummymon?.",
         "responses": [
-            "Wide"
+            "Steel"
         ]
     },
     "Q1493": {
@@ -9009,7 +9009,7 @@ var QA = {
     "Q1502": {
         "term": "Which one is the correct characteristic of Crowmon?.",
         "responses": [
-            "Grace"
+            "None"
         ]
     },
     "Q1503": {
@@ -9033,7 +9033,7 @@ var QA = {
     "Q1506": {
         "term": "Which Digimon's lethal move is Mega Burst?.",
         "responses": [
-            "Megalo Growmon X"
+            "Greymon X"
         ]
     },
     "Q1507": {
@@ -9069,7 +9069,7 @@ var QA = {
     "Q1512": {
         "term": "This Fallen Angel-type Digimon has the appearance that looks like noble. It takes the soul of people at the cost of grating their wish. Which Digimon is this?.",
         "responses": [
-            "Barbamon"
+            "Phelesmon"
         ]
     },
     "Q1513": {
@@ -9153,7 +9153,7 @@ var QA = {
     "Q1526": {
         "term": "What is the motive mythology of Dianamon?.",
         "responses": [
-            "Dionysus"
+            "Artemis"
         ]
     },
     "Q1527": {
@@ -9171,7 +9171,7 @@ var QA = {
     "Q1529": {
         "term": "What is the level of Yukimi Botamon that comes out after answering the correct answer to the question of Digimon RPG quiz?.",
         "responses": [
-            "1"
+            "2"
         ]
     },
     "Q1530": {
@@ -9297,7 +9297,7 @@ var QA = {
     "Q1550": {
         "term": "What is the effect of title Lord of Digimon that can be gained when achieving the Digimon level 110 in Digimon RPG?.",
         "responses": [
-            "STR10 AGI10 increase"
+            "All stats 10 increase"
         ]
     },
     "Q1551": {
@@ -9321,7 +9321,7 @@ var QA = {
     "Q1554": {
         "term": "What is Digimon that its whole body is covered with white and soft cilia?.",
         "responses": [
-            "Yukidarumon"
+            "Yukimi Botamon"
         ]
     },
     "Q1555": {
@@ -9363,19 +9363,19 @@ var QA = {
     "Q1561": {
         "term": "Which one is the correct value of maximum VP increase of Crest of Knowledge +10?.",
         "responses": [
-            "500"
+            "550"
         ]
     },
     "Q1562": {
         "term": "Which one is the correct statue of Leviamon in Digimon RPG?.",
         "responses": [
-            "STR3 AGI2 CON4 INT0"
+            "STR-3 AGI-2 CON-4 INT-0"
         ]
     },
     "Q1563": {
         "term": "You can use 3 'Emperor's Fang' cards at once, so it's usually known as '3 Fangs'. How much damage do you get from '3 Fangs'?.",
         "responses": [
-            "550%"
+            "600%"
         ]
     },
     "Q1564": {
@@ -9423,19 +9423,19 @@ var QA = {
     "Q1571": {
         "term": "What is the stats of Fladramon?.",
         "responses": [
-            "STR4 AGI1 CON2 INT2"
+            "STR-4 AGI-2 CON-2 INT-1"
         ]
     },
     "Q1572": {
         "term": "What is the characteristic of Lilimon in Digimon RPG?.",
         "responses": [
-            "Aiming"
+            "Grace"
         ]
     },
     "Q1573": {
         "term": "What is the name of Metal Greymon X's F3 skill in Digimon RPG?.",
         "responses": [
-            "Trident Arm"
+            "Trident Arm Ver 9.9"
         ]
     },
     "Q1574": {
@@ -9447,7 +9447,7 @@ var QA = {
     "Q1575": {
         "term": "Whose arm is Raijinmon's arm?.",
         "responses": [
-            "Mugendramon"
+            "Rapidmon"
         ]
     },
     "Q1576": {
@@ -9597,19 +9597,19 @@ var QA = {
     "Q1600": {
         "term": "Which Digimon was born from the unknown Digitama of the Earth in DIGIMON ADVENTURE Tri?.",
         "responses": [
-            "Agumon"
+            "Meicoomon"
         ]
     },
     "Q1601": {
         "term": "What is the stats of title Merry Christmas (B)?.",
         "responses": [
-            "AGI 9"
+            "AGI 10"
         ]
     },
     "Q1602": {
         "term": "What is the stats of title New Beginning?.",
         "responses": [
-            "STR 3, INT 3"
+            "INT 3"
         ]
     },
     "Q1603": {
@@ -9627,7 +9627,7 @@ var QA = {
     "Q1605": {
         "term": "What buff do you get as you defeat Alphamon in Alphamon’s room in Royal Base?.",
         "responses": [
-            "HP 5%"
+            "HP 5%"
         ]
     },
     "Q1606": {
@@ -9639,7 +9639,7 @@ var QA = {
     "Q1607": {
         "term": "Which Digimon has different success chances of Digimon Jogress?.",
         "responses": [
-            "Examon"
+            "Belphemon: Rage Mode"
         ]
     },
     "Q1608": {
@@ -9789,7 +9789,7 @@ var QA = {
     "Q1632": {
         "term": "Which Digimon can be Tamed in Digimon RPG?.",
         "responses": [
-            "Dokunemon "
+            "Kunemon"
         ]
     },
     "Q1633": {
@@ -9813,7 +9813,7 @@ var QA = {
     "Q1636": {
         "term": "What is NOT a Betamon evolution tree in Digimon RPG?.",
         "responses": [
-            "Neptunemon"
+            "Gawappamon"
         ]
     },
     "Q1637": {
@@ -9849,7 +9849,7 @@ var QA = {
     "Q1642": {
         "term": "What is Omegamon Zwart's level that appaers by chances on the first floor of Royal Base?.",
         "responses": [
-            "137"
+            "140"
         ]
     },
     "Q1643": {
@@ -9861,7 +9861,7 @@ var QA = {
     "Q1644": {
         "term": "What is the color of party chatting as you chat in parties in Digimon RPG?.",
         "responses": [
-            "Red"
+            "Sky-blue"
         ]
     },
     "Q1645": {
@@ -9879,7 +9879,7 @@ var QA = {
     "Q1647": {
         "term": "What are the chances of Alpha inForce's activation, the exclusive characteristic of Alphamon: Ouryuken, in Digimon RPG?.",
         "responses": [
-            "10%"
+            "30%"
         ]
     },
     "Q1648": {
@@ -9903,7 +9903,7 @@ var QA = {
     "Q1651": {
         "term": "What is Andiramon's attribute?.",
         "responses": [
-            "Data"
+            "Virus"
         ]
     },
     "Q1652": {
@@ -9957,7 +9957,7 @@ var QA = {
     "Q1660": {
         "term": "What is the option of Earring of Light +3?.",
         "responses": [
-            "STR +3"
+            "INT +3"
         ]
     },
     "Q1661": {
@@ -9999,7 +9999,7 @@ var QA = {
     "Q1667": {
         "term": "Which Digimon can't do X-Evolution?.",
         "responses": [
-            "Betamon"
+            "Kunemon"
         ]
     },
     "Q1668": {
@@ -10041,7 +10041,7 @@ var QA = {
     "Q1674": {
         "term": "This Digimon protects and supervises Dark Area. It always supervises Dark Area, to which Digimon that were deleted when their life span finished, or when they were defeated in battle are sent. Which Digimon is this?  .",
         "responses": [
-            "Plutomon"
+            "Anubimon"
         ]
     },
     "Q1675": {
@@ -10149,7 +10149,7 @@ var QA = {
     "Q1692": {
         "term": "What is not correct skill of In-Training-level Digimon?.",
         "responses": [
-            "Metal Drop"
+            "Rolling Stone"
         ]
     },
     "Q1693": {
@@ -10251,7 +10251,7 @@ var QA = {
     "Q1709": {
         "term": "What is the attribute of Imperialdramon: Dragon Mode (Black)?.",
         "responses": [
-            "Unknown"
+            "Virus"
         ]
     },
     "Q1710": {
@@ -10317,7 +10317,7 @@ var QA = {
     "Q1720": {
         "term": "Who was the last boss appeared to protect Yggdrasill from Alphamon and Omegamon in <DIGITAL MONSTER X-EVOLUTION>?.",
         "responses": [
-            "Death-X-mon"
+            "Death-X-Mon"
         ]
     },
     "Q1721": {
@@ -10383,7 +10383,7 @@ var QA = {
     "Q1731": {
         "term": "How many Holy Rings does Ultimate Chaosmon have?.",
         "responses": [
-            "None"
+            "1 Holy Ring"
         ]
     },
     "Q1732": {
@@ -10539,7 +10539,7 @@ var QA = {
     "Q1757": {
         "term": "Four Holy Beasts command their own Deva Digimons. Which one does not belong to Deva Digimons of Xuanwumon?.",
         "responses": [
-            "Vikaralamon"
+            "Pajiramon"
         ]
     },
     "Q1758": {
@@ -10605,13 +10605,13 @@ var QA = {
     "Q1768": {
         "term": "Which element attribute is strong to normal element attribute?.",
         "responses": [
-            "Wind"
+            "Darkness"
         ]
     },
     "Q1769": {
         "term": "Which element attribute is strong to metal element attribute?.",
         "responses": [
-            "Land"
+            "Electricity"
         ]
     },
     "Q1770": {
@@ -10629,7 +10629,7 @@ var QA = {
     "Q1772": {
         "term": "Which element attribute is strong to ice element attribute?.",
         "responses": [
-            "Wood"
+            "Normal"
         ]
     },
     "Q1773": {
@@ -10641,13 +10641,13 @@ var QA = {
     "Q1774": {
         "term": "Which element attribute is weak to water element attribute?.",
         "responses": [
-            "Darkness"
+            "Fire"
         ]
     },
     "Q1775": {
         "term": "Which element attribute is weak to fire element attribute?.",
         "responses": [
-            "Electricity"
+            "Wind"
         ]
     },
     "Q1776": {
@@ -10665,7 +10665,7 @@ var QA = {
     "Q1778": {
         "term": "Which one is the correct element attribute of Mastemon?.",
         "responses": [
-            "Wind, Darkness"
+            "Light, Darkness"
         ]
     },
     "Q1779": {
@@ -10743,7 +10743,7 @@ var QA = {
     "Q1791": {
         "term": "How much data does Guilmon have? .",
         "responses": [
-            "12G"
+            "15G"
         ]
     },
     "Q1792": {
@@ -10803,7 +10803,7 @@ var QA = {
     "Q1801": {
         "term": "What is Lampmon's evolution level?.",
         "responses": [
-            "Champion"
+            "Mega"
         ]
     },
     "Q1802": {
@@ -10851,7 +10851,7 @@ var QA = {
     "Q1809": {
         "term": "What attribute does Tinkermon have?.",
         "responses": [
-            "Vaccine"
+            "Virus"
         ]
     },
     "Q1810": {
@@ -11025,7 +11025,7 @@ var QA = {
     "Q1838": {
         "term": "What is the evolution level of Tyilinmon?.",
         "responses": [
-            "Champion"
+            "Ultimate"
         ]
     },
     "Q1839": {
@@ -11271,7 +11271,7 @@ var QA = {
     "Q1879": {
         "term": "How much data does Dinotigermon have? .",
         "responses": [
-            "70G"
+            "71G"
         ]
     },
     "Q1880": {
@@ -11289,7 +11289,7 @@ var QA = {
     "Q1882": {
         "term": "What attribute does Dianamon have?  .",
         "responses": [
-            "Vaccine"
+            "Data"
         ]
     },
     "Q1883": {
@@ -11319,7 +11319,7 @@ var QA = {
     "Q1887": {
         "term": "What attribute does Neo Vamdemon have? .",
         "responses": [
-            "Vaccine"
+            "Virus"
         ]
     },
     "Q1888": {
@@ -11355,13 +11355,13 @@ var QA = {
     "Q1893": {
         "term": "What is Aegiochusmon: Holy's evolution level?.",
         "responses": [
-            "Champion"
+            "Ultimate"
         ]
     },
     "Q1894": {
         "term": "What attributes does Aegiochusmon: Dark have?.",
         "responses": [
-            "Unknown"
+            "Vaccine"
         ]
     },
     "Q1895": {
@@ -11391,7 +11391,7 @@ var QA = {
     "Q1899": {
         "term": "What attribute does Blitzmon have?.",
         "responses": [
-            "Virus"
+            "Variables"
         ]
     },
     "Q1900": {
@@ -11427,7 +11427,7 @@ var QA = {
     "Q1905": {
         "term": "What attribute does Betsumon have?.",
         "responses": [
-            "Vaccine"
+            "Virus"
         ]
     },
     "Q1906": {
@@ -11451,7 +11451,7 @@ var QA = {
     "Q1909": {
         "term": "Which one is not correct feature of Lilithmon?  .",
         "responses": [
-            "Sharpshooter"
+            "Elasticity"
         ]
     },
     "Q1910": {
@@ -11481,7 +11481,7 @@ var QA = {
     "Q1914": {
         "term": "What attribute does Lotusmon have? .",
         "responses": [
-            "Vaccine"
+            "Data"
         ]
     },
     "Q1915": {
@@ -11505,19 +11505,19 @@ var QA = {
     "Q1918": {
         "term": "What is the evolution level of Lekismon?.",
         "responses": [
-            "Rookie"
+            "Rookie (other sources say Champion)"
         ]
     },
     "Q1919": {
         "term": "What is the correct attribute of Dynasmon X?.",
         "responses": [
-            "Devotion"
+            "Double Attack - Amplification"
         ]
     },
     "Q1920": {
         "term": "What is correct status of Dynasmon X?.",
         "responses": [
-            "STR2 AGI1 CON3 INT1"
+            "STR-2 AGI-1 CON-3 INT-1"
         ]
     },
     "Q1921": {
@@ -11529,7 +11529,7 @@ var QA = {
     "Q1922": {
         "term": "What is the correct element attribute of Chibimon?.",
         "responses": [
-            "Darkness"
+            "Normal"
         ]
     },
     "Q1923": {
@@ -11541,7 +11541,7 @@ var QA = {
     "Q1924": {
         "term": "Which is the correct data of Magnamon?.",
         "responses": [
-            "15G"
+            "Unknown"
         ]
     },
     "Q1925": {
@@ -11649,7 +11649,7 @@ var QA = {
     "Q1942": {
         "term": "Which one is not correct Digimon that Otamamon evolved into?.",
         "responses": [
-            "Prince Mamemon"
+            "Tonosama Mamemon"
         ]
     },
     "Q1943": {
@@ -11691,13 +11691,13 @@ var QA = {
     "Q1949": {
         "term": "What is the ability of Gengomon?.",
         "responses": [
-            "Search"
+            "Translation"
         ]
     },
     "Q1950": {
         "term": "What is the ability of Jetmon?.",
         "responses": [
-            "Jet"
+            "Flight"
         ]
     },
     "Q1951": {
@@ -11715,7 +11715,7 @@ var QA = {
     "Q1953": {
         "term": "What is the ability of Kosomon? .",
         "responses": [
-            "Contacts"
+            "Talk behind"
         ]
     },
     "Q1954": {
@@ -11757,7 +11757,7 @@ var QA = {
     "Q1960": {
         "term": "Which Digimon has super mobility and maneuvers every system immediately no matter how cryptic it is? .",
         "responses": [
-            "Libramon"
+            "Bootmon"
         ]
     },
     "Q1961": {
@@ -11799,7 +11799,7 @@ var QA = {
     "Q1967": {
         "term": "Which is not Burst Mode Digimon?.",
         "responses": [
-            "Bancho Leomon: Burst Mode"
+            "Gaioumon: Burst Mode"
         ]
     },
     "Q1968": {
@@ -11817,7 +11817,7 @@ var QA = {
     "Q1970": {
         "term": "Which item can be purchased in Tsuchidarumon Village's Card Store in Digimon RPG?.",
         "responses": [
-            "High-speed plug-in B"
+            "High-Speed plug-in B"
         ]
     },
     "Q1971": {
@@ -11841,7 +11841,7 @@ var QA = {
     "Q1974": {
         "term": "Who is the 7th encounter villain Digimon in Darkness Dungeon HARD mode?.",
         "responses": [
-            "Yatagaramon "
+            "Volcamon"
         ]
     },
     "Q1975": {
@@ -11853,13 +11853,13 @@ var QA = {
     "Q1976": {
         "term": "Who is the 18th encounter villain Digimon in Darkness Dungeon HARD mode?.",
         "responses": [
-            "Gaomon"
+            "Mach Gaogamon"
         ]
     },
     "Q1977": {
         "term": "How many stages, including hidden stage does Darkness Dungeon HARD mode have?.",
         "responses": [
-            "29"
+            "31"
         ]
     },
     "Q1978": {
@@ -11877,7 +11877,7 @@ var QA = {
     "Q1980": {
         "term": "What is the name of an item for all party members that takes 1st place on weekly ranking of Darkness Dungeon HARD mode?.",
         "responses": [
-            "Belphemon Conqueror"
+            "Belphemon Slayer"
         ]
     },
     "Q1981": {
@@ -11895,7 +11895,7 @@ var QA = {
     "Q1983": {
         "term": "What is the name of F3 Skill of Ogudomon in Digimon RPG?.",
         "responses": [
-            "Oggdo'ad"
+            "Oratio Grandioloqua"
         ]
     },
     "Q1984": {
@@ -11931,7 +11931,7 @@ var QA = {
     "Q1989": {
         "term": "How many pairs of wings does Black Seraphimon have?.",
         "responses": [
-            "4"
+            "5"
         ]
     },
     "Q1990": {
@@ -11967,7 +11967,7 @@ var QA = {
     "Q1995": {
         "term": "Which one is not correct evolution condition of Black Seraphimon?.",
         "responses": [
-            "Tamer Level 201"
+            "Winning rate 75%"
         ]
     },
     "Q1996": {
@@ -11979,7 +11979,7 @@ var QA = {
     "Q1997": {
         "term": "In which area doesn't treasure box appear?.",
         "responses": [
-            "Darkness Dungeon 2F"
+            "Dungeon of darkness hard"
         ]
     },
     "Q1998": {
@@ -12021,7 +12021,7 @@ var QA = {
     "Q2004": {
         "term": "How many legs does Ogudomon have?.",
         "responses": [
-            "5 legs"
+            "7 legs"
         ]
     },
     "Q2005": {
@@ -12039,7 +12039,7 @@ var QA = {
     "Q2007": {
         "term": "This Digimon can't stop flyin until it evolves into next Digimon. What is this Digimon?.",
         "responses": [
-            "Puroromon"
+            "Missimon"
         ]
     },
     "Q2008": {
@@ -12123,7 +12123,7 @@ var QA = {
     "Q2021": {
         "term": "Which Digimental is necessary for V-mon's evolution into Lighdramon?.",
         "responses": [
-            "Digimental of Lightning"
+            "Digimental of Friendship"
         ]
     },
     "Q2022": {
@@ -12141,7 +12141,7 @@ var QA = {
     "Q2024": {
         "term": "Which Digimon has eight heads?.",
         "responses": [
-            "Vulcanusmon"
+            "Orochimon"
         ]
     },
     "Q2025": {
@@ -12165,13 +12165,13 @@ var QA = {
     "Q2028": {
         "term": "What is the name of rose shield used for battles by Lord Knightmon X?.",
         "responses": [
-            "Rudriya Darpaṇa"
+            "Roses Pile Bunker"
         ]
     },
     "Q2029": {
         "term": "What is the name of weapon that Vritramon uses?.",
         "responses": [
-            "Rudriya Darpaṇa"
+            "Rudriya Darpara"
         ]
     },
     "Q2030": {
@@ -12183,7 +12183,7 @@ var QA = {
     "Q2031": {
         "term": "How much is the damage effect of Holy Orb?.",
         "responses": [
-            "40%"
+            "50%"
         ]
     },
     "Q2032": {
@@ -12201,7 +12201,7 @@ var QA = {
     "Q2034": {
         "term": "There is a theory that the shadow part under the main body of Bakemon is [ ]. What is [ ] ?.",
         "responses": [
-            "Entrance of Abyss Sanctuary"
+            "Black Hole"
         ]
     },
     "Q2035": {
@@ -12231,7 +12231,7 @@ var QA = {
     "Q2039": {
         "term": "What is this Demon Beast Digimon that inhabits in the dark forest that is spread vast across the Dark Area?.",
         "responses": [
-            "Gran Kuwagamon"
+            "Phascomon"
         ]
     },
     "Q2040": {
@@ -12249,19 +12249,19 @@ var QA = {
     "Q2042": {
         "term": "Which Digimon is in charge of dealing with ice and water among Olympos XII (Twelve Gods of Olympus) ?.",
         "responses": [
-            "Neptunemon"
+            "Dianamon"
         ]
     },
     "Q2043": {
         "term": "Which Digimon can't fly?.",
         "responses": [
-            "Birdramon"
+            "Toucanmon"
         ]
     },
     "Q2044": {
         "term": "Which Digimon is hostile to Tyrannomon?.",
         "responses": [
-            "Greymon"
+            "Allomon"
         ]
     },
     "Q2045": {
@@ -12303,7 +12303,7 @@ var QA = {
     "Q2051": {
         "term": "What made the body of Black Mach Gaogamon turn into black form?.",
         "responses": [
-            "Black Digizoid"
+            "Black Digitron"
         ]
     },
     "Q2052": {
@@ -12321,7 +12321,7 @@ var QA = {
     "Q2054": {
         "term": "What is this Mega-level Digimon that Devimon became by accepting minus data to its limit?.",
         "responses": [
-            "Neo Devimon"
+            "Done Devimon"
         ]
     },
     "Q2055": {
@@ -12495,13 +12495,13 @@ var QA = {
     "Q2083": {
         "term": "Which Digimon did Taichi meet for the first time after being transferred to the Digital World?.",
         "responses": [
-            "Black War Greymon"
+            "Koromon"
         ]
     },
     "Q2084": {
         "term": "Which Digimon became a friend with Patamon after being defeated at the end of a tug-of-war?.",
         "responses": [
-            "Piyomon"
+            "Elecmon"
         ]
     },
     "Q2085": {
@@ -12537,7 +12537,7 @@ var QA = {
     "Q2090": {
         "term": "Which Digimon shallowed the Chosen Children when they were crossing to the new continent in DIGIMON ADVENTURE?.",
         "responses": [
-            "Blastmon"
+            "Whamon"
         ]
     },
     "Q2091": {
@@ -12561,13 +12561,13 @@ var QA = {
     "Q2094": {
         "term": "Which Digimon disrupted the relationship between Takaishi Takeru and Tokomon?.",
         "responses": [
-            "Metal Etemon"
+            "Pico Devimon"
         ]
     },
     "Q2095": {
         "term": "Which one is the correct Digimon that killed Leomon?.",
         "responses": [
-            "Devimon"
+            "Beelzebumon"
         ]
     },
     "Q2096": {
@@ -12615,7 +12615,7 @@ var QA = {
     "Q2103": {
         "term": "Which of the following is not an Extra Characteristic Capsule (Attack)?.",
         "responses": [
-            "Dirty Strike"
+            "Madness"
         ]
     },
     "Q2104": {
@@ -12633,7 +12633,7 @@ var QA = {
     "Q2106": {
         "term": "What is the name of the item that you can receive as a reward whenever you reach a certain level by cultivating a Yukimi Botamon?.",
         "responses": [
-            "Snowball"
+            "Pass Coin"
         ]
     },
     "Q2107": {
@@ -12675,19 +12675,19 @@ var QA = {
     "Q2113": {
         "term": "In which map can you meet NPC Ms. Asanuma Nami, who is in charge of guild-related tasks?.",
         "responses": [
-            "Digital Administrative Bureau"
+            "Park Town"
         ]
     },
     "Q2114": {
         "term": "Which of the following is not a color to choose from when using a Megaphone?.",
         "responses": [
-            "Red"
+            "Yellow"
         ]
     },
     "Q2115": {
         "term": "What was the name of the item you could receive if you cleared all the quests of 'Free V-mon Event'?.",
         "responses": [
-            "DigiMemory (B)"
+            "Gennal's Certificate"
         ]
     },
     "Q2116": {
@@ -12723,7 +12723,7 @@ var QA = {
     "Q2121": {
         "term": "Which of the following is not an item that can be obtained when hunting a Digimon during Cherubimon's Moon-viewing Event?.",
         "responses": [
-            "A Piece of Cloth"
+            "Evening-primrose"
         ]
     },
     "Q2122": {
@@ -12921,13 +12921,13 @@ var QA = {
     "Q2154": {
         "term": "Which -Field- is the following description about? [Generic monsters and beasts. Also represents grasslands and canyons.].",
         "responses": [
-            "Metal Empire"
+            "Nature Spirits"
         ]
     },
     "Q2155": {
         "term": "Which -Field- is the following description about? [Aquatic or ice-related Digimon. Can represent the ocean or arctic.].",
         "responses": [
-            "Wind Guardians"
+            "Deep Savers"
         ]
     },
     "Q2156": {
@@ -12951,7 +12951,7 @@ var QA = {
     "Q2159": {
         "term": "Which -Field- is the following description about? [Mutant, unusual, or strange Digimon. Can represent junkyards and other strange places.].",
         "responses": [
-            "Virus Busters"
+            "Unknown"
         ]
     },
     "Q2160": {
@@ -12981,7 +12981,7 @@ var QA = {
     "Q2164": {
         "term": "Which -Group- is the following description about? [Thirteen extremely powerful Holy Knight-type Digimon that protect order in the Digital World.].",
         "responses": [
-            "Crack Team"
+            "Royal Knights"
         ]
     },
     "Q2165": {
@@ -13053,7 +13053,7 @@ var QA = {
     "Q2176": {
         "term": "Which 'Patch Note Version' has the 'Digimon Title Collection' system added?.",
         "responses": [
-            "1.09 Update"
+            "1.10 Update"
         ]
     },
     "Q2177": {
@@ -13065,7 +13065,7 @@ var QA = {
     "Q2178": {
         "term": "What is the effect of the 'Digimon Title Collection' that is activated when 15 Digimon Titles are collected?.",
         "responses": [
-            "ATK +10"
+            "AGI +10"
         ]
     },
     "Q2179": {
@@ -13347,7 +13347,7 @@ var QA = {
     "Q2225": {
         "term": "How much is the 'Megidramon X Evolution Set Box' sold at In-Game Shop?.",
         "responses": [
-            "750 Crown"
+            "1,000 Crown"
         ]
     },
     "Q2226": {
@@ -13395,7 +13395,7 @@ var QA = {
     "Q2233": {
         "term": "Which Digimon correspond to Ancient Beast-type?.",
         "responses": [
-            "Dinotigermon"
+            "Marin Devimon"
         ]
     },
     "Q2234": {
@@ -13407,7 +13407,7 @@ var QA = {
     "Q2235": {
         "term": "What item is the following description for? [A costume of a poor deer who is exploited by a certain grandfather every Christmas every year.].",
         "responses": [
-            "Nu-reong-i Costume"
+            "Rudolph Costume"
         ]
     }
 };
