@@ -1841,7 +1841,7 @@ var QA =  {
     },
 
     "q428": {
-        "term": "Wich one is the correct effect option of 'Snoring [Title]'?",
+        "term": "Which one is the correct effect option of 'Snoring [Title]'?",
         "responses": ["AGI +5, CON +5"]
     },
 
@@ -1881,7 +1881,7 @@ var QA =  {
     },
 
     "q436": {
-        "term": "What is the Virus-attribute Digimon, wich evolved from Flare Lizarmon?",
+        "term": "What is the Virus-attribute Digimon, which evolved from Flare Lizarmon?",
         "responses": ["Dark Lizamon"]
     },
 
@@ -1981,7 +1981,7 @@ var QA =  {
     },
 
     "q456": {
-        "term": "There is a Holy Ring in Tailmon's body, in wich part of it's body is the ring? (Needs text improvement)",
+        "term": "There is a Holy Ring on Tailmon's body, on which part is it on",
         "responses": ["Tail"]
     },
 
@@ -2001,7 +2001,7 @@ var QA =  {
     },
 
     "q460": {
-        "term": "This Digimon is called Super Demon Lord Digimon that contains every 7 sin of Seven Demon Lord Digimon and excels the power of them. Wich Digimon is this?",
+        "term": "This Digimon is called Super Demon Lord Digimon that contains every 7 sin of Seven Demon Lord Digimon and excels the power of them. Which Digimon is this?",
         "responses": ["Ogudomon"]
     },
 
@@ -2278,7 +2278,7 @@ var QA =  {
         "responses": ["All stats +13 / ATK +1%"]
     },
     "q521": {
-        "term": "Thi Digimon is a grotesque Super Demon Lord wich has Seven Deadly Sins of the Seven Great Demon Lords. Which Digimon is this?",
+        "term": "Thi Digimon is a grotesque Super Demon Lord which has Seven Deadly Sins of the Seven Great Demon Lords. Which Digimon is this?",
         "responses": ["Ogudomon"]
     },
     "q522": {
