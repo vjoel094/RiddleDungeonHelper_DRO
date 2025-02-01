@@ -39,7 +39,7 @@ var QA = {
     "Q7": {
         "term": "What is the name of the bird Valkyrimon carries around?.",
         "responses": [
-            "Froyja"
+            "Freyja"
         ]
     },
     "Q8": {
