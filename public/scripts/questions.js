@@ -51,7 +51,7 @@ var QA = {
     "Q9": {
         "term": "What kind of Digizoid forms the armour of Craniummon?.",
         "responses": [
-            "Red Digizoid"
+            "Black Digizoid"
         ]
     },
     "Q10": {
