@@ -3413,10 +3413,6 @@ var QA =  {
         "term": "This Digimon's lethal move, Blitz Arm ...",
         "responses": ["Raijinmon"]
     },
-    "q805": {
-        "term": "What is Big Mamemon's evolution level?",
-        "responses": ["Ultimate-level"]
-    },
     "q806": {
         "term": "What is the name of Examon's Exclusive Characteristic?",
         "responses": ["Dragon Emperor"]
@@ -3772,10 +3768,6 @@ var QA =  {
     "q894": {
         "term": "The word Millennium of Zeed Millenniumon originated ...",
         "responses": ["1000 years"]
-    },
-    "q895": {
-        "term": "What is Big Mamemon's evolution level?",
-        "responses": ["Ultimate"]
     },
     "q896": {
         "term": "What is the stats of Filmon",
