@@ -3033,10 +3033,6 @@ var QA =  {
         "term": "Medieval Dukemon has the weapon created by magic. ...",
         "responses": ["Wyvern - Dynas"]
     },
-    "q710": {
-        "term": "How old is Kimura Kouichi in the animation <DIGIMON FRONTIER>?",
-        "responses": ["November 12,"]
-    },
     "q711": {
         "term": "Who was the director of DIGIMON ADVENTURE Tri?",
         "responses": ["Motonaga Keitaro"]
@@ -3076,10 +3072,6 @@ var QA =  {
     "q720": {
         "term": "What Digimon can be exchanged with 'Exchange Ticket : Super Ultimate (Virus)?'",
         "responses": ["Death-X-mon"]
-    },
-    "q721": {
-        "term": "How many legs does Ogudomon have?",
-        "responses": ["7"]
     },
     "q722": {
         "term": "Rosemon X has 'The Jewel' carved on it's chest ...",
@@ -3379,7 +3371,7 @@ var QA =  {
     },
     "q796": {
         "term": "What is the type of Blucomon?",
-        "responses": ["Beast Dragon-type (responses 4)"]
+        "responses": ["Small Dragon-type"]
     },
     "q797": {
         "term": "According to the Digimon Lore, how long can God Bless of Craniummon's Skill invalidate attacks?",
@@ -4143,7 +4135,7 @@ var QA =  {
     },
     "q990": {
         "term": "What is the type of ancient irismon?",
-        "responses": ["Ancient bird-man"]
+        "responses": [Ancient Bird Human-type"]
     },
     "q991": {
         "term": "Metal greymon(blue) could not endure it when being transformed ...",
@@ -4822,12 +4814,6 @@ var QA =  {
         "responses": ["Hiroki Takahashi"]
     },
     //New Questions need to be checked
-    "Q1160": {
-        "term": "Which of the following is not the Digimental-Evolution version of Hawkmon?.",
-        "responses": [
-            "Rinkmon"
-        ]
-    },
     "Q1161": {
         "term": "What is the name of the bird Valkyrimon carries around?.",
         "responses": [
@@ -5401,7 +5387,7 @@ var QA =  {
     "Q1256": {
         "term": "Which of the following cannot be gained with DigiCode (V)?.",
         "responses": [
-            "Digimon's Blessing"
+            "Growth's EXP Scroll 2X"
         ]
     },
     "Q1257": {
@@ -5413,7 +5399,7 @@ var QA =  {
     "Q1258": {
         "term": "Which of the following cannot be gained with DigiCode (V)?.",
         "responses": [
-            "Aura T of Deva [1 Day]"
+            "Over Program"
         ]
     },
     "Q1259": {
@@ -5803,7 +5789,7 @@ var QA =  {
     "Q1323": {
         "term": "Which of the following is not the Digimental-Evolution version of Hawkmon?.",
         "responses": [
-            "Shurimon"
+            "Bitmon"
         ]
     },
     "Q1324": {
@@ -5896,12 +5882,6 @@ var QA =  {
             "0.03"
         ]
     },
-    "Q1339": {
-        "term": "What is the percentage of succeeding reinforcement from Avatar +7 to Avatar +8?.",
-        "responses": [
-            "0.05"
-        ]
-    },
     "Q1340": {
         "term": "What kind of Digizoid forms the holy armor of Ulforce V-dramon?.",
         "responses": [
@@ -5953,7 +5933,7 @@ var QA =  {
     "Q1348": {
         "term": "How old is Kimura Kouichi in the animation <DIGIMON FRONTIER>?.",
         "responses": [
-            "10 years old"
+            "11 years old"
         ]
     },
     "Q1349": {
@@ -6104,12 +6084,6 @@ var QA =  {
         "term": "What is the level of Leviamon's clone in the Waterspace?.",
         "responses": [
             "Lv.165"
-        ]
-    },
-    "Q1374": {
-        "term": "What is the percentage of succeeding reinforcement from Avatar +7 to Avatar +8?.",
-        "responses": [
-            "0.05"
         ]
     },
     "Q1375": {
@@ -7819,7 +7793,7 @@ var QA =  {
     "Q1659": {
         "term": "What is the type of Blucomon?.",
         "responses": [
-            "Holy Dragon-type"
+            "Beast Dragon-type"
         ]
     },
     "Q1660": {
@@ -8311,7 +8285,7 @@ var QA =  {
     "Q1741": {
         "term": "What is the type of Hexeblaumon?.",
         "responses": [
-            "Warrior-type"
+            "Magic Knight-type"
         ]
     },
     "Q1742": {
@@ -8494,12 +8468,6 @@ var QA =  {
             "LucemonX"
         ]
     },
-    "Q1772": {
-        "term": "How many legs does Ogudomon have?.",
-        "responses": [
-            "4"
-        ]
-    },
     "Q1773": {
         "term": "What is the type of Clavis Angemon that protects the Zenith Digital Gate dividing the outer world of Digital World?.",
         "responses": [
@@ -8530,12 +8498,6 @@ var QA =  {
             "Vaccine"
         ]
     },
-    "Q1778": {
-        "term": "What is the type of Ancient Irismon?.",
-        "responses": [
-            "Ancient Bird-type"
-        ]
-    },
     "Q1779": {
         "term": "What is the attribute of Ancient Wisemon?.",
         "responses": [
@@ -8552,12 +8514,6 @@ var QA =  {
         "term": "Which is one of Warrior Ten Digimon that saved Digital World with Ice-attribute?.",
         "responses": [
             "Ancient Garurumon"
-        ]
-    },
-    "Q1782": {
-        "term": "How much data does Jumbo Gamemon have?.",
-        "responses": [
-            "35G"
         ]
     },
     "Q1783": {
@@ -8804,12 +8760,6 @@ var QA =  {
         "term": "What is the type of Clear Agumon?.",
         "responses": [
             "Bewitching Bird-type"
-        ]
-    },
-    "Q1824": {
-        "term": "What is the type of Hexeblaumon?.",
-        "responses": [
-            "Knight-type"
         ]
     },
     "Q1825": {
@@ -9142,12 +9092,6 @@ var QA =  {
             "Cutemon"
         ]
     },
-    "Q1880": {
-        "term": "What is the type of Mad Leomon?.",
-        "responses": [
-            "Beast Knight-type"
-        ]
-    },
     "Q1881": {
         "term": "The general of the Fire-fury Army of the \"Big Death-Stars\". It leads a multitude of dragon Digimon in perfect order, and destroys its enemies with its overwhelming battle strength, in any kind of combat situation. Which Digimon is this?.",
         "responses": [
@@ -9158,12 +9102,6 @@ var QA =  {
         "term": "How much data does Death Meramon have?.",
         "responses": [
             "20G"
-        ]
-    },
-    "Q1883": {
-        "term": "How much data does Jumbo Gamemon have?.",
-        "responses": [
-            "30G"
         ]
     },
     "Q1884": {
@@ -9490,12 +9428,6 @@ var QA =  {
             "3G"
         ]
     },
-    "Q1938": {
-        "term": "What is the type of Blucomon?.",
-        "responses": [
-            "Evil Dramon-type"
-        ]
-    },
     "Q1939": {
         "term": "What is the name of weapon that “Sistermon Blanc” holds?.",
         "responses": [
@@ -9578,12 +9510,6 @@ var QA =  {
         "term": "The destructive power of “Justice Kick”, the lethal move of Justimon, is said to reach XX tons. How many tons is it?.",
         "responses": [
             "35t"
-        ]
-    },
-    "Q1953": {
-        "term": "What is the type of Ancient Irismon?.",
-        "responses": [
-            "Ancient Bird-type"
         ]
     },
     "Q1954": {
@@ -10184,12 +10110,6 @@ var QA =  {
         "term": "Which one is the correct attribute of JESmon?.",
         "responses": [
             "Vaccine"
-        ]
-    },
-    "Q2054": {
-        "term": "What is the type of Mad Leomon?.",
-        "responses": [
-            "Undead-type"
         ]
     },
     "Q2055": {
@@ -11248,12 +11168,6 @@ var QA =  {
             "MAC-10"
         ]
     },
-    "Q2232": {
-        "term": "How many legs does Ogudomon have?.",
-        "responses": [
-            "5 legs"
-        ]
-    },
     "Q2233": {
         "term": "What is the name of weapon that Panjyamon X uses?.",
         "responses": [
@@ -11305,13 +11219,13 @@ var QA =  {
     "Q2241": {
         "term": "Which Digimon has different type?.",
         "responses": [
-            "War Greymon"
+            "Kaiser Greymon"
         ]
     },
     "Q2242": {
         "term": "How much data does Gaioumon have?.",
         "responses": [
-            "55G"
+            "56G"
         ]
     },
     "Q2243": {
@@ -11420,12 +11334,6 @@ var QA =  {
         "term": "Which Digimon officially has the biggest size?.",
         "responses": [
             "Examon"
-        ]
-    },
-    "Q2261": {
-        "term": "How much data does Gaioumon have?.",
-        "responses": [
-            "50GB"
         ]
     },
     "Q2262": {
@@ -11575,7 +11483,7 @@ var QA =  {
     "Q2286": {
         "term": "Which one is not a Tamer [Front] Title?.",
         "responses": [
-            "Cutesy"
+            "Soccer Maniac"
         ]
     },
     "Q2287": {
@@ -11593,7 +11501,7 @@ var QA =  {
     "Q2289": {
         "term": "Which one is a Tamer [Back] Title?.",
         "responses": [
-            "Fading"
+            "Duke"
         ]
     },
     "Q2290": {
@@ -11653,13 +11561,13 @@ var QA =  {
     "Q2299": {
         "term": "Which one is not a Tamer [Front] Title?.",
         "responses": [
-            "Barking"
+            "Mean"
         ]
     },
     "Q2300": {
         "term": "Which one is not a Tamer [Back] Title?.",
         "responses": [
-            "Rudolph"
+            "The Black"
         ]
     },
     "Q2301": {
@@ -12073,25 +11981,19 @@ var QA =  {
     "Q2369": {
         "term": "Which one is not a Tamer [Front] Title?.",
         "responses": [
-            "Cynical"
+            "Summer"
         ]
     },
     "Q2370": {
         "term": "Which one is not a Tamer [Back] Title?.",
         "responses": [
-            "Child"
+            "Cutesy"
         ]
     },
     "Q2371": {
         "term": "Which one is a Tamer [Front] Title?.",
         "responses": [
             "Fading"
-        ]
-    },
-    "Q2372": {
-        "term": "Which one is a Tamer [Back] Title?.",
-        "responses": [
-            "Loving"
         ]
     },
     "Q2373": {
