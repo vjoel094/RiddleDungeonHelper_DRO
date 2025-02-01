@@ -1,4 +1,3 @@
-
 var QA =  {
     "q1": {
         "term": "Which Digimon doesn't have the characteristic 'midair'?",
