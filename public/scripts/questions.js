@@ -11008,12 +11008,6 @@ var QA =  {
             "Great Eagle of the Desert"
         ]
     },
-    "Q2191": {
-        "term": "What is correct status of Dynasmon X?.",
-        "responses": [
-            "STR2 AGI1 CON3 INT1"
-        ]
-    },
     "Q2192": {
         "term": "What is F1 Skill of Imperialdramon: Paladin Mode?.",
         "responses": [
