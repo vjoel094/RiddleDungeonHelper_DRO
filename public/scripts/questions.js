@@ -9313,12 +9313,6 @@ var QA =  {
             "Ancient Beast-type"
         ]
     },
-    "Q1919": {
-        "term": "How many tails does Kyubimon have?.",
-        "responses": [
-            "6 tails"
-        ]
-    },
     "Q1920": {
         "term": "The chords produced from the three holes at the tip of its tongue and the ad-libbing of the horn allow it to control the feeling of opponent. How many holes are on the tip of Gekomon’s tongue?.",
         "responses": [
